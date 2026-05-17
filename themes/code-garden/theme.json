@@ -9,28 +9,28 @@
     "primary": "#728eab",
     "primaryText": "#f7fff8",
     "primaryContainer": "#4d5f73",
-    "secondary": "#8477b0",
+    "secondary": "#76af99",
     "surface": "#2d3441",
-    "surfaceText": "#b4a9d5",
+    "surfaceText": "#c3d6ca",
     "surfaceVariant": "#3a4a51",
-    "surfaceVariantText": "#a6a2be",
+    "surfaceVariantText": "#a8bdb2",
     "surfaceTint": "#728eab",
     "background": "#242d36",
-    "backgroundText": "#b4a9d5",
-    "outline": "#807c9c",
+    "backgroundText": "#c3d6ca",
+    "outline": "#7fa894",
     "surfaceContainer": "#3b3f53",
     "surfaceContainerHigh": "#3c4858",
     "surfaceContainerHighest": "#405458",
     "error": "#ffb4ab",
     "warning": "#76af99",
-    "info": "#8477b0"
+    "info": "#8ba2ba"
   },
   "light": {
     "name": "Code Garden Light",
     "primary": "#8ba2ba",
     "primaryText": "#101410",
     "primaryContainer": "#abbbcc",
-    "secondary": "#a49ac5",
+    "secondary": "#7fa894",
     "surface": "#d4dde4",
     "surfaceText": "#323e4b",
     "surfaceVariant": "#cad9dc",
@@ -44,7 +44,7 @@
     "surfaceContainerHighest": "#c5d7d8",
     "error": "#ba1a1a",
     "warning": "#9cc5b6",
-    "info": "#a49ac5"
+    "info": "#8ba2ba"
   },
   "wallpapers": [
     {
@@ -277,7 +277,7 @@
     }
   ],
   "window": {
-    "borderColor": "#807c9c",
+    "borderColor": "#7fa894",
     "borderActiveColor": "#728eab",
     "borderInactiveColor": "#3a4a51",
     "borderSize": 2,
