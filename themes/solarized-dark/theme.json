@@ -1,0 +1,235 @@
+{
+  "id": "solarizedDark",
+  "name": "Solarized Dark",
+  "version": "0.1.2",
+  "author": "HyDE community, converted for HypeShell",
+  "description": "Solarized Dark based theme for HyDE",
+  "dark": {
+    "name": "Solarized Dark Dark",
+    "primary": "#217dba",
+    "primaryText": "#f7fff8",
+    "primaryContainer": "#15597f",
+    "secondary": "#254e4a",
+    "surface": "#0b3440",
+    "surfaceText": "#869e9a",
+    "surfaceVariant": "#0f4d49",
+    "surfaceVariantText": "#96aca9",
+    "surfaceTint": "#217dba",
+    "background": "#08313f",
+    "backgroundText": "#869e9a",
+    "outline": "#597779",
+    "surfaceContainer": "#0f3842",
+    "surfaceContainerHigh": "#10445b",
+    "surfaceContainerHighest": "#11584e",
+    "error": "#ffb4ab",
+    "warning": "#22bf74",
+    "info": "#254e4a"
+  },
+  "light": {
+    "name": "Solarized Dark Light",
+    "primary": "#4994c6",
+    "primaryText": "#f7fff8",
+    "primaryContainer": "#7ab0d4",
+    "secondary": "#5e7c79",
+    "surface": "#bbdae7",
+    "surfaceText": "#0c3f55",
+    "surfaceVariant": "#abd8d9",
+    "surfaceVariantText": "#2f5665",
+    "surfaceTint": "#4994c6",
+    "background": "#b0cfe3",
+    "backgroundText": "#0c3f55",
+    "outline": "#477388",
+    "surfaceContainer": "#accbd5",
+    "surfaceContainerHigh": "#a2cbe0",
+    "surfaceContainerHighest": "#a3d8d3",
+    "error": "#ba1a1a",
+    "warning": "#60d19b",
+    "info": "#5e7c79"
+  },
+  "wallpapers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "path": "wallpapers/default.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "abstract",
+      "name": "Abstract",
+      "path": "wallpapers/abstract.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "archBtw",
+      "name": "Arch Btw",
+      "path": "wallpapers/arch-btw.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "botw",
+      "name": "Botw",
+      "path": "wallpapers/botw.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "cassetteTape",
+      "name": "Cassette Tape",
+      "path": "wallpapers/cassette_tape.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "chinatown",
+      "name": "Chinatown",
+      "path": "wallpapers/chinatown.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "circle",
+      "name": "Circle",
+      "path": "wallpapers/circle.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "circles",
+      "name": "Circles",
+      "path": "wallpapers/circles.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "cityBuildings",
+      "name": "City Buildings",
+      "path": "wallpapers/city-buildings.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "crane",
+      "name": "Crane",
+      "path": "wallpapers/crane.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "darkness",
+      "name": "Darkness",
+      "path": "wallpapers/darkness.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "dragon",
+      "name": "Dragon",
+      "path": "wallpapers/dragon.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "gasStation",
+      "name": "Gas Station",
+      "path": "wallpapers/gas-station.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "hexagons",
+      "name": "Hexagons",
+      "path": "wallpapers/hexagons.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "lain",
+      "name": "Lain",
+      "path": "wallpapers/lain.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "mountainFog",
+      "name": "Mountain Fog",
+      "path": "wallpapers/mountain_fog.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "mountainRed",
+      "name": "Mountain Red",
+      "path": "wallpapers/mountain_red.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "mountains",
+      "name": "Mountains",
+      "path": "wallpapers/mountains.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "palettes",
+      "name": "Palettes",
+      "path": "wallpapers/palettes.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "pewpew",
+      "name": "Pewpew",
+      "path": "wallpapers/pewpew.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "sea1",
+      "name": "Sea1",
+      "path": "wallpapers/sea1.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "sea2",
+      "name": "Sea2",
+      "path": "wallpapers/sea2.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "solarized",
+      "name": "Solarized",
+      "path": "wallpapers/solarized.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "stripes",
+      "name": "Stripes",
+      "path": "wallpapers/stripes.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "tangle1",
+      "name": "Tangle1",
+      "path": "wallpapers/tangle1.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "tangle2",
+      "name": "Tangle2",
+      "path": "wallpapers/tangle2.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "wall1",
+      "name": "Wall1",
+      "path": "wallpapers/wall1.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "wall2",
+      "name": "Wall2",
+      "path": "wallpapers/wall2.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "wall3",
+      "name": "Wall3",
+      "path": "wallpapers/wall3.png",
+      "fillMode": "Fill"
+    }
+  ],
+  "window": {
+    "borderColor": "#597779",
+    "borderActiveColor": "#217dba",
+    "borderInactiveColor": "#0f4d49",
+    "borderSize": 2,
+    "gapsIn": 4,
+    "gapsOut": 8,
+    "rounding": 6
+  },
+  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/solarized-dark"
+}

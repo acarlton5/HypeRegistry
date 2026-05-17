@@ -1,0 +1,193 @@
+{
+  "id": "soulsborne",
+  "name": "Soulsborne",
+  "version": "0.1.2",
+  "author": "HyDE community, converted for HypeShell",
+  "description": "HyDE theme inspired by the Soulsborne series.",
+  "dark": {
+    "name": "Soulsborne Dark",
+    "primary": "#c2621c",
+    "primaryText": "#f7fff8",
+    "primaryContainer": "#773f16",
+    "secondary": "#a7afb8",
+    "surface": "#32271e",
+    "surfaceText": "#cfd7de",
+    "surfaceVariant": "#4d252d",
+    "surfaceVariantText": "#a9adb0",
+    "surfaceTint": "#c2621c",
+    "background": "#26190f",
+    "backgroundText": "#cfd7de",
+    "outline": "#929393",
+    "surfaceContainer": "#453d37",
+    "surfaceContainerHigh": "#52341e",
+    "surfaceContainerHighest": "#5a2434",
+    "error": "#ffb4ab",
+    "warning": "#ca1d71",
+    "info": "#a7afb8"
+  },
+  "light": {
+    "name": "Soulsborne Light",
+    "primary": "#cd7e45",
+    "primaryText": "#f7fff8",
+    "primaryContainer": "#daa279",
+    "secondary": "#bec4ca",
+    "surface": "#edccbc",
+    "surfaceText": "#422611",
+    "surfaceVariant": "#e9b8b6",
+    "surfaceVariantText": "#6b4e3a",
+    "surfaceTint": "#cd7e45",
+    "background": "#e8c9b2",
+    "backgroundText": "#422611",
+    "outline": "#7e614b",
+    "surfaceContainer": "#e5cbbe",
+    "surfaceContainerHigh": "#e6bba2",
+    "surfaceContainerHighest": "#e8afb3",
+    "error": "#ba1a1a",
+    "warning": "#d95c99",
+    "info": "#bec4ca"
+  },
+  "wallpapers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "path": "wallpapers/default.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "darkSoulsDarkSoulsIiiCityMoonNight4kHdGames",
+      "name": "Dark Souls Dark Souls Iii City Moon Night 4k Hd Games",
+      "path": "wallpapers/dark_souls_dark_souls_iii_city_moon_night_4k_hd_games.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "screenshot20251030201509",
+      "name": "Screenshot 2025 10 30 201509",
+      "path": "wallpapers/Screenshot 2025-10-30 201509.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "screenshot20251030201544",
+      "name": "Screenshot 2025 10 30 201544",
+      "path": "wallpapers/Screenshot 2025-10-30 201544.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "screenshot20251030201609",
+      "name": "Screenshot 2025 10 30 201609",
+      "path": "wallpapers/Screenshot 2025-10-30 201609.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "screenshot20251030201640",
+      "name": "Screenshot 2025 10 30 201640",
+      "path": "wallpapers/Screenshot 2025-10-30 201640.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "screenshot20251030201701",
+      "name": "Screenshot 2025 10 30 201701",
+      "path": "wallpapers/Screenshot 2025-10-30 201701.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "screenshot20251030201806",
+      "name": "Screenshot 2025 10 30 201806",
+      "path": "wallpapers/Screenshot 2025-10-30 201806.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "screenshot20251030201841",
+      "name": "Screenshot 2025 10 30 201841",
+      "path": "wallpapers/Screenshot 2025-10-30 201841.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "screenshot20251030201932",
+      "name": "Screenshot 2025 10 30 201932",
+      "path": "wallpapers/Screenshot 2025-10-30 201932.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "screenshot20251030201952",
+      "name": "Screenshot 2025 10 30 201952",
+      "path": "wallpapers/Screenshot 2025-10-30 201952.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "screenshot20251030202246",
+      "name": "Screenshot 2025 10 30 202246",
+      "path": "wallpapers/Screenshot 2025-10-30 202246.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "screenshot20251030202353",
+      "name": "Screenshot 2025 10 30 202353",
+      "path": "wallpapers/Screenshot 2025-10-30 202353.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "screenshot20251030202432",
+      "name": "Screenshot 2025 10 30 202432",
+      "path": "wallpapers/Screenshot 2025-10-30 202432.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "screenshot20251030202459",
+      "name": "Screenshot 2025 10 30 202459",
+      "path": "wallpapers/Screenshot 2025-10-30 202459.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "screenshot20251030202556",
+      "name": "Screenshot 2025 10 30 202556",
+      "path": "wallpapers/Screenshot 2025-10-30 202556.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "screenshot20251030202702",
+      "name": "Screenshot 2025 10 30 202702",
+      "path": "wallpapers/Screenshot 2025-10-30 202702.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "screenshot20251030202826",
+      "name": "Screenshot 2025 10 30 202826",
+      "path": "wallpapers/Screenshot 2025-10-30 202826.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "screenshot20251030202902",
+      "name": "Screenshot 2025 10 30 202902",
+      "path": "wallpapers/Screenshot 2025-10-30 202902.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "screenshot20251030202913",
+      "name": "Screenshot 2025 10 30 202913",
+      "path": "wallpapers/Screenshot 2025-10-30 202913.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "screenshot20251030202923",
+      "name": "Screenshot 2025 10 30 202923",
+      "path": "wallpapers/Screenshot 2025-10-30 202923.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "screenshot20251030203101",
+      "name": "Screenshot 2025 10 30 203101",
+      "path": "wallpapers/Screenshot 2025-10-30 203101.png",
+      "fillMode": "Fill"
+    }
+  ],
+  "window": {
+    "borderColor": "#929393",
+    "borderActiveColor": "#c2621c",
+    "borderInactiveColor": "#4d252d",
+    "borderSize": 2,
+    "gapsIn": 4,
+    "gapsOut": 8,
+    "rounding": 8
+  },
+  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/soulsborne"
+}

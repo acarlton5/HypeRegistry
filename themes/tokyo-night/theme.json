@@ -1,0 +1,103 @@
+{
+  "id": "tokyoNight",
+  "name": "Tokyo Night",
+  "version": "0.1.2",
+  "author": "HyDE community, converted for HypeShell",
+  "description": "Official Theme",
+  "dark": {
+    "name": "Tokyo Night Dark",
+    "primary": "#6c8fda",
+    "primaryText": "#f7fff8",
+    "primaryContainer": "#486092",
+    "secondary": "#a98de2",
+    "surface": "#2e3652",
+    "surfaceText": "#d1bafa",
+    "surfaceVariant": "#3a5467",
+    "surfaceVariantText": "#aa9ad2",
+    "surfaceTint": "#6c8fda",
+    "background": "#222d44",
+    "backgroundText": "#d1bafa",
+    "outline": "#9287b8",
+    "surfaceContainer": "#424469",
+    "surfaceContainerHigh": "#3c4a70",
+    "surfaceContainerHighest": "#3f6270",
+    "error": "#ffb4ab",
+    "warning": "#6fdfc7",
+    "info": "#a98de2"
+  },
+  "light": {
+    "name": "Tokyo Night Light",
+    "primary": "#86a3e1",
+    "primaryText": "#101410",
+    "primaryContainer": "#a8bce9",
+    "secondary": "#bfabea",
+    "surface": "#d2e0f3",
+    "surfaceText": "#2f3f5f",
+    "surfaceVariant": "#c7e1ee",
+    "surfaceVariantText": "#49576e",
+    "surfaceTint": "#86a3e1",
+    "background": "#ccd7f2",
+    "backgroundText": "#2f3f5f",
+    "outline": "#687694",
+    "surfaceContainer": "#cfd8f2",
+    "surfaceContainerHigh": "#c1d3ef",
+    "surfaceContainerHighest": "#c3e2ec",
+    "error": "#ba1a1a",
+    "warning": "#97e8d7",
+    "info": "#bfabea"
+  },
+  "wallpapers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "path": "wallpapers/default.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "catLofiCafe",
+      "name": "Cat Lofi Cafe",
+      "path": "wallpapers/cat_lofi_cafe.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "edgerLucyNeon",
+      "name": "Edger Lucy Neon",
+      "path": "wallpapers/edger_lucy_neon.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "gasStation",
+      "name": "Gas Station",
+      "path": "wallpapers/gas_station.gif",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "lowpolyStreet",
+      "name": "Lowpoly Street",
+      "path": "wallpapers/lowpoly_street.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "street",
+      "name": "Street",
+      "path": "wallpapers/street.gif",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "tokyoPink",
+      "name": "Tokyo Pink",
+      "path": "wallpapers/tokyo_pink.png",
+      "fillMode": "Fill"
+    }
+  ],
+  "window": {
+    "borderColor": "#9287b8",
+    "borderActiveColor": "#6c8fda",
+    "borderInactiveColor": "#3a5467",
+    "borderSize": 2,
+    "gapsIn": 4,
+    "gapsOut": 8,
+    "rounding": 8
+  },
+  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/tokyo-night"
+}

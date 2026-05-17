@@ -1,0 +1,121 @@
+{
+  "id": "electra",
+  "name": "Electra",
+  "version": "0.1.2",
+  "author": "HyDE community, converted for HypeShell",
+  "description": "Where darkness meets brilliance",
+  "dark": {
+    "name": "Electra Dark",
+    "primary": "#9fa8e1",
+    "primaryText": "#101410",
+    "primaryContainer": "#6b7197",
+    "secondary": "#decbca",
+    "surface": "#424353",
+    "surfaceText": "#f8eae7",
+    "surfaceVariant": "#5e576a",
+    "surfaceVariantText": "#ccc2c3",
+    "surfaceTint": "#9fa8e1",
+    "background": "#323547",
+    "backgroundText": "#f8eae7",
+    "outline": "#b1a9ad",
+    "surfaceContainer": "#5b5966",
+    "surfaceContainerHigh": "#565972",
+    "surfaceContainerHighest": "#6b6075",
+    "error": "#ffb4ab",
+    "warning": "#deb1d4",
+    "info": "#decbca"
+  },
+  "light": {
+    "name": "Electra Light",
+    "primary": "#b0b8e6",
+    "primaryText": "#101410",
+    "primaryContainer": "#c6cbed",
+    "secondary": "#e7d9d8",
+    "surface": "#e4e5f6",
+    "surfaceText": "#464a63",
+    "surfaceVariant": "#e5e0f2",
+    "surfaceVariantText": "#5b5f71",
+    "surfaceTint": "#b0b8e6",
+    "background": "#dee0f4",
+    "backgroundText": "#464a63",
+    "outline": "#7d8097",
+    "surfaceContainer": "#e4e3f1",
+    "surfaceContainerHigh": "#d9dbf2",
+    "surfaceContainerHighest": "#e5ddf0",
+    "error": "#ba1a1a",
+    "warning": "#e7c7e0",
+    "info": "#e7d9d8"
+  },
+  "wallpapers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "path": "wallpapers/default.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme1Thunder",
+      "name": "1 Thunder",
+      "path": "wallpapers/1.Thunder.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme2Thunder",
+      "name": "2 Thunder",
+      "path": "wallpapers/2.Thunder.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme3Thunder",
+      "name": "3 Thunder",
+      "path": "wallpapers/3.Thunder.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme4Thunder",
+      "name": "4 Thunder",
+      "path": "wallpapers/4.Thunder.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme5Thunder",
+      "name": "5 Thunder",
+      "path": "wallpapers/5.Thunder.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme6Thunder",
+      "name": "6 Thunder",
+      "path": "wallpapers/6.Thunder.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme7Thunder",
+      "name": "7 Thunder",
+      "path": "wallpapers/7.Thunder.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme8Thunder",
+      "name": "8 Thunder",
+      "path": "wallpapers/8.Thunder.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme9Thunder",
+      "name": "9 Thunder",
+      "path": "wallpapers/9.Thunder.jpg",
+      "fillMode": "Fill"
+    }
+  ],
+  "window": {
+    "borderColor": "#b1a9ad",
+    "borderActiveColor": "#9fa8e1",
+    "borderInactiveColor": "#5e576a",
+    "borderSize": 2,
+    "gapsIn": 4,
+    "gapsOut": 8,
+    "rounding": 10
+  },
+  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/electra"
+}

@@ -1,0 +1,175 @@
+{
+  "id": "everBlushing",
+  "name": "Ever Blushing",
+  "version": "0.1.2",
+  "author": "HyDE community, converted for HypeShell",
+  "description": "Ever-Blush inspired dark aesthetic minimal theme",
+  "dark": {
+    "name": "Ever Blushing Dark",
+    "primary": "#c86868",
+    "primaryText": "#f7fff8",
+    "primaryContainer": "#7e4849",
+    "secondary": "#64adad",
+    "surface": "#323234",
+    "surfaceText": "#9bd3d3",
+    "surfaceVariant": "#4e3c4e",
+    "surfaceVariantText": "#82acad",
+    "surfaceTint": "#c86868",
+    "background": "#2d2628",
+    "backgroundText": "#9bd3d3",
+    "outline": "#739595",
+    "surfaceContainer": "#3a4647",
+    "surfaceContainerHigh": "#533e3f",
+    "surfaceContainerHighest": "#5b415a",
+    "error": "#ffb4ab",
+    "warning": "#cf6bc6",
+    "info": "#64adad"
+  },
+  "light": {
+    "name": "Ever Blushing Light",
+    "primary": "#d28383",
+    "primaryText": "#f7fff8",
+    "primaryContainer": "#dda6a6",
+    "secondary": "#8cc2c2",
+    "surface": "#efd1d4",
+    "surfaceText": "#493234",
+    "surfaceVariant": "#ecc6d4",
+    "surfaceVariantText": "#71585a",
+    "surfaceTint": "#d28383",
+    "background": "#e8cbcb",
+    "backgroundText": "#493234",
+    "outline": "#82696a",
+    "surfaceContainer": "#dfcfd1",
+    "surfaceContainerHigh": "#e9c0c2",
+    "surfaceContainerHighest": "#eac1d5",
+    "error": "#ba1a1a",
+    "warning": "#dc94d6",
+    "info": "#8cc2c2"
+  },
+  "wallpapers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "path": "wallpapers/default.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "beProductive4K",
+      "name": "Be Productive 4K",
+      "path": "wallpapers/Be Productive 4K.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "birdseye",
+      "name": "Birdseye",
+      "path": "wallpapers/birdseye.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "circles4K",
+      "name": "Circles 4K",
+      "path": "wallpapers/Circles 4K.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "csmAngel",
+      "name": "Csm Angel",
+      "path": "wallpapers/csm_angel.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "dice",
+      "name": "Dice",
+      "path": "wallpapers/Dice.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "distributionsArch",
+      "name": "Distributions Arch",
+      "path": "wallpapers/Distributions - Arch.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "everblushChemical",
+      "name": "Everblush Chemical",
+      "path": "wallpapers/everblush_chemical.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "everblushCreep",
+      "name": "Everblush Creep",
+      "path": "wallpapers/everblush_creep.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "here4K",
+      "name": "Here 4K",
+      "path": "wallpapers/Here 4K.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "keyboard",
+      "name": "Keyboard",
+      "path": "wallpapers/keyboard.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "mountain4K",
+      "name": "Mountain 4K",
+      "path": "wallpapers/Mountain 4K.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "night4K",
+      "name": "Night 4K",
+      "path": "wallpapers/Night 4K.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "nightTrain",
+      "name": "Night Train",
+      "path": "wallpapers/night-train.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "pacman4K",
+      "name": "Pacman 4K",
+      "path": "wallpapers/Pacman 4K.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "patterns",
+      "name": "Patterns",
+      "path": "wallpapers/Patterns.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "pixel4K",
+      "name": "Pixel 4K",
+      "path": "wallpapers/Pixel 4K.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "retro4K",
+      "name": "Retro 4K",
+      "path": "wallpapers/Retro 4K.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "tokyoShop",
+      "name": "Tokyo Shop",
+      "path": "wallpapers/tokyo_shop.jpg",
+      "fillMode": "Fill"
+    }
+  ],
+  "window": {
+    "borderColor": "#739595",
+    "borderActiveColor": "#c86868",
+    "borderInactiveColor": "#4e3c4e",
+    "borderSize": 2,
+    "gapsIn": 4,
+    "gapsOut": 8,
+    "rounding": 22
+  },
+  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/ever-blushing"
+}

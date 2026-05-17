@@ -1,0 +1,21 @@
+{
+    "id":  "magyarNevnapok",
+    "name":  "Magyar NÃ©vnapok",
+    "capabilities":  [
+                         "dankbar-widget"
+                     ],
+    "category":  "utilities",
+    "repo":  "https://github.com/acarlton5/HYPEPLUGIN-magyarNevnapok",
+    "author":  "Szabolcs Fazekas",
+    "description":  "Display the current Hungarian nameday on the DankBar. Shows today\u0027s name on the bar, with yesterday/today/tomorrow in the popout panel.",
+    "dependencies":  [
+
+                     ],
+    "compositors":  [
+                        "any"
+                    ],
+    "distro":  [
+                   "any"
+               ],
+    "screenshot":  "https://github.com/szabolcsf/dms-nameday/raw/main/screenshot.png"
+}

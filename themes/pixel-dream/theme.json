@@ -1,0 +1,325 @@
+{
+  "id": "pixelDream",
+  "name": "Pixel Dream",
+  "version": "0.1.2",
+  "author": "HyDE community, converted for HypeShell",
+  "description": "Pixel Art inspired theme",
+  "dark": {
+    "name": "Pixel Dream Dark",
+    "primary": "#dda72a",
+    "primaryText": "#101410",
+    "primaryContainer": "#95701c",
+    "secondary": "#94e22b",
+    "surface": "#4d4510",
+    "surfaceText": "#befc72",
+    "surfaceVariant": "#68411c",
+    "surfaceVariantText": "#a3d05a",
+    "surfaceTint": "#dda72a",
+    "background": "#46350d",
+    "backgroundText": "#befc72",
+    "outline": "#93b44e",
+    "surfaceContainer": "#585e14",
+    "surfaceContainerHigh": "#6d5b16",
+    "surfaceContainerHighest": "#744021",
+    "error": "#ffb4ab",
+    "warning": "#e43052",
+    "info": "#94e22b"
+  },
+  "light": {
+    "name": "Pixel Dream Light",
+    "primary": "#e3b750",
+    "primaryText": "#101410",
+    "primaryContainer": "#e9cb80",
+    "secondary": "#b0ea62",
+    "surface": "#f4dfbe",
+    "surfaceText": "#614a12",
+    "surfaceVariant": "#f3cab3",
+    "surfaceVariantText": "#6f5e33",
+    "surfaceTint": "#e3b750",
+    "background": "#f0e1b3",
+    "backgroundText": "#614a12",
+    "outline": "#94804c",
+    "surfaceContainer": "#e9e1af",
+    "surfaceContainerHigh": "#f0d6a6",
+    "surfaceContainerHighest": "#f2c1ae",
+    "error": "#ba1a1a",
+    "warning": "#ec6a82",
+    "info": "#b0ea62"
+  },
+  "wallpapers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "path": "wallpapers/default.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "adventureTime",
+      "name": "Adventure Time",
+      "path": "wallpapers/adventure_time.gif",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "balcony",
+      "name": "Balcony",
+      "path": "wallpapers/balcony.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "building",
+      "name": "Building",
+      "path": "wallpapers/building.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "cafe",
+      "name": "Cafe",
+      "path": "wallpapers/cafe.gif",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "castle",
+      "name": "Castle",
+      "path": "wallpapers/castle.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "chillPlace",
+      "name": "Chill Place",
+      "path": "wallpapers/chill_place.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "cityRain",
+      "name": "City Rain",
+      "path": "wallpapers/city_rain.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "cityscape",
+      "name": "Cityscape",
+      "path": "wallpapers/cityscape.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "clouds",
+      "name": "Clouds",
+      "path": "wallpapers/clouds.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "darkSouls",
+      "name": "Dark Souls",
+      "path": "wallpapers/dark_souls.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "distant",
+      "name": "Distant",
+      "path": "wallpapers/distant.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "emerald",
+      "name": "Emerald",
+      "path": "wallpapers/emerald.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "fight",
+      "name": "Fight",
+      "path": "wallpapers/fight.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "futureShop1",
+      "name": "Future Shop 1",
+      "path": "wallpapers/future_shop_1.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "futureShop2",
+      "name": "Future Shop 2",
+      "path": "wallpapers/future_shop_2.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "genshin",
+      "name": "Genshin",
+      "path": "wallpapers/genshin.gif",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "ghibli1",
+      "name": "Ghibli 1",
+      "path": "wallpapers/ghibli_1.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "ghibli2",
+      "name": "Ghibli 2",
+      "path": "wallpapers/ghibli_2.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "girl",
+      "name": "Girl",
+      "path": "wallpapers/girl.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "hollowKnight",
+      "name": "Hollow Knight",
+      "path": "wallpapers/hollow_knight.gif",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "journey",
+      "name": "Journey",
+      "path": "wallpapers/journey.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "knight",
+      "name": "Knight",
+      "path": "wallpapers/knight.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "library",
+      "name": "Library",
+      "path": "wallpapers/library.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "mayBike",
+      "name": "May Bike",
+      "path": "wallpapers/may_bike.gif",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "mayChill",
+      "name": "May Chill",
+      "path": "wallpapers/may_chill.gif",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "night",
+      "name": "Night",
+      "path": "wallpapers/night.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "oldFriendXp",
+      "name": "Old Friend Xp",
+      "path": "wallpapers/old_friend_xp.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "paletTown",
+      "name": "Palet Town",
+      "path": "wallpapers/palet_town.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "peace",
+      "name": "Peace",
+      "path": "wallpapers/peace.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "pokemonJhoto",
+      "name": "Pokemon Jhoto",
+      "path": "wallpapers/pokemon_jhoto.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "quest",
+      "name": "Quest",
+      "path": "wallpapers/quest.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "questKnight",
+      "name": "Quest Knight",
+      "path": "wallpapers/quest_knight.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "ramen",
+      "name": "Ramen",
+      "path": "wallpapers/ramen.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "robot",
+      "name": "Robot",
+      "path": "wallpapers/robot.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "sakura",
+      "name": "Sakura",
+      "path": "wallpapers/sakura.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "shrine",
+      "name": "Shrine",
+      "path": "wallpapers/shrine.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "street",
+      "name": "Street",
+      "path": "wallpapers/street.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "tower",
+      "name": "Tower",
+      "path": "wallpapers/tower.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "tree",
+      "name": "Tree",
+      "path": "wallpapers/tree.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "witch",
+      "name": "Witch",
+      "path": "wallpapers/witch.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "zelda",
+      "name": "Zelda",
+      "path": "wallpapers/zelda.gif",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "zeldaBotw",
+      "name": "Zelda Botw",
+      "path": "wallpapers/zelda_botw.gif",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "zeldaSs",
+      "name": "Zelda Ss",
+      "path": "wallpapers/zelda_ss.gif",
+      "fillMode": "Fill"
+    }
+  ],
+  "window": {
+    "borderColor": "#93b44e",
+    "borderActiveColor": "#dda72a",
+    "borderInactiveColor": "#68411c",
+    "borderSize": 2,
+    "gapsIn": 4,
+    "gapsOut": 8,
+    "rounding": 6
+  },
+  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/pixel-dream"
+}

@@ -1,0 +1,121 @@
+{
+  "id": "chisa",
+  "name": "Chisa",
+  "version": "0.1.2",
+  "author": "HyDE community, converted for HypeShell",
+  "description": "HyDE theme inspired by Chisa from Wuthering Waves.",
+  "dark": {
+    "name": "Chisa Dark",
+    "primary": "#ba4a5e",
+    "primaryText": "#f7fff8",
+    "primaryContainer": "#7d323f",
+    "secondary": "#ae8ea3",
+    "surface": "#452229",
+    "surfaceText": "#d3bdcd",
+    "surfaceVariant": "#592a43",
+    "surfaceVariantText": "#b198a6",
+    "surfaceTint": "#ba4a5e",
+    "background": "#3b171d",
+    "backgroundText": "#d3bdcd",
+    "outline": "#9c818e",
+    "surfaceContainer": "#56333d",
+    "surfaceContainerHigh": "#5f2b35",
+    "surfaceContainerHighest": "#622d4f",
+    "error": "#ffb4ab",
+    "warning": "#b64dbc",
+    "info": "#ae8ea3"
+  },
+  "light": {
+    "name": "Chisa Light",
+    "primary": "#c66b7b",
+    "primaryText": "#f7fff8",
+    "primaryContainer": "#d5939f",
+    "secondary": "#c3abbb",
+    "surface": "#eac7d1",
+    "surfaceText": "#522029",
+    "surfaceVariant": "#e4bad1",
+    "surfaceVariantText": "#764851",
+    "surfaceTint": "#c66b7b",
+    "background": "#e6bfc7",
+    "backgroundText": "#522029",
+    "outline": "#875962",
+    "surfaceContainer": "#e4c3cd",
+    "surfaceContainerHigh": "#e2b3be",
+    "surfaceContainerHighest": "#e2b4d0",
+    "error": "#ba1a1a",
+    "warning": "#ca7fcf",
+    "info": "#c3abbb"
+  },
+  "wallpapers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "path": "wallpapers/default.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "chisaCollabRedmagic",
+      "name": "Chisa Collab Redmagic",
+      "path": "wallpapers/Chisa Collab Redmagic.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "chisaCrepe",
+      "name": "Chisa Crepe",
+      "path": "wallpapers/Chisa Crepe.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "chisaKeihanCollabAmeElm",
+      "name": "Chisa Keihan Collab Ame Elm",
+      "path": "wallpapers/Chisa Keihan Collab @Ame_elm.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "chisaKeihanCollab",
+      "name": "Chisa Keihan Collab",
+      "path": "wallpapers/Chisa Keihan Collab.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "chisaPV",
+      "name": "Chisa PV",
+      "path": "wallpapers/Chisa PV.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "chisaSparklers",
+      "name": "Chisa Sparklers",
+      "path": "wallpapers/Chisa Sparklers.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "chisaSplash",
+      "name": "Chisa Splash",
+      "path": "wallpapers/Chisa Splash.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "chisaTower",
+      "name": "Chisa Tower",
+      "path": "wallpapers/Chisa Tower.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "chisaWisteria",
+      "name": "Chisa Wisteria",
+      "path": "wallpapers/Chisa Wisteria.jpg",
+      "fillMode": "Fill"
+    }
+  ],
+  "window": {
+    "borderColor": "#9c818e",
+    "borderActiveColor": "#ba4a5e",
+    "borderInactiveColor": "#592a43",
+    "borderSize": 2,
+    "gapsIn": 4,
+    "gapsOut": 8,
+    "rounding": 22
+  },
+  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/chisa"
+}

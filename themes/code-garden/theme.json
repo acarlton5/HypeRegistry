@@ -1,0 +1,289 @@
+{
+  "id": "codeGarden",
+  "name": "Code Garden",
+  "version": "0.1.2",
+  "author": "HyDE community, converted for HypeShell",
+  "description": "A sleek and transparent, color-agnostic theme.",
+  "dark": {
+    "name": "Code Garden Dark",
+    "primary": "#728eab",
+    "primaryText": "#f7fff8",
+    "primaryContainer": "#4d5f73",
+    "secondary": "#8477b0",
+    "surface": "#2d3441",
+    "surfaceText": "#b4a9d5",
+    "surfaceVariant": "#3a4a51",
+    "surfaceVariantText": "#a6a2be",
+    "surfaceTint": "#728eab",
+    "background": "#242d36",
+    "backgroundText": "#b4a9d5",
+    "outline": "#807c9c",
+    "surfaceContainer": "#3b3f53",
+    "surfaceContainerHigh": "#3c4858",
+    "surfaceContainerHighest": "#405458",
+    "error": "#ffb4ab",
+    "warning": "#76af99",
+    "info": "#8477b0"
+  },
+  "light": {
+    "name": "Code Garden Light",
+    "primary": "#8ba2ba",
+    "primaryText": "#101410",
+    "primaryContainer": "#abbbcc",
+    "secondary": "#a49ac5",
+    "surface": "#d4dde4",
+    "surfaceText": "#323e4b",
+    "surfaceVariant": "#cad9dc",
+    "surfaceVariantText": "#4c565f",
+    "surfaceTint": "#8ba2ba",
+    "background": "#cdd6e0",
+    "backgroundText": "#323e4b",
+    "outline": "#6a7581",
+    "surfaceContainer": "#ccd2df",
+    "surfaceContainerHigh": "#c4d0db",
+    "surfaceContainerHighest": "#c5d7d8",
+    "error": "#ba1a1a",
+    "warning": "#9cc5b6",
+    "info": "#a49ac5"
+  },
+  "wallpapers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "path": "wallpapers/default.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "art",
+      "name": "Art",
+      "path": "wallpapers/art.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "aurora",
+      "name": "Aurora",
+      "path": "wallpapers/aurora.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "beer",
+      "name": "Beer",
+      "path": "wallpapers/beer.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "bunnies",
+      "name": "Bunnies",
+      "path": "wallpapers/bunnies.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "cabin",
+      "name": "Cabin",
+      "path": "wallpapers/cabin.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "calligraphy",
+      "name": "Calligraphy",
+      "path": "wallpapers/calligraphy.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "citrus",
+      "name": "Citrus",
+      "path": "wallpapers/citrus.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "deer",
+      "name": "Deer",
+      "path": "wallpapers/deer.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "drive",
+      "name": "Drive",
+      "path": "wallpapers/drive.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "ducks",
+      "name": "Ducks",
+      "path": "wallpapers/ducks.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "e33",
+      "name": "E33",
+      "path": "wallpapers/e33.jpeg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "fires",
+      "name": "Fires",
+      "path": "wallpapers/fires.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "fox",
+      "name": "Fox",
+      "path": "wallpapers/fox.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "friends",
+      "name": "Friends",
+      "path": "wallpapers/friends.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "gojo",
+      "name": "Gojo",
+      "path": "wallpapers/gojo.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "ivy",
+      "name": "Ivy",
+      "path": "wallpapers/ivy.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "journey",
+      "name": "Journey",
+      "path": "wallpapers/journey.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "kayle",
+      "name": "Kayle",
+      "path": "wallpapers/kayle.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "landscape",
+      "name": "Landscape",
+      "path": "wallpapers/landscape.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "love",
+      "name": "Love",
+      "path": "wallpapers/love.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "magic",
+      "name": "Magic",
+      "path": "wallpapers/magic.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "messmer",
+      "name": "Messmer",
+      "path": "wallpapers/messmer.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "nebula",
+      "name": "Nebula",
+      "path": "wallpapers/nebula.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "oasis",
+      "name": "Oasis",
+      "path": "wallpapers/oasis.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "pyramid",
+      "name": "Pyramid",
+      "path": "wallpapers/pyramid.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "recluse",
+      "name": "Recluse",
+      "path": "wallpapers/recluse.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "rising",
+      "name": "Rising",
+      "path": "wallpapers/rising.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "sbr",
+      "name": "Sbr",
+      "path": "wallpapers/sbr.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "snow",
+      "name": "Snow",
+      "path": "wallpapers/snow.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "spike",
+      "name": "Spike",
+      "path": "wallpapers/spike.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "sunset",
+      "name": "Sunset",
+      "path": "wallpapers/sunset.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "transit",
+      "name": "Transit",
+      "path": "wallpapers/transit.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "trina",
+      "name": "Trina",
+      "path": "wallpapers/trina.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "walk",
+      "name": "Walk",
+      "path": "wallpapers/walk.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "window",
+      "name": "Window",
+      "path": "wallpapers/window.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "yorha",
+      "name": "Yorha",
+      "path": "wallpapers/yorha.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "zen",
+      "name": "Zen",
+      "path": "wallpapers/zen.png",
+      "fillMode": "Fill"
+    }
+  ],
+  "window": {
+    "borderColor": "#807c9c",
+    "borderActiveColor": "#728eab",
+    "borderInactiveColor": "#3a4a51",
+    "borderSize": 2,
+    "gapsIn": 4,
+    "gapsOut": 8,
+    "rounding": 20
+  },
+  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/code-garden"
+}

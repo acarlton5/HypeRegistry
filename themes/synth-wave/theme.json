@@ -1,0 +1,91 @@
+{
+  "id": "synthWave",
+  "name": "Synth Wave",
+  "version": "0.1.2",
+  "author": "HyDE community, converted for HypeShell",
+  "description": "Official Theme",
+  "dark": {
+    "name": "Synth Wave Dark",
+    "primary": "#e26fc2",
+    "primaryText": "#2c302c",
+    "primaryContainer": "#984b82",
+    "secondary": "#6dd8a9",
+    "surface": "#4a3347",
+    "surfaceText": "#9ff5cf",
+    "surfaceVariant": "#663f4e",
+    "surfaceVariantText": "#8bc6ae",
+    "surfaceTint": "#e26fc2",
+    "background": "#47233d",
+    "backgroundText": "#9ff5cf",
+    "outline": "#7fa99a",
+    "surfaceContainer": "#504d57",
+    "surfaceContainerHigh": "#6b4062",
+    "surfaceContainerHighest": "#724451",
+    "error": "#ffb4ab",
+    "warning": "#e4736c",
+    "info": "#6dd8a9"
+  },
+  "light": {
+    "name": "Synth Wave Light",
+    "primary": "#e789cd",
+    "primaryText": "#101410",
+    "primaryContainer": "#ecaada",
+    "secondary": "#93e2bf",
+    "surface": "#f6d3e9",
+    "surfaceText": "#633155",
+    "surfaceVariant": "#f4c9da",
+    "surfaceVariantText": "#714c66",
+    "surfaceTint": "#e789cd",
+    "background": "#f1cee8",
+    "backgroundText": "#633155",
+    "outline": "#966a8a",
+    "surfaceContainer": "#e6d5e2",
+    "surfaceContainerHigh": "#f3c3e3",
+    "surfaceContainerHighest": "#f3c4d3",
+    "error": "#ba1a1a",
+    "warning": "#ec9a95",
+    "info": "#93e2bf"
+  },
+  "wallpapers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "path": "wallpapers/default.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "beach",
+      "name": "Beach",
+      "path": "wallpapers/beach.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "glitchFox",
+      "name": "Glitch Fox",
+      "path": "wallpapers/glitch fox.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "palmTrees",
+      "name": "Palm Trees",
+      "path": "wallpapers/palm trees.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "waves",
+      "name": "Waves",
+      "path": "wallpapers/waves.jpg",
+      "fillMode": "Fill"
+    }
+  ],
+  "window": {
+    "borderColor": "#7fa99a",
+    "borderActiveColor": "#e26fc2",
+    "borderInactiveColor": "#663f4e",
+    "borderSize": 2,
+    "gapsIn": 4,
+    "gapsOut": 8,
+    "rounding": 8
+  },
+  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/synth-wave"
+}

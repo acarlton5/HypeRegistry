@@ -1,0 +1,85 @@
+{
+  "id": "moonlight",
+  "name": "Moonlight",
+  "version": "0.1.2",
+  "author": "HyDE community, converted for HypeShell",
+  "description": "Gentle, soft moonlight lingers on my face...",
+  "dark": {
+    "name": "Moonlight Dark",
+    "primary": "#39e2e2",
+    "primaryText": "#101410",
+    "primaryContainer": "#269898",
+    "secondary": "#a58bdd",
+    "surface": "#1f4d55",
+    "surfaceText": "#cfb6f5",
+    "surfaceVariant": "#246954",
+    "surfaceVariantText": "#bfbcdc",
+    "surfaceTint": "#39e2e2",
+    "background": "#124747",
+    "backgroundText": "#cfb6f5",
+    "outline": "#8b8eb6",
+    "surfaceContainer": "#34576b",
+    "surfaceContainerHigh": "#256e74",
+    "surfaceContainerHighest": "#267653",
+    "error": "#ffb4ab",
+    "warning": "#3ae94f",
+    "info": "#a58bdd"
+  },
+  "light": {
+    "name": "Moonlight Light",
+    "primary": "#5de7e7",
+    "primaryText": "#101410",
+    "primaryContainer": "#8aeced",
+    "secondary": "#bca9e6",
+    "surface": "#c2f6f0",
+    "surfaceText": "#196363",
+    "surfaceVariant": "#b3f5dc",
+    "surfaceVariantText": "#397170",
+    "surfaceTint": "#5de7e7",
+    "background": "#bbf2f4",
+    "backgroundText": "#196363",
+    "outline": "#539697",
+    "surfaceContainer": "#c1eaee",
+    "surfaceContainerHigh": "#acf3ee",
+    "surfaceContainerHighest": "#adf4d3",
+    "error": "#ba1a1a",
+    "warning": "#71ef80",
+    "info": "#bca9e6"
+  },
+  "wallpapers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "path": "wallpapers/default.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "a",
+      "name": "A",
+      "path": "wallpapers/A.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "b",
+      "name": "B",
+      "path": "wallpapers/B.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "c",
+      "name": "C",
+      "path": "wallpapers/C.png",
+      "fillMode": "Fill"
+    }
+  ],
+  "window": {
+    "borderColor": "#8b8eb6",
+    "borderActiveColor": "#39e2e2",
+    "borderInactiveColor": "#246954",
+    "borderSize": 2,
+    "gapsIn": 4,
+    "gapsOut": 8,
+    "rounding": 14
+  },
+  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/moonlight"
+}

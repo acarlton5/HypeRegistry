@@ -1,0 +1,103 @@
+{
+  "id": "frostedGlass",
+  "name": "Frosted Glass",
+  "version": "0.1.2",
+  "author": "HyDE community, converted for HypeShell",
+  "description": "Official Theme",
+  "dark": {
+    "name": "Frosted Glass Dark",
+    "primary": "#6fbde2",
+    "primaryText": "#101410",
+    "primaryContainer": "#4b7f98",
+    "secondary": "#d29136",
+    "surface": "#334445",
+    "surfaceText": "#f1bc75",
+    "surfaceVariant": "#3f6256",
+    "surfaceVariantText": "#ccb083",
+    "surfaceTint": "#6fbde2",
+    "background": "#233c47",
+    "backgroundText": "#f1bc75",
+    "outline": "#a78e64",
+    "surfaceContainer": "#4c5043",
+    "surfaceContainerHigh": "#405f68",
+    "surfaceContainerHighest": "#446f5e",
+    "error": "#ffb4ab",
+    "warning": "#73e8a5",
+    "info": "#d29136"
+  },
+  "light": {
+    "name": "Frosted Glass Light",
+    "primary": "#89c9e7",
+    "primaryText": "#101410",
+    "primaryContainer": "#aad7eb",
+    "secondary": "#deae6a",
+    "surface": "#d3edf4",
+    "surfaceText": "#315363",
+    "surfaceVariant": "#c9edea",
+    "surfaceVariantText": "#4b6671",
+    "surfaceTint": "#89c9e7",
+    "background": "#cee6ef",
+    "backgroundText": "#315363",
+    "outline": "#6a8895",
+    "surfaceContainer": "#d5e3de",
+    "surfaceContainerHigh": "#c3e5f1",
+    "surfaceContainerHighest": "#c4ede6",
+    "error": "#ba1a1a",
+    "warning": "#9aeebe",
+    "info": "#deae6a"
+  },
+  "wallpapers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "path": "wallpapers/default.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "blueDesert",
+      "name": "Blue Desert",
+      "path": "wallpapers/blue_desert.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "cloudyCrescent",
+      "name": "Cloudy Crescent",
+      "path": "wallpapers/cloudy_crescent.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "cloudyMountain",
+      "name": "Cloudy Mountain",
+      "path": "wallpapers/cloudy_mountain.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "lakeMountain",
+      "name": "Lake Mountain",
+      "path": "wallpapers/lake_mountain.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "minForest",
+      "name": "Min Forest",
+      "path": "wallpapers/min_forest.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "tealMountain",
+      "name": "Teal Mountain",
+      "path": "wallpapers/teal_mountain.png",
+      "fillMode": "Fill"
+    }
+  ],
+  "window": {
+    "borderColor": "#a78e64",
+    "borderActiveColor": "#6fbde2",
+    "borderInactiveColor": "#3f6256",
+    "borderSize": 2,
+    "gapsIn": 4,
+    "gapsOut": 8,
+    "rounding": 18
+  },
+  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/frosted-glass"
+}

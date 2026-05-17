@@ -1,0 +1,22 @@
+{
+    "id":  "wallpaperDiscovery",
+    "name":  "Wallpaper Discovery",
+    "capabilities":  [
+                         "dankbar-widget"
+                     ],
+    "category":  "utilities",
+    "repo":  "https://github.com/acarlton5/HYPEPLUGIN-wallpaperDiscovery",
+    "author":  "lucyfire",
+    "description":  "Search and download wallpapers",
+    "dependencies":  [
+                         "curl"
+                     ],
+    "compositors":  [
+                        "any"
+                    ],
+    "distro":  [
+                   "any"
+               ],
+    "screenshot":  "https://github.com/Lucyfire/dms-plugins/blob/master/wallpaperDiscovery/screenshot.png?raw=true",
+    "requires_dms":  "\u003e=0.2.4"
+}

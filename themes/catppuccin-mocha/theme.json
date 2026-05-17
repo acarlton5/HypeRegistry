@@ -1,0 +1,157 @@
+{
+  "id": "catppuccinMocha",
+  "name": "Catppuccin Mocha",
+  "version": "0.1.2",
+  "author": "HyDE community, converted for HypeShell",
+  "description": "Official Theme",
+  "dark": {
+    "name": "Catppuccin Mocha Dark",
+    "primary": "#9fa8e1",
+    "primaryText": "#101410",
+    "primaryContainer": "#6b7197",
+    "secondary": "#decbca",
+    "surface": "#424353",
+    "surfaceText": "#f8eae7",
+    "surfaceVariant": "#5e576a",
+    "surfaceVariantText": "#ccc2c3",
+    "surfaceTint": "#9fa8e1",
+    "background": "#323547",
+    "backgroundText": "#f8eae7",
+    "outline": "#b1a9ad",
+    "surfaceContainer": "#5b5966",
+    "surfaceContainerHigh": "#565972",
+    "surfaceContainerHighest": "#6b6075",
+    "error": "#ffb4ab",
+    "warning": "#deb1d4",
+    "info": "#decbca"
+  },
+  "light": {
+    "name": "Catppuccin Mocha Light",
+    "primary": "#b0b8e6",
+    "primaryText": "#101410",
+    "primaryContainer": "#c6cbed",
+    "secondary": "#e7d9d8",
+    "surface": "#e4e5f6",
+    "surfaceText": "#464a63",
+    "surfaceVariant": "#e5e0f2",
+    "surfaceVariantText": "#5b5f71",
+    "surfaceTint": "#b0b8e6",
+    "background": "#dee0f4",
+    "backgroundText": "#464a63",
+    "outline": "#7d8097",
+    "surfaceContainer": "#e4e3f1",
+    "surfaceContainerHigh": "#d9dbf2",
+    "surfaceContainerHighest": "#e5ddf0",
+    "error": "#ba1a1a",
+    "warning": "#e7c7e0",
+    "info": "#e7d9d8"
+  },
+  "wallpapers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "path": "wallpapers/default.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme1RainWorld",
+      "name": "1 Rain World",
+      "path": "wallpapers/1 rain_world.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme2RainWorld",
+      "name": "2 Rain World",
+      "path": "wallpapers/2 rain_world.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme3RainWorld",
+      "name": "3 Rain World",
+      "path": "wallpapers/3 rain_world.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "aestheticDeer",
+      "name": "Aesthetic Deer",
+      "path": "wallpapers/aesthetic_deer.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "apexOctane",
+      "name": "Apex Octane",
+      "path": "wallpapers/apex_octane.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "blackHoleByKurzgesagt",
+      "name": "Black Hole By Kurzgesagt",
+      "path": "wallpapers/black_hole_by_kurzgesagt.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "boatAbondoned",
+      "name": "Boat Abondoned",
+      "path": "wallpapers/boat_abondoned.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "catLeaves",
+      "name": "Cat Leaves",
+      "path": "wallpapers/cat_leaves.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "escapeVelocity",
+      "name": "Escape Velocity",
+      "path": "wallpapers/escape_velocity.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "eveningSky",
+      "name": "Evening Sky",
+      "path": "wallpapers/evening_sky.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "firewatch",
+      "name": "Firewatch",
+      "path": "wallpapers/firewatch.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "forestDarkWinter",
+      "name": "Forest Dark Winter",
+      "path": "wallpapers/forest_dark_winter.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "hangedManTree",
+      "name": "Hanged Man Tree",
+      "path": "wallpapers/hanged_man_tree.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "rebelliousTower",
+      "name": "Rebellious Tower",
+      "path": "wallpapers/rebellious_tower.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "switchSwirl",
+      "name": "Switch Swirl",
+      "path": "wallpapers/switch_swirl.jpg",
+      "fillMode": "Fill"
+    }
+  ],
+  "window": {
+    "borderColor": "#b1a9ad",
+    "borderActiveColor": "#9fa8e1",
+    "borderInactiveColor": "#5e576a",
+    "borderSize": 2,
+    "gapsIn": 4,
+    "gapsOut": 8,
+    "rounding": 22
+  },
+  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/catppuccin-mocha"
+}

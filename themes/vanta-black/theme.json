@@ -1,0 +1,349 @@
+{
+  "id": "vantaBlack",
+  "name": "Vanta Black",
+  "version": "0.1.2",
+  "author": "HyDE community, converted for HypeShell",
+  "description": "Vanta Black inspired theme having the deepest blacks",
+  "dark": {
+    "name": "Vanta Black Dark",
+    "primary": "#bababa",
+    "primaryText": "#101410",
+    "primaryContainer": "#6d6d6d",
+    "secondary": "#c2c2c2",
+    "surface": "#292929",
+    "surfaceText": "#e5e5e5",
+    "surfaceVariant": "#454545",
+    "surfaceVariantText": "#b8b8b8",
+    "surfaceTint": "#bababa",
+    "background": "#1a1a1a",
+    "backgroundText": "#e5e5e5",
+    "outline": "#9c9c9c",
+    "surfaceContainer": "#414141",
+    "surfaceContainerHigh": "#494949",
+    "surfaceContainerHighest": "#515151",
+    "error": "#ffb4ab",
+    "warning": "#c2c2c2",
+    "info": "#c2c2c2"
+  },
+  "light": {
+    "name": "Vanta Black Light",
+    "primary": "#c6c6c6",
+    "primaryText": "#101410",
+    "primaryContainer": "#d6d6d6",
+    "secondary": "#d2d2d2",
+    "surface": "#eaeaea",
+    "surfaceText": "#373737",
+    "surfaceVariant": "#e6e6e6",
+    "surfaceVariantText": "#626262",
+    "surfaceTint": "#c6c6c6",
+    "background": "#e7e7e7",
+    "backgroundText": "#373737",
+    "outline": "#767676",
+    "surfaceContainer": "#e6e6e6",
+    "surfaceContainerHigh": "#e2e2e2",
+    "surfaceContainerHighest": "#e4e4e4",
+    "error": "#ba1a1a",
+    "warning": "#d3d3d3",
+    "info": "#d2d2d2"
+  },
+  "wallpapers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "path": "wallpapers/default.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "abstract",
+      "name": "Abstract",
+      "path": "wallpapers/abstract.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "alucard",
+      "name": "Alucard",
+      "path": "wallpapers/alucard.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "archLife",
+      "name": "Arch Life",
+      "path": "wallpapers/arch-life.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "arch",
+      "name": "Arch",
+      "path": "wallpapers/arch.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "astronautYoga",
+      "name": "Astronaut Yoga",
+      "path": "wallpapers/astronaut-yoga.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "bankai",
+      "name": "Bankai",
+      "path": "wallpapers/bankai-\u534d\u89e3.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "berserkerArmor",
+      "name": "Berserker Armor",
+      "path": "wallpapers/berserker-armor.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "bugattiChironVision",
+      "name": "Bugatti Chiron Vision",
+      "path": "wallpapers/bugatti-chiron-vision.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "coffeeLaptop",
+      "name": "Coffee Laptop",
+      "path": "wallpapers/coffee-laptop.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "cr7",
+      "name": "Cr7",
+      "path": "wallpapers/cr7.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "csmAstronaut",
+      "name": "Csm Astronaut",
+      "path": "wallpapers/csm_astronaut.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "cyberpunk",
+      "name": "Cyberpunk",
+      "path": "wallpapers/cyberpunk.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "goJo",
+      "name": "Go Jo",
+      "path": "wallpapers/go-jo.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "gojo",
+      "name": "Gojo",
+      "path": "wallpapers/gojo.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "gundam",
+      "name": "Gundam",
+      "path": "wallpapers/gundam.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "gutsSmile",
+      "name": "Guts Smile",
+      "path": "wallpapers/guts_smile.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "handsAlucard",
+      "name": "Hands Alucard",
+      "path": "wallpapers/hands-alucard.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "hands",
+      "name": "Hands",
+      "path": "wallpapers/hands.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "helloWorldPixel",
+      "name": "Hello World Pixel",
+      "path": "wallpapers/hello-world-pixel.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "ichigoKurosaki",
+      "name": "Ichigo Kurosaki",
+      "path": "wallpapers/ichigo-kurosaki.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "itachiUchiha",
+      "name": "Itachi Uchiha",
+      "path": "wallpapers/itachi-uchiha.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "kakarot",
+      "name": "Kakarot",
+      "path": "wallpapers/kakarot.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "kakashi",
+      "name": "Kakashi",
+      "path": "wallpapers/kakashi.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "makimaIsListening",
+      "name": "Makima Is Listening",
+      "path": "wallpapers/makima_is_listening.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "milesMoralesEyes",
+      "name": "Miles Morales Eyes",
+      "path": "wallpapers/miles-morales-eyes.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "milesMoralesSpiderverse",
+      "name": "Miles Morales Spiderverse",
+      "path": "wallpapers/miles-morales-spiderverse.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "milesMorales",
+      "name": "Miles Morales",
+      "path": "wallpapers/miles-morales.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "nier",
+      "name": "Nier",
+      "path": "wallpapers/nier.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "p5",
+      "name": "P5",
+      "path": "wallpapers/p5.jpeg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "phonkDevil",
+      "name": "Phonk Devil",
+      "path": "wallpapers/phonk-devil.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "road",
+      "name": "Road",
+      "path": "wallpapers/road.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "roronoaZoro",
+      "name": "Roronoa Zoro",
+      "path": "wallpapers/roronoa-zoro.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "samurai",
+      "name": "Samurai",
+      "path": "wallpapers/samurai.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "sasukeUchiha",
+      "name": "Sasuke Uchiha",
+      "path": "wallpapers/sasuke-uchiha.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "sharingan",
+      "name": "Sharingan",
+      "path": "wallpapers/sharingan.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "shinobuKocho",
+      "name": "Shinobu Kocho",
+      "path": "wallpapers/shinobu-kocho.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "spidey",
+      "name": "Spidey",
+      "path": "wallpapers/spidey.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "starWars",
+      "name": "Star Wars",
+      "path": "wallpapers/star-wars.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "sungJinwoo",
+      "name": "Sung Jinwoo",
+      "path": "wallpapers/sung-jinwoo.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "tanjiro",
+      "name": "Tanjiro",
+      "path": "wallpapers/tanjiro.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "uzumaki1",
+      "name": "Uzumaki 1",
+      "path": "wallpapers/uzumaki-1.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "uzumaki2",
+      "name": "Uzumaki 2",
+      "path": "wallpapers/uzumaki-2.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "vagabond",
+      "name": "Vagabond",
+      "path": "wallpapers/vagabond.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "venom",
+      "name": "Venom",
+      "path": "wallpapers/venom.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "windowsBlack",
+      "name": "Windows Black",
+      "path": "wallpapers/windows-black.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "windowsBlue",
+      "name": "Windows Blue",
+      "path": "wallpapers/windows-blue.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "zenitsu",
+      "name": "Zenitsu",
+      "path": "wallpapers/zenitsu.jpg",
+      "fillMode": "Fill"
+    }
+  ],
+  "window": {
+    "borderColor": "#9c9c9c",
+    "borderActiveColor": "#bababa",
+    "borderInactiveColor": "#454545",
+    "borderSize": 2,
+    "gapsIn": 4,
+    "gapsOut": 8,
+    "rounding": 8
+  },
+  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/vanta-black"
+}

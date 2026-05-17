@@ -1,0 +1,163 @@
+{
+  "id": "limefrenzy",
+  "name": "LimeFrenzy",
+  "version": "0.1.2",
+  "author": "HyDE community, converted for HypeShell",
+  "description": "Lime\u2019s rhythm splits the night, where chaos crafts the vibe.",
+  "dark": {
+    "name": "LimeFrenzy Dark",
+    "primary": "#7fb11b",
+    "primaryText": "#101410",
+    "primaryContainer": "#557712",
+    "secondary": "#549955",
+    "surface": "#2c4110",
+    "surfaceText": "#8fc292",
+    "surfaceVariant": "#4d5415",
+    "surfaceVariantText": "#8eb48b",
+    "surfaceTint": "#7fb11b",
+    "background": "#283809",
+    "backgroundText": "#8fc292",
+    "outline": "#6a9061",
+    "surfaceContainer": "#324f1b",
+    "surfaceContainerHigh": "#3e5a12",
+    "surfaceContainerHighest": "#5b5d17",
+    "error": "#ffb4ab",
+    "warning": "#e1ad2a",
+    "info": "#549955"
+  },
+  "light": {
+    "name": "LimeFrenzy Light",
+    "primary": "#96bf44",
+    "primaryText": "#101410",
+    "primaryContainer": "#b1d077",
+    "secondary": "#80b481",
+    "surface": "#dbe7b9",
+    "surfaceText": "#384e0c",
+    "surfaceVariant": "#dee1aa",
+    "surfaceVariantText": "#51622f",
+    "surfaceTint": "#96bf44",
+    "background": "#cfe2ae",
+    "backgroundText": "#384e0c",
+    "outline": "#6e8346",
+    "surfaceContainer": "#ccdfb0",
+    "surfaceContainerHigh": "#ccde9f",
+    "surfaceContainerHighest": "#dfdea3",
+    "error": "#ba1a1a",
+    "warning": "#e9c466",
+    "info": "#80b481"
+  },
+  "wallpapers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "path": "wallpapers/default.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme00",
+      "name": "00",
+      "path": "wallpapers/00.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme01",
+      "name": "01",
+      "path": "wallpapers/01.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme02",
+      "name": "02",
+      "path": "wallpapers/02.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme03",
+      "name": "03",
+      "path": "wallpapers/03.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme04",
+      "name": "04",
+      "path": "wallpapers/04.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme05",
+      "name": "05",
+      "path": "wallpapers/05.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme06",
+      "name": "06",
+      "path": "wallpapers/06.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme07",
+      "name": "07",
+      "path": "wallpapers/07.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme08",
+      "name": "08",
+      "path": "wallpapers/08.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme09",
+      "name": "09",
+      "path": "wallpapers/09.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme10",
+      "name": "10",
+      "path": "wallpapers/10.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme11",
+      "name": "11",
+      "path": "wallpapers/11.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme12",
+      "name": "12",
+      "path": "wallpapers/12.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme13",
+      "name": "13",
+      "path": "wallpapers/13.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme14",
+      "name": "14",
+      "path": "wallpapers/14.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme15",
+      "name": "15",
+      "path": "wallpapers/15.jpg",
+      "fillMode": "Fill"
+    }
+  ],
+  "window": {
+    "borderColor": "#6a9061",
+    "borderActiveColor": "#7fb11b",
+    "borderInactiveColor": "#4d5415",
+    "borderSize": 2,
+    "gapsIn": 4,
+    "gapsOut": 8,
+    "rounding": 20
+  },
+  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/limefrenzy"
+}

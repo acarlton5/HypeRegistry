@@ -1,0 +1,127 @@
+{
+  "id": "rainDark",
+  "name": "Rain Dark",
+  "version": "0.1.2",
+  "author": "HyDE community, converted for HypeShell",
+  "description": "Cozy new Rain based theme for HyDE",
+  "dark": {
+    "name": "Rain Dark Dark",
+    "primary": "#6c8fda",
+    "primaryText": "#f7fff8",
+    "primaryContainer": "#486092",
+    "secondary": "#76228b",
+    "surface": "#2a2c4a",
+    "surfaceText": "#b883c3",
+    "surfaceVariant": "#364c60",
+    "surfaceVariantText": "#b59cc0",
+    "surfaceTint": "#6c8fda",
+    "background": "#222d44",
+    "backgroundText": "#b883c3",
+    "outline": "#826495",
+    "surfaceContainer": "#362a54",
+    "surfaceContainerHigh": "#39426a",
+    "surfaceContainerHighest": "#3c5b6a",
+    "error": "#ffb4ab",
+    "warning": "#6fdfc7",
+    "info": "#76228b"
+  },
+  "light": {
+    "name": "Rain Dark Light",
+    "primary": "#86a3e1",
+    "primaryText": "#101410",
+    "primaryContainer": "#a7bbe8",
+    "secondary": "#9a5ba9",
+    "surface": "#d2e0f3",
+    "surfaceText": "#2f3f5f",
+    "surfaceVariant": "#c7e1ee",
+    "surfaceVariantText": "#49576e",
+    "surfaceTint": "#86a3e1",
+    "background": "#cad4ef",
+    "backgroundText": "#2f3f5f",
+    "outline": "#677593",
+    "surfaceContainer": "#c9cbe7",
+    "surfaceContainerHigh": "#c1d3ef",
+    "surfaceContainerHighest": "#c3e2ec",
+    "error": "#ba1a1a",
+    "warning": "#97e8d7",
+    "info": "#9a5ba9"
+  },
+  "wallpapers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "path": "wallpapers/default.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "rainDark1",
+      "name": "Rain Dark 1",
+      "path": "wallpapers/rain_dark_1.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "rainDark2",
+      "name": "Rain Dark 2",
+      "path": "wallpapers/rain_dark_2.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "rainGirlDoor",
+      "name": "Rain Girl Door",
+      "path": "wallpapers/rain_girl_door.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "rainGirlUmbrella",
+      "name": "Rain Girl Umbrella",
+      "path": "wallpapers/rain_girl_umbrella.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "rainGroup",
+      "name": "Rain Group",
+      "path": "wallpapers/rain_group.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "rainInGenshin",
+      "name": "Rain In Genshin",
+      "path": "wallpapers/rain_in_genshin.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "streetCar",
+      "name": "Street Car",
+      "path": "wallpapers/street_car.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "tokyoBus",
+      "name": "Tokyo Bus",
+      "path": "wallpapers/tokyo_bus.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "tokyoStreets",
+      "name": "Tokyo Streets",
+      "path": "wallpapers/tokyo_streets.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "umbrellaStreet",
+      "name": "Umbrella Street",
+      "path": "wallpapers/umbrella_street.jpg",
+      "fillMode": "Fill"
+    }
+  ],
+  "window": {
+    "borderColor": "#826495",
+    "borderActiveColor": "#6c8fda",
+    "borderInactiveColor": "#364c60",
+    "borderSize": 2,
+    "gapsIn": 4,
+    "gapsOut": 8,
+    "rounding": 8
+  },
+  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/rain-dark"
+}

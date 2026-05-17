@@ -1,0 +1,121 @@
+{
+  "id": "tundra",
+  "name": "Tundra",
+  "version": "0.1.2",
+  "author": "HyDE community, converted for HypeShell",
+  "description": "A Soothing, Pastel Tundra Theme.",
+  "dark": {
+    "name": "Tundra Dark",
+    "primary": "#d094a3",
+    "primaryText": "#101410",
+    "primaryContainer": "#7e5b64",
+    "secondary": "#5d7493",
+    "surface": "#2b262a",
+    "surfaceText": "#96a9c0",
+    "surfaceVariant": "#4c4343",
+    "surfaceVariantText": "#929fad",
+    "surfaceTint": "#d094a3",
+    "background": "#261e20",
+    "backgroundText": "#96a9c0",
+    "outline": "#6e7786",
+    "surfaceContainer": "#33323b",
+    "surfaceContainerHigh": "#4f3e45",
+    "surfaceContainerHighest": "#5b504f",
+    "error": "#ffb4ab",
+    "warning": "#e5c6b7",
+    "info": "#5d7493"
+  },
+  "light": {
+    "name": "Tundra Light",
+    "primary": "#d8a7b4",
+    "primaryText": "#101410",
+    "primaryContainer": "#e1bfc8",
+    "secondary": "#8798af",
+    "surface": "#f1e0e3",
+    "surfaceText": "#453338",
+    "surfaceVariant": "#f0dedf",
+    "surfaceVariantText": "#6e5d61",
+    "surfaceTint": "#d8a7b4",
+    "background": "#ebd8de",
+    "backgroundText": "#453338",
+    "outline": "#816e74",
+    "surfaceContainer": "#e0d4db",
+    "surfaceContainerHigh": "#ecd3d9",
+    "surfaceContainerHighest": "#f0dddd",
+    "error": "#ba1a1a",
+    "warning": "#ecd6cb",
+    "info": "#8798af"
+  },
+  "wallpapers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "path": "wallpapers/default.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "tundra1",
+      "name": "Tundra1",
+      "path": "wallpapers/tundra1.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "tundra2",
+      "name": "Tundra2",
+      "path": "wallpapers/tundra2.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "tundra3",
+      "name": "Tundra3",
+      "path": "wallpapers/tundra3.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "tundra4",
+      "name": "Tundra4",
+      "path": "wallpapers/tundra4.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "tundra5",
+      "name": "Tundra5",
+      "path": "wallpapers/tundra5.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "tundra6",
+      "name": "Tundra6",
+      "path": "wallpapers/tundra6.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "tundra7",
+      "name": "Tundra7",
+      "path": "wallpapers/tundra7.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "tundra8",
+      "name": "Tundra8",
+      "path": "wallpapers/tundra8.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "tundra9",
+      "name": "Tundra9",
+      "path": "wallpapers/tundra9.jpg",
+      "fillMode": "Fill"
+    }
+  ],
+  "window": {
+    "borderColor": "#6e7786",
+    "borderActiveColor": "#d094a3",
+    "borderInactiveColor": "#4c4343",
+    "borderSize": 2,
+    "gapsIn": 4,
+    "gapsOut": 8,
+    "rounding": 18
+  },
+  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/tundra"
+}

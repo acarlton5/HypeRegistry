@@ -1,0 +1,157 @@
+{
+  "id": "catppuccinLatte",
+  "name": "Catppuccin Latte",
+  "version": "0.1.2",
+  "author": "HyDE community, converted for HypeShell",
+  "description": "Official Theme",
+  "dark": {
+    "name": "Catppuccin Latte Dark",
+    "primary": "#c46a6a",
+    "primaryText": "#f7fff8",
+    "primaryContainer": "#844747",
+    "secondary": "#c9c9d0",
+    "surface": "#4b3132",
+    "surfaceText": "#e7eaef",
+    "surfaceVariant": "#623c4c",
+    "surfaceVariantText": "#c2bec2",
+    "surfaceTint": "#c46a6a",
+    "background": "#3e2222",
+    "backgroundText": "#e7eaef",
+    "outline": "#aaa2a5",
+    "surfaceContainer": "#5f494b",
+    "surfaceContainerHigh": "#663e3e",
+    "surfaceContainerHighest": "#6c4157",
+    "error": "#ffb4ab",
+    "warning": "#ca6ec0",
+    "info": "#c9c9d0"
+  },
+  "light": {
+    "name": "Catppuccin Latte Light",
+    "primary": "#cf8585",
+    "primaryText": "#101410",
+    "primaryContainer": "#dca7a7",
+    "secondary": "#d7d7dc",
+    "surface": "#edd1d4",
+    "surfaceText": "#562f2f",
+    "surfaceVariant": "#e9c7d4",
+    "surfaceVariantText": "#674a4a",
+    "surfaceTint": "#cf8585",
+    "background": "#eacccc",
+    "backgroundText": "#562f2f",
+    "outline": "#8b6868",
+    "surfaceContainer": "#e9d2d5",
+    "surfaceContainerHigh": "#e6c0c3",
+    "surfaceContainerHighest": "#e8c2d3",
+    "error": "#ba1a1a",
+    "warning": "#d997d2",
+    "info": "#d7d7dc"
+  },
+  "wallpapers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "path": "wallpapers/default.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "abstractBlured",
+      "name": "Abstract Blured",
+      "path": "wallpapers/abstract_blured.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "catMinimal",
+      "name": "Cat Minimal",
+      "path": "wallpapers/cat_minimal.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "chainsawAngelLake",
+      "name": "Chainsaw Angel Lake",
+      "path": "wallpapers/chainsaw_angel_lake.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "deloreanPastel",
+      "name": "Delorean Pastel",
+      "path": "wallpapers/delorean_pastel.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "flyingOut",
+      "name": "Flying Out",
+      "path": "wallpapers/flying_out.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "gameboy",
+      "name": "Gameboy",
+      "path": "wallpapers/gameboy.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "jormungandr",
+      "name": "Jormungandr",
+      "path": "wallpapers/jormungandr.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "reindeerForest",
+      "name": "Reindeer Forest",
+      "path": "wallpapers/reindeer_forest.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "rocketLaunch",
+      "name": "Rocket Launch",
+      "path": "wallpapers/rocket_launch.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "samuraiBebop",
+      "name": "Samurai Bebop",
+      "path": "wallpapers/samurai_bebop.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "samuraiStrike",
+      "name": "Samurai Strike",
+      "path": "wallpapers/samurai_strike.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "sekiro",
+      "name": "Sekiro",
+      "path": "wallpapers/sekiro.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "shadedLandscape",
+      "name": "Shaded Landscape",
+      "path": "wallpapers/shaded_landscape.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "waifuAngel",
+      "name": "Waifu Angel",
+      "path": "wallpapers/waifu_angel.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "waifuJasmin",
+      "name": "Waifu Jasmin",
+      "path": "wallpapers/waifu_jasmin.jpg",
+      "fillMode": "Fill"
+    }
+  ],
+  "window": {
+    "borderColor": "#aaa2a5",
+    "borderActiveColor": "#c46a6a",
+    "borderInactiveColor": "#623c4c",
+    "borderSize": 2,
+    "gapsIn": 4,
+    "gapsOut": 8,
+    "rounding": 22
+  },
+  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/catppuccin-latte"
+}

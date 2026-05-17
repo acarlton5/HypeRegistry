@@ -1,0 +1,157 @@
+{
+  "id": "badBlood",
+  "name": "Bad Blood",
+  "version": "0.1.2",
+  "author": "HyDE community, converted for HypeShell",
+  "description": "Red & Black based theme.",
+  "dark": {
+    "name": "Bad Blood Dark",
+    "primary": "#e21f1f",
+    "primaryText": "#f7fff8",
+    "primaryContainer": "#981414",
+    "secondary": "#e9b120",
+    "surface": "#56180b",
+    "surfaceText": "#ffda69",
+    "surfaceVariant": "#70192f",
+    "surfaceVariantText": "#d6ab52",
+    "surfaceTint": "#e21f1f",
+    "background": "#470909",
+    "backgroundText": "#ffda69",
+    "outline": "#bd8f46",
+    "surfaceContainer": "#6e300e",
+    "surfaceContainerHigh": "#751a0f",
+    "surfaceContainerHighest": "#7c1a3f",
+    "error": "#ffb4ab",
+    "warning": "#e920d2",
+    "info": "#e9b120"
+  },
+  "light": {
+    "name": "Bad Blood Light",
+    "primary": "#e74747",
+    "primaryText": "#f7fff8",
+    "primaryContainer": "#ee7b79",
+    "secondary": "#efc55a",
+    "surface": "#f6bac1",
+    "surfaceText": "#630d0d",
+    "surfaceVariant": "#f5a9c6",
+    "surfaceVariantText": "#863738",
+    "surfaceTint": "#e74747",
+    "background": "#f5b3af",
+    "backgroundText": "#630d0d",
+    "outline": "#984947",
+    "surfaceContainer": "#f5bcb1",
+    "surfaceContainerHigh": "#f3a1a6",
+    "surfaceContainerHighest": "#f4a2c9",
+    "error": "#ba1a1a",
+    "warning": "#ef5edf",
+    "info": "#efc55a"
+  },
+  "wallpapers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "path": "wallpapers/default.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "abstractMountainRoad",
+      "name": "Abstract Mountain Road",
+      "path": "wallpapers/Abstract Mountain Road.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "bloodyMoon",
+      "name": "Bloody Moon",
+      "path": "wallpapers/Bloody moon.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "flowers",
+      "name": "Flowers",
+      "path": "wallpapers/flowers.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "redSeemsSuspiciousBro",
+      "name": "Red Seems Suspicious Bro",
+      "path": "wallpapers/Red seems suspicious bro.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "redAlexPerez",
+      "name": "Red Alex Perez",
+      "path": "wallpapers/red-alex-perez.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "redSYNTHWAVE",
+      "name": "RED SYNTHWAVE",
+      "path": "wallpapers/RED-SYNTHWAVE.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "redSpacesuit",
+      "name": "Red Spacesuit",
+      "path": "wallpapers/red_spacesuit.jpeg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "spiderManRedAndBlack",
+      "name": "Spider Man Red And Black",
+      "path": "wallpapers/Spider-Man Red and Black.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "sunset",
+      "name": "Sunset",
+      "path": "wallpapers/Sunset.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "wallhaven4ogjom",
+      "name": "Wallhaven 4ogjom",
+      "path": "wallpapers/wallhaven-4ogjom.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "wallhavenGj1xq7",
+      "name": "Wallhaven Gj1xq7",
+      "path": "wallpapers/wallhaven-gj1xq7.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "wallhavenL81qoy",
+      "name": "Wallhaven L81qoy",
+      "path": "wallpapers/wallhaven-l81qoy.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "wallhavenOx2eel",
+      "name": "Wallhaven Ox2eel",
+      "path": "wallpapers/wallhaven-ox2eel.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "wallhavenP875de",
+      "name": "Wallhaven P875de",
+      "path": "wallpapers/wallhaven-p875de.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "wallhavenQdx1yd",
+      "name": "Wallhaven Qdx1yd",
+      "path": "wallpapers/wallhaven-qdx1yd.png",
+      "fillMode": "Fill"
+    }
+  ],
+  "window": {
+    "borderColor": "#bd8f46",
+    "borderActiveColor": "#e21f1f",
+    "borderInactiveColor": "#70192f",
+    "borderSize": 2,
+    "gapsIn": 4,
+    "gapsOut": 8,
+    "rounding": 8
+  },
+  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/bad-blood"
+}

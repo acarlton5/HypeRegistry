@@ -1,0 +1,307 @@
+{
+  "id": "macOs",
+  "name": "Mac OS",
+  "version": "0.1.2",
+  "author": "HyDE community, converted for HypeShell",
+  "description": "Official Theme",
+  "dark": {
+    "name": "Mac OS Dark",
+    "primary": "#8aa1e0",
+    "primaryText": "#101410",
+    "primaryContainer": "#5e6d93",
+    "secondary": "#de9f52",
+    "surface": "#3e3f42",
+    "surfaceText": "#f9c78b",
+    "surfaceVariant": "#4d5d5d",
+    "surfaceVariantText": "#cca679",
+    "surfaceTint": "#8aa1e0",
+    "background": "#2e3540",
+    "backgroundText": "#f9c78b",
+    "outline": "#b09270",
+    "surfaceContainer": "#584e45",
+    "surfaceContainerHigh": "#4f5565",
+    "surfaceContainerHighest": "#536b69",
+    "error": "#ffb4ab",
+    "warning": "#8fe7d9",
+    "info": "#de9f52"
+  },
+  "light": {
+    "name": "Mac OS Light",
+    "primary": "#9fb2e6",
+    "primaryText": "#101410",
+    "primaryContainer": "#bac7ea",
+    "secondary": "#e7b87f",
+    "surface": "#dbe5f5",
+    "surfaceText": "#3f485d",
+    "surfaceVariant": "#d3e7f2",
+    "surfaceVariantText": "#555e6d",
+    "surfaceTint": "#9fb2e6",
+    "background": "#d7ddef",
+    "backgroundText": "#3f485d",
+    "outline": "#767e92",
+    "surfaceContainer": "#dddee2",
+    "surfaceContainerHigh": "#cedaf2",
+    "surfaceContainerHighest": "#cfe7f1",
+    "error": "#ba1a1a",
+    "warning": "#aeeee4",
+    "info": "#e7b87f"
+  },
+  "wallpapers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "path": "wallpapers/default.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme1010",
+      "name": "10 10",
+      "path": "wallpapers/10-10.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme1011",
+      "name": "10 11",
+      "path": "wallpapers/10-11.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme1012",
+      "name": "10 12",
+      "path": "wallpapers/10-12.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "abstractLightsDarkness",
+      "name": "Abstract Lights Darkness",
+      "path": "wallpapers/abstract-lights-darkness.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "blueHour4k",
+      "name": "Blue Hour 4k",
+      "path": "wallpapers/blue_hour_4k.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "blueRings",
+      "name": "Blue Rings",
+      "path": "wallpapers/Blue_Rings.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "bokehHighlightsCircles",
+      "name": "Bokeh Highlights Circles",
+      "path": "wallpapers/bokeh_highlights_circles.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "bubblesWaterPurple",
+      "name": "Bubbles Water Purple",
+      "path": "wallpapers/bubbles_water_purple.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "comos",
+      "name": "COMOS",
+      "path": "wallpapers/COMOS.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "earthPlanetSpace",
+      "name": "Earth Planet Space",
+      "path": "wallpapers/earth_planet_space.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "eveningLights",
+      "name": "Evening Lights",
+      "path": "wallpapers/evening_lights.gif",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "fadedTrianglesBD",
+      "name": "Faded Triangles BD",
+      "path": "wallpapers/Faded-Triangles-BD.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "fishschool",
+      "name": "FishSchool",
+      "path": "wallpapers/fishSchool.jpeg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "formLightAbstraction",
+      "name": "Form Light Abstraction",
+      "path": "wallpapers/form_light_abstraction.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "fractalSparklesGlow",
+      "name": "Fractal Sparkles Glow",
+      "path": "wallpapers/fractal_sparkles_glow.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "glitchnoise",
+      "name": "GlitchNoise",
+      "path": "wallpapers/glitchNoise.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "goldenhour",
+      "name": "GoldenHour",
+      "path": "wallpapers/goldenHour.jpeg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "johnFowler",
+      "name": "John Fowler",
+      "path": "wallpapers/john-fowler.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "life",
+      "name": "Life",
+      "path": "wallpapers/Life.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "linesIntersectionColorful",
+      "name": "Lines Intersection Colorful",
+      "path": "wallpapers/lines_intersection_colorful.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "mac0sWallpaper11Scaled",
+      "name": "Mac0s Wallpaper 11 Scaled",
+      "path": "wallpapers/mac0s-wallpaper-11-scaled.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "macosWallpaper9Scaled",
+      "name": "Macos Wallpaper 9 Scaled",
+      "path": "wallpapers/macos-wallpaper-9-scaled.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "paintStainsBlue",
+      "name": "Paint Stains Blue",
+      "path": "wallpapers/paint_stains_blue.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "patternsAbstractionTexture",
+      "name": "Patterns Abstraction Texture",
+      "path": "wallpapers/patterns_abstraction_texture.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "pearlDark5K",
+      "name": "Pearl Dark 5K",
+      "path": "wallpapers/Pearl_-_Dark_-_5K.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "pinkMountains",
+      "name": "Pink Mountains",
+      "path": "wallpapers/pink_mountains.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "planeTrailSky",
+      "name": "Plane Trail Sky",
+      "path": "wallpapers/plane_trail_sky.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "purpleGirl",
+      "name": "Purple Girl",
+      "path": "wallpapers/purple-girl.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "ringsIntersectionGlow",
+      "name": "Rings Intersection Glow",
+      "path": "wallpapers/rings_intersection_glow.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "samuelFerrara6dqCCs0vCcUUnsplash",
+      "name": "Samuel Ferrara 6dqCCs0vCcU Unsplash",
+      "path": "wallpapers/samuel-ferrara-6dqCCs0vCcU-unsplash.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "samuelFerrara",
+      "name": "Samuel Ferrara",
+      "path": "wallpapers/samuel-ferrara.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "shatteredByEmily",
+      "name": "Shattered By Emily",
+      "path": "wallpapers/shattered_by_emily.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "smokeAbstractionParticles",
+      "name": "Smoke Abstraction Particles",
+      "path": "wallpapers/smoke_abstraction_particles.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "squaresStripesShapes",
+      "name": "Squares Stripes Shapes",
+      "path": "wallpapers/squares_stripes_shapes.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "tasercut",
+      "name": "TaserCut",
+      "path": "wallpapers/TaserCut.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "terrain",
+      "name": "Terrain",
+      "path": "wallpapers/Terrain.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "vistopa28ByPoesydens",
+      "name": "Vistopa 28 By Poesydens",
+      "path": "wallpapers/vistopa_28_by_poesydens.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "waterClouds",
+      "name": "Water Clouds",
+      "path": "wallpapers/water_clouds.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "waterHorizonSky",
+      "name": "Water Horizon Sky",
+      "path": "wallpapers/water_horizon_sky.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "wavesWavinessPattern",
+      "name": "Waves Waviness Pattern",
+      "path": "wallpapers/waves_waviness_pattern.jpg",
+      "fillMode": "Fill"
+    }
+  ],
+  "window": {
+    "borderColor": "#b09270",
+    "borderActiveColor": "#8aa1e0",
+    "borderInactiveColor": "#4d5d5d",
+    "borderSize": 2,
+    "gapsIn": 4,
+    "gapsOut": 8,
+    "rounding": 20
+  },
+  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/mac-os"
+}

@@ -1,0 +1,121 @@
+{
+  "id": "gruvboxRetro",
+  "name": "Gruvbox Retro",
+  "version": "0.1.2",
+  "author": "HyDE community, converted for HypeShell",
+  "description": "Official Theme",
+  "dark": {
+    "name": "Gruvbox Retro Dark",
+    "primary": "#5a7f2b",
+    "primaryText": "#f7fff8",
+    "primaryContainer": "#3c551d",
+    "secondary": "#32363c",
+    "surface": "#1e2912",
+    "surfaceText": "#8d9094",
+    "surfaceVariant": "#303217",
+    "surfaceVariantText": "#8a8f8d",
+    "surfaceTint": "#5a7f2b",
+    "background": "#1c280e",
+    "backgroundText": "#8d9094",
+    "outline": "#646b64",
+    "surfaceContainer": "#212b19",
+    "surfaceContainerHigh": "#2b3c18",
+    "surfaceContainerHighest": "#383619",
+    "error": "#ffb4ab",
+    "warning": "#815b2d",
+    "info": "#32363c"
+  },
+  "light": {
+    "name": "Gruvbox Retro Light",
+    "primary": "#789651",
+    "primaryText": "#f7fff8",
+    "primaryContainer": "#9cb180",
+    "secondary": "#676a6f",
+    "surface": "#ced6be",
+    "surfaceText": "#273813",
+    "surfaceVariant": "#c6c8af",
+    "surfaceVariantText": "#4f5e3c",
+    "surfaceTint": "#789651",
+    "background": "#c3ceb3",
+    "backgroundText": "#273813",
+    "outline": "#5f6e4d",
+    "surfaceContainer": "#bec5b1",
+    "surfaceContainerHigh": "#bbc8a6",
+    "surfaceContainerHighest": "#c3c2a8",
+    "error": "#ba1a1a",
+    "warning": "#a48968",
+    "info": "#676a6f"
+  },
+  "wallpapers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "path": "wallpapers/default.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "finalizer",
+      "name": "Finalizer",
+      "path": "wallpapers/finalizer.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "futureTown",
+      "name": "Future Town",
+      "path": "wallpapers/future_town.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "lady",
+      "name": "Lady",
+      "path": "wallpapers/lady.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "minimalSquares",
+      "name": "Minimal Squares",
+      "path": "wallpapers/minimal_squares.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "mistyForest",
+      "name": "Misty Forest",
+      "path": "wallpapers/misty_forest.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "nightMoon",
+      "name": "Night Moon",
+      "path": "wallpapers/night_moon.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "patterns",
+      "name": "Patterns",
+      "path": "wallpapers/patterns.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "street",
+      "name": "Street",
+      "path": "wallpapers/street.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "wall",
+      "name": "Wall",
+      "path": "wallpapers/wall.jpg",
+      "fillMode": "Fill"
+    }
+  ],
+  "window": {
+    "borderColor": "#646b64",
+    "borderActiveColor": "#5a7f2b",
+    "borderInactiveColor": "#303217",
+    "borderSize": 2,
+    "gapsIn": 4,
+    "gapsOut": 8,
+    "rounding": 14
+  },
+  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/gruvbox-retro"
+}

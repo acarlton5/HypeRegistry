@@ -1,0 +1,151 @@
+{
+  "id": "scarletNight",
+  "name": "Scarlet Night",
+  "version": "0.1.2",
+  "author": "HyDE community, converted for HypeShell",
+  "description": "Hot-Red + Deep-Black",
+  "dark": {
+    "name": "Scarlet Night Dark",
+    "primary": "#dc0101",
+    "primaryText": "#f7fff8",
+    "primaryContainer": "#850505",
+    "secondary": "#e5a901",
+    "surface": "#381808",
+    "surfaceText": "#ffd352",
+    "surfaceVariant": "#57142c",
+    "surfaceVariantText": "#cfa640",
+    "surfaceTint": "#dc0101",
+    "background": "#270909",
+    "backgroundText": "#ffd352",
+    "outline": "#b18a38",
+    "surfaceContainer": "#542f07",
+    "surfaceContainerHigh": "#5c1306",
+    "surfaceContainerHighest": "#65123c",
+    "error": "#ffb4ab",
+    "warning": "#e501cf",
+    "info": "#e5a901"
+  },
+  "light": {
+    "name": "Scarlet Night Light",
+    "primary": "#e22f2f",
+    "primaryText": "#f7fff8",
+    "primaryContainer": "#ea6a67",
+    "secondary": "#ecbf43",
+    "surface": "#f4b1b9",
+    "surfaceText": "#480808",
+    "surfaceVariant": "#f39ebf",
+    "surfaceVariantText": "#713132",
+    "surfaceTint": "#e22f2f",
+    "background": "#f3a9a4",
+    "backgroundText": "#480808",
+    "outline": "#864240",
+    "surfaceContainer": "#f3b3a6",
+    "surfaceContainerHigh": "#f0949b",
+    "surfaceContainerHighest": "#f296c2",
+    "error": "#ba1a1a",
+    "warning": "#ec48dc",
+    "info": "#ecbf43"
+  },
+  "wallpapers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "path": "wallpapers/default.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "accentedRed",
+      "name": "Accented Red",
+      "path": "wallpapers/Accented Red.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "ferrari",
+      "name": "Ferrari",
+      "path": "wallpapers/Ferrari.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "hornsRed",
+      "name": "Horns Red",
+      "path": "wallpapers/Horns Red.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "ninjaRed",
+      "name": "Ninja Red",
+      "path": "wallpapers/Ninja Red.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "redHair",
+      "name": "Red Hair",
+      "path": "wallpapers/Red Hair.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "redJacket",
+      "name": "Red Jacket",
+      "path": "wallpapers/Red Jacket.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "sideRed",
+      "name": "Side Red",
+      "path": "wallpapers/Side Red.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "standingGirl",
+      "name": "Standing Girl",
+      "path": "wallpapers/Standing girl.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "swordBlack",
+      "name": "Sword Black",
+      "path": "wallpapers/Sword Black.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "swordSilverHair",
+      "name": "Sword Silver Hair",
+      "path": "wallpapers/Sword Silver Hair.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "tattoRed",
+      "name": "Tatto Red",
+      "path": "wallpapers/Tatto Red.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "warriorSilverSword",
+      "name": "Warrior Silver Sword",
+      "path": "wallpapers/Warrior Silver Sword.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "wingsDark",
+      "name": "Wings Dark",
+      "path": "wallpapers/Wings Dark.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "wingsSplit",
+      "name": "Wings Split",
+      "path": "wallpapers/Wings Split.png",
+      "fillMode": "Fill"
+    }
+  ],
+  "window": {
+    "borderColor": "#b18a38",
+    "borderActiveColor": "#dc0101",
+    "borderInactiveColor": "#57142c",
+    "borderSize": 2,
+    "gapsIn": 4,
+    "gapsOut": 8,
+    "rounding": 8
+  },
+  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/scarlet-night"
+}

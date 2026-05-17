@@ -1,0 +1,68 @@
+{
+  "id": "nordicBlue",
+  "name": "Nordic Blue",
+  "version": "0.1.2",
+  "author": "HyDE community, converted for HypeShell",
+  "description": "Official Theme",
+  "dark": {
+    "name": "Nordic Blue Dark",
+    "primary": "#6577e0",
+    "primaryText": "#f7fff8",
+    "primaryContainer": "#445097",
+    "secondary": "#b169e7",
+    "surface": "#2d2b56",
+    "surfaceText": "#d89ffe",
+    "surfaceVariant": "#384c6f",
+    "surfaceVariantText": "#bc99dc",
+    "surfaceTint": "#6577e0",
+    "background": "#202547",
+    "backgroundText": "#d89ffe",
+    "outline": "#9673bc",
+    "surfaceContainer": "#42356d",
+    "surfaceContainerHigh": "#393c74",
+    "surfaceContainerHighest": "#3c5b7a",
+    "error": "#ffb4ab",
+    "warning": "#68e3df",
+    "info": "#b169e7"
+  },
+  "light": {
+    "name": "Nordic Blue Light",
+    "primary": "#818fe6",
+    "primaryText": "#f7fff8",
+    "primaryContainer": "#a4aded",
+    "secondary": "#c590ed",
+    "surface": "#d0d9f5",
+    "surfaceText": "#2c3463",
+    "surfaceVariant": "#c5dcf3",
+    "surfaceVariantText": "#535c86",
+    "surfaceTint": "#818fe6",
+    "background": "#cacef4",
+    "backgroundText": "#2c3463",
+    "outline": "#656b97",
+    "surfaceContainer": "#cecdf4",
+    "surfaceContainerHigh": "#bfc9f2",
+    "surfaceContainerHighest": "#c0def2",
+    "error": "#ba1a1a",
+    "warning": "#92ebe8",
+    "info": "#c590ed"
+  },
+  "wallpapers": [
+    {
+      "id": "themeWallpaper",
+      "name": "Theme Wallpaper",
+      "lightPath": "wallpapers/theme-light.svg",
+      "darkPath": "wallpapers/theme-dark.svg",
+      "fillMode": "Fill"
+    }
+  ],
+  "window": {
+    "borderColor": "#9673bc",
+    "borderActiveColor": "#6577e0",
+    "borderInactiveColor": "#384c6f",
+    "borderSize": 2,
+    "gapsIn": 4,
+    "gapsOut": 8,
+    "rounding": 18
+  },
+  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/nordic-blue"
+}

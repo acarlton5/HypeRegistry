@@ -1,0 +1,151 @@
+{
+  "id": "catppuccinMacchiato",
+  "name": "Catppuccin-Macchiato",
+  "version": "0.1.2",
+  "author": "HyDE community, converted for HypeShell",
+  "description": "Catppuccin Macchiato with Mauve Accent",
+  "dark": {
+    "name": "Catppuccin-Macchiato Dark",
+    "primary": "#af8eda",
+    "primaryText": "#101410",
+    "primaryContainer": "#755f92",
+    "secondary": "#ddc6c4",
+    "surface": "#463b50",
+    "surfaceText": "#f8e7e3",
+    "surfaceVariant": "#5b536a",
+    "surfaceVariantText": "#cdbec0",
+    "surfaceTint": "#af8eda",
+    "background": "#372d44",
+    "backgroundText": "#f8e7e3",
+    "outline": "#b3a4aa",
+    "surfaceContainer": "#5e5163",
+    "surfaceContainerHigh": "#5d4d6e",
+    "surfaceContainerHighest": "#645d75",
+    "error": "#ffb4ab",
+    "warning": "#b8bfe0",
+    "info": "#ddc6c4"
+  },
+  "light": {
+    "name": "Catppuccin-Macchiato Light",
+    "primary": "#bda2e1",
+    "primaryText": "#101410",
+    "primaryContainer": "#d0bce9",
+    "secondary": "#e6d5d3",
+    "surface": "#e7def4",
+    "surfaceText": "#4d3e5f",
+    "surfaceVariant": "#e2dcf2",
+    "surfaceVariantText": "#60566e",
+    "surfaceTint": "#bda2e1",
+    "background": "#e4d8f1",
+    "backgroundText": "#4d3e5f",
+    "outline": "#837594",
+    "surfaceContainer": "#e7ddef",
+    "surfaceContainerHigh": "#ded1f0",
+    "surfaceContainerHighest": "#e0dbf1",
+    "error": "#ba1a1a",
+    "warning": "#ccd1e9",
+    "info": "#e6d5d3"
+  },
+  "wallpapers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "path": "wallpapers/default.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme1SpaceRed",
+      "name": "1 Space Red",
+      "path": "wallpapers/1_space_red.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme20LakesideSunset",
+      "name": "20 Lakeside Sunset",
+      "path": "wallpapers/20_lakeside_sunset.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme21ReindeerForest",
+      "name": "21 Reindeer Forest",
+      "path": "wallpapers/21_reindeer_forest.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme22RocketLaunch",
+      "name": "22 Rocket Launch",
+      "path": "wallpapers/22_rocket_launch.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme23SamuraiBebop",
+      "name": "23 Samurai Bebop",
+      "path": "wallpapers/23_samurai_bebop.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme24ShadedLandscape",
+      "name": "24 Shaded Landscape",
+      "path": "wallpapers/24_shaded_landscape.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme2NordicSunset",
+      "name": "2 Nordic Sunset",
+      "path": "wallpapers/2_nordic_sunset.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme3Material",
+      "name": "3 Material",
+      "path": "wallpapers/3_material.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme4AbstractBlured",
+      "name": "4 Abstract Blured",
+      "path": "wallpapers/4_abstract_blured.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme5BlackHoleByKurzgesagt",
+      "name": "5 Black Hole By Kurzgesagt",
+      "path": "wallpapers/5_black_hole_by_kurzgesagt.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme6EdgerLucyNeon",
+      "name": "6 Edger Lucy Neon",
+      "path": "wallpapers/6_edger_lucy_neon.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme7Firewatch",
+      "name": "7 Firewatch",
+      "path": "wallpapers/7_firewatch.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme8GasStation",
+      "name": "8 Gas Station",
+      "path": "wallpapers/8_gas_station.gif",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme9JapanMountainPink",
+      "name": "9 Japan Mountain Pink",
+      "path": "wallpapers/9_japan_mountain_pink.jpg",
+      "fillMode": "Fill"
+    }
+  ],
+  "window": {
+    "borderColor": "#b3a4aa",
+    "borderActiveColor": "#af8eda",
+    "borderInactiveColor": "#5b536a",
+    "borderSize": 2,
+    "gapsIn": 4,
+    "gapsOut": 8,
+    "rounding": 22
+  },
+  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/catppuccin-macchiato"
+}

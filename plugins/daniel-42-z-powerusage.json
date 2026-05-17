@@ -1,0 +1,21 @@
+{
+    "id":  "powerUsagePlugin",
+    "name":  "Power Usage Monitor",
+    "capabilities":  [
+                         "dankbar-widget"
+                     ],
+    "category":  "monitoring",
+    "repo":  "https://github.com/acarlton5/HYPEPLUGIN-powerUsagePlugin",
+    "author":  "Daniel-42-z",
+    "description":  "Display real-time power consumption from your device",
+    "dependencies":  [
+
+                     ],
+    "compositors":  [
+                        "any"
+                    ],
+    "distro":  [
+                   "any"
+               ],
+    "screenshot":  "https://github.com/Daniel-42-z/dms-power-usage/raw/main/screenshot.png"
+}

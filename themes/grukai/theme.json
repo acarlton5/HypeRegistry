@@ -1,0 +1,163 @@
+{
+  "id": "grukai",
+  "name": "Grukai",
+  "version": "0.1.2",
+  "author": "HyDE community, converted for HypeShell",
+  "description": "Where retro warmth meets modern edge",
+  "dark": {
+    "name": "Grukai Dark",
+    "primary": "#d1b194",
+    "primaryText": "#101410",
+    "primaryContainer": "#83705e",
+    "secondary": "#e6e5b8",
+    "surface": "#3f3a31",
+    "surfaceText": "#ffffdc",
+    "surfaceVariant": "#5b4b49",
+    "surfaceVariantText": "#d1d0b3",
+    "surfaceTint": "#d1b194",
+    "background": "#2e2923",
+    "backgroundText": "#ffffdc",
+    "outline": "#b4b299",
+    "surfaceContainer": "#5a5547",
+    "surfaceContainerHigh": "#5f5447",
+    "surfaceContainerHighest": "#675353",
+    "error": "#ffb4ab",
+    "warning": "#d99bb5",
+    "info": "#e6e5b8"
+  },
+  "light": {
+    "name": "Grukai Light",
+    "primary": "#d9bfa7",
+    "primaryText": "#101410",
+    "primaryContainer": "#e4d1bf",
+    "secondary": "#ececca",
+    "surface": "#f1e6df",
+    "surfaceText": "#4b4137",
+    "surfaceVariant": "#efdedb",
+    "surfaceVariantText": "#615a51",
+    "surfaceTint": "#d9bfa7",
+    "background": "#efe4da",
+    "backgroundText": "#4b4137",
+    "outline": "#867c72",
+    "surfaceContainer": "#f0e7dc",
+    "surfaceContainerHigh": "#ecddd3",
+    "surfaceContainerHighest": "#eedada",
+    "error": "#ba1a1a",
+    "warning": "#e4b7ca",
+    "info": "#ececca"
+  },
+  "wallpapers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "path": "wallpapers/default.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme1",
+      "name": "1",
+      "path": "wallpapers/1.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "boxes",
+      "name": "Boxes",
+      "path": "wallpapers/Boxes.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "davideRagusa4jcFu1byopQ",
+      "name": "Davide Ragusa 4jcFu1byopQ",
+      "path": "wallpapers/davide-ragusa-4jcFu1byopQ.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "deadRobot",
+      "name": "Dead Robot",
+      "path": "wallpapers/dead-robot.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "galaxy",
+      "name": "Galaxy",
+      "path": "wallpapers/galaxy.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "gltGruvbox",
+      "name": "Glt Gruvbox",
+      "path": "wallpapers/glt_gruvbox.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "gruvDevMinimal",
+      "name": "Gruv Dev Minimal",
+      "path": "wallpapers/gruv-dev-minimal.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "pacmanGhosts",
+      "name": "Pacman Ghosts",
+      "path": "wallpapers/pacman-ghosts.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "piokoho",
+      "name": "PiOkOHo",
+      "path": "wallpapers/piOkOHo.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "r5al5e7",
+      "name": "R5al5E7",
+      "path": "wallpapers/r5al5E7.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "urhmauy",
+      "name": "URHmauy",
+      "path": "wallpapers/URHmauy.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "wallSecondary",
+      "name": "Wall Secondary",
+      "path": "wallpapers/wall_secondary.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "wallhaven2e2xyx",
+      "name": "Wallhaven 2e2xyx",
+      "path": "wallpapers/wallhaven-2e2xyx.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "wallhavenRrvlym",
+      "name": "Wallhaven Rrvlym",
+      "path": "wallpapers/wallhaven-rrvlym.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "wp11058332",
+      "name": "Wp11058332",
+      "path": "wallpapers/wp11058332.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "xavierCuencaW43",
+      "name": "Xavier Cuenca W4 3",
+      "path": "wallpapers/xavier-cuenca-w4-3.jpg",
+      "fillMode": "Fill"
+    }
+  ],
+  "window": {
+    "borderColor": "#b4b299",
+    "borderActiveColor": "#d1b194",
+    "borderInactiveColor": "#5b4b49",
+    "borderSize": 2,
+    "gapsIn": 4,
+    "gapsOut": 8,
+    "rounding": 6
+  },
+  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/grukai"
+}

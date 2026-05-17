@@ -1,0 +1,97 @@
+{
+  "id": "monokai",
+  "name": "Monokai",
+  "version": "0.1.2",
+  "author": "HyDE community, converted for HypeShell",
+  "description": "Monokai based theme for Hyde",
+  "dark": {
+    "name": "Monokai Dark",
+    "primary": "#df865b",
+    "primaryText": "#101410",
+    "primaryContainer": "#965a3d",
+    "secondary": "#e0b0cf",
+    "surface": "#54362d",
+    "surfaceText": "#f8d6ef",
+    "surfaceVariant": "#6e544c",
+    "surfaceVariantText": "#d1b0c0",
+    "surfaceTint": "#df865b",
+    "background": "#462a1d",
+    "backgroundText": "#f8d6ef",
+    "outline": "#b898a3",
+    "surfaceContainer": "#6a4a47",
+    "surfaceContainerHigh": "#734837",
+    "surfaceContainerHighest": "#796259",
+    "error": "#ffb4ab",
+    "warning": "#e3dfd7",
+    "info": "#e0b0cf"
+  },
+  "light": {
+    "name": "Monokai Light",
+    "primary": "#e59c79",
+    "primaryText": "#101410",
+    "primaryContainer": "#ecb79e",
+    "secondary": "#e8c5db",
+    "surface": "#f5ddd1",
+    "surfaceText": "#623b28",
+    "surfaceVariant": "#f3dfd4",
+    "surfaceVariantText": "#705445",
+    "surfaceTint": "#e59c79",
+    "background": "#f3d5c7",
+    "backgroundText": "#623b28",
+    "outline": "#967261",
+    "surfaceContainer": "#f3d9d3",
+    "surfaceContainerHigh": "#f1cfbe",
+    "surfaceContainerHighest": "#f2e0d5",
+    "error": "#ba1a1a",
+    "warning": "#ebe8e2",
+    "info": "#e8c5db"
+  },
+  "wallpapers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "path": "wallpapers/default.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme506LfWz",
+      "name": "506LfWz",
+      "path": "wallpapers/506LfWz.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "abstractMountainRoad",
+      "name": "Abstract Mountain Road",
+      "path": "wallpapers/Abstract Mountain Road.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "bloodyMoon",
+      "name": "Bloody Moon",
+      "path": "wallpapers/Bloody moon.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "flowers",
+      "name": "Flowers",
+      "path": "wallpapers/flowers.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "train",
+      "name": "Train",
+      "path": "wallpapers/train.jpg",
+      "fillMode": "Fill"
+    }
+  ],
+  "window": {
+    "borderColor": "#b898a3",
+    "borderActiveColor": "#df865b",
+    "borderInactiveColor": "#6e544c",
+    "borderSize": 2,
+    "gapsIn": 4,
+    "gapsOut": 8,
+    "rounding": 8
+  },
+  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/monokai"
+}

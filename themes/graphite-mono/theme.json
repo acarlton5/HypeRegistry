@@ -1,0 +1,133 @@
+{
+  "id": "graphiteMono",
+  "name": "Graphite Mono",
+  "version": "0.1.2",
+  "author": "HyDE community, converted for HypeShell",
+  "description": "Official Theme",
+  "dark": {
+    "name": "Graphite Mono Dark",
+    "primary": "#bbbbbb",
+    "primaryText": "#101410",
+    "primaryContainer": "#707070",
+    "secondary": "#c3c3c3",
+    "surface": "#2d2d2d",
+    "surfaceText": "#e5e5e5",
+    "surfaceVariant": "#484848",
+    "surfaceVariantText": "#b9b9b9",
+    "surfaceTint": "#bbbbbb",
+    "background": "#1e1e1e",
+    "backgroundText": "#e5e5e5",
+    "outline": "#9d9d9d",
+    "surfaceContainer": "#454545",
+    "surfaceContainerHigh": "#4c4c4c",
+    "surfaceContainerHighest": "#545454",
+    "error": "#ffb4ab",
+    "warning": "#c3c3c3",
+    "info": "#c3c3c3"
+  },
+  "light": {
+    "name": "Graphite Mono Light",
+    "primary": "#c7c7c7",
+    "primaryText": "#101410",
+    "primaryContainer": "#d6d6d6",
+    "secondary": "#d3d3d3",
+    "surface": "#eaeaea",
+    "surfaceText": "#3a3a3a",
+    "surfaceVariant": "#e6e6e6",
+    "surfaceVariantText": "#646464",
+    "surfaceTint": "#c7c7c7",
+    "background": "#e7e7e7",
+    "backgroundText": "#3a3a3a",
+    "outline": "#787878",
+    "surfaceContainer": "#e6e6e6",
+    "surfaceContainerHigh": "#e2e2e2",
+    "surfaceContainerHighest": "#e4e4e4",
+    "error": "#ba1a1a",
+    "warning": "#d4d4d4",
+    "info": "#d3d3d3"
+  },
+  "wallpapers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "path": "wallpapers/default.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "chainsawmanSketch",
+      "name": "Chainsawman Sketch",
+      "path": "wallpapers/chainsawman_sketch.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "gojo",
+      "name": "Gojo",
+      "path": "wallpapers/gojo.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "japanLake",
+      "name": "Japan Lake",
+      "path": "wallpapers/japan_lake.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "limbo",
+      "name": "Limbo",
+      "path": "wallpapers/limbo.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "minMountain",
+      "name": "Min Mountain",
+      "path": "wallpapers/min_mountain.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "mountainSnow",
+      "name": "Mountain Snow",
+      "path": "wallpapers/mountain_snow.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "nier2b",
+      "name": "Nier 2b",
+      "path": "wallpapers/nier_2b.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "nierMech",
+      "name": "Nier Mech",
+      "path": "wallpapers/nier_mech.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "rocket",
+      "name": "Rocket",
+      "path": "wallpapers/rocket.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "springBloom",
+      "name": "Spring Bloom",
+      "path": "wallpapers/spring_bloom.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "wallPaint",
+      "name": "Wall Paint",
+      "path": "wallpapers/wall_paint.jpg",
+      "fillMode": "Fill"
+    }
+  ],
+  "window": {
+    "borderColor": "#9d9d9d",
+    "borderActiveColor": "#bbbbbb",
+    "borderInactiveColor": "#484848",
+    "borderSize": 2,
+    "gapsIn": 4,
+    "gapsOut": 8,
+    "rounding": 2
+  },
+  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/graphite-mono"
+}

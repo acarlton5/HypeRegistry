@@ -1,0 +1,217 @@
+{
+  "id": "oxoCarbon",
+  "name": "Oxo Carbon",
+  "version": "0.1.2",
+  "author": "HyDE community, converted for HypeShell",
+  "description": "Oxo Carbon based theme for Hyde",
+  "dark": {
+    "name": "Oxo Carbon Dark",
+    "primary": "#d24985",
+    "primaryText": "#f7fff8",
+    "primaryContainer": "#8d3159",
+    "secondary": "#ddd9df",
+    "surface": "#50293a",
+    "surfaceText": "#f6f8fa",
+    "surfaceVariant": "#602f56",
+    "surfaceVariantText": "#cec6cc",
+    "surfaceTint": "#d24985",
+    "background": "#42172a",
+    "backgroundText": "#f6f8fa",
+    "outline": "#b5a7af",
+    "surfaceContainer": "#674554",
+    "surfaceContainerHigh": "#6d304a",
+    "surfaceContainerHighest": "#673263",
+    "error": "#ffb4ab",
+    "warning": "#aa4cd6",
+    "info": "#ddd9df"
+  },
+  "light": {
+    "name": "Oxo Carbon Light",
+    "primary": "#da6a9b",
+    "primaryText": "#f7fff8",
+    "primaryContainer": "#e494b7",
+    "secondary": "#e6e3e7",
+    "surface": "#efc7dd",
+    "surfaceText": "#5c203a",
+    "surfaceVariant": "#e7bade",
+    "surfaceVariantText": "#7f4861",
+    "surfaceTint": "#da6a9b",
+    "background": "#efc2d6",
+    "backgroundText": "#5c203a",
+    "outline": "#915a72",
+    "surfaceContainer": "#eecbdf",
+    "surfaceContainerHigh": "#eab3ce",
+    "surfaceContainerHighest": "#e3b4de",
+    "error": "#ba1a1a",
+    "warning": "#c27ee1",
+    "info": "#e6e3e7"
+  },
+  "wallpapers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "path": "wallpapers/default.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "astronaut",
+      "name": "Astronaut",
+      "path": "wallpapers/astronaut.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "castle",
+      "name": "Castle",
+      "path": "wallpapers/castle.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "city",
+      "name": "City",
+      "path": "wallpapers/city.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "cowboy",
+      "name": "Cowboy",
+      "path": "wallpapers/cowboy.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "evangelion",
+      "name": "Evangelion",
+      "path": "wallpapers/evangelion.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "evo",
+      "name": "Evo",
+      "path": "wallpapers/evo.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "falltree",
+      "name": "Falltree",
+      "path": "wallpapers/falltree.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "focus",
+      "name": "Focus",
+      "path": "wallpapers/focus.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "japaneseNeon",
+      "name": "Japanese Neon",
+      "path": "wallpapers/japanese_neon.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "lain",
+      "name": "Lain",
+      "path": "wallpapers/lain.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "makimaKanji",
+      "name": "Makima Kanji",
+      "path": "wallpapers/makima-kanji.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "makimaOxo",
+      "name": "Makima Oxo",
+      "path": "wallpapers/makima-oxo.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "nasa",
+      "name": "Nasa",
+      "path": "wallpapers/nasa.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "oxoForest",
+      "name": "Oxo Forest",
+      "path": "wallpapers/oxo_forest.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "oxocarbonEvangelion",
+      "name": "Oxocarbon Evangelion",
+      "path": "wallpapers/oxocarbon-evangelion.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "oxocarbon",
+      "name": "Oxocarbon",
+      "path": "wallpapers/oxocarbon.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "oxonaut",
+      "name": "Oxonaut",
+      "path": "wallpapers/oxonaut.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "pony",
+      "name": "Pony",
+      "path": "wallpapers/pony.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "rainGirl",
+      "name": "Rain Girl",
+      "path": "wallpapers/rain_girl.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "samurai",
+      "name": "Samurai",
+      "path": "wallpapers/samurai.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "samuraiCyber",
+      "name": "Samurai Cyber",
+      "path": "wallpapers/samurai_cyber.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "skull",
+      "name": "Skull",
+      "path": "wallpapers/skull.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "soulsborne",
+      "name": "Soulsborne",
+      "path": "wallpapers/soulsborne.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "tabs",
+      "name": "Tabs",
+      "path": "wallpapers/tabs.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "ultrakill",
+      "name": "Ultrakill",
+      "path": "wallpapers/ultrakill.png",
+      "fillMode": "Fill"
+    }
+  ],
+  "window": {
+    "borderColor": "#b5a7af",
+    "borderActiveColor": "#d24985",
+    "borderInactiveColor": "#602f56",
+    "borderSize": 2,
+    "gapsIn": 4,
+    "gapsOut": 8,
+    "rounding": 2
+  },
+  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/oxo-carbon"
+}

@@ -1,0 +1,115 @@
+{
+  "id": "materialSakura",
+  "name": "Material Sakura",
+  "version": "0.1.2",
+  "author": "HyDE community, converted for HypeShell",
+  "description": "Official Theme",
+  "dark": {
+    "name": "Material Sakura Dark",
+    "primary": "#be736f",
+    "primaryText": "#f7fff8",
+    "primaryContainer": "#804d4b",
+    "secondary": "#538790",
+    "surface": "#3e2d2d",
+    "surfaceText": "#8cb6be",
+    "surfaceVariant": "#4c3d40",
+    "surfaceVariantText": "#90a8ac",
+    "surfaceTint": "#be736f",
+    "background": "#3c2423",
+    "backgroundText": "#8cb6be",
+    "outline": "#6f8186",
+    "surfaceContainer": "#413b3d",
+    "surfaceContainerHigh": "#5a3c3c",
+    "surfaceContainerHighest": "#534448",
+    "error": "#ffb4ab",
+    "warning": "#8d8695",
+    "info": "#538790"
+  },
+  "light": {
+    "name": "Material Sakura Light",
+    "primary": "#ca8c89",
+    "primaryText": "#101410",
+    "primaryContainer": "#d6aba9",
+    "secondary": "#80a6ad",
+    "surface": "#e9d5d4",
+    "surfaceText": "#533231",
+    "surfaceVariant": "#decdce",
+    "surfaceVariantText": "#644d4b",
+    "surfaceTint": "#ca8c89",
+    "background": "#e4cdcc",
+    "backgroundText": "#533231",
+    "outline": "#876a69",
+    "surfaceContainer": "#d8cdce",
+    "surfaceContainerHigh": "#e2c5c4",
+    "surfaceContainerHighest": "#d9c9cb",
+    "error": "#ba1a1a",
+    "warning": "#ada8b3",
+    "info": "#80a6ad"
+  },
+  "wallpapers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "path": "wallpapers/default.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "materialPastel1",
+      "name": "Material Pastel 1",
+      "path": "wallpapers/material_pastel_1.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "materialPastel2",
+      "name": "Material Pastel 2",
+      "path": "wallpapers/material_pastel_2.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "materialPastel3",
+      "name": "Material Pastel 3",
+      "path": "wallpapers/material_pastel_3.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "materialPastel4",
+      "name": "Material Pastel 4",
+      "path": "wallpapers/material_pastel_4.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "materialPastel5",
+      "name": "Material Pastel 5",
+      "path": "wallpapers/material_pastel_5.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "materialPastel6",
+      "name": "Material Pastel 6",
+      "path": "wallpapers/material_pastel_6.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "materialPastel7",
+      "name": "Material Pastel 7",
+      "path": "wallpapers/material_pastel_7.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "materialPastel8",
+      "name": "Material Pastel 8",
+      "path": "wallpapers/material_pastel_8.jpg",
+      "fillMode": "Fill"
+    }
+  ],
+  "window": {
+    "borderColor": "#6f8186",
+    "borderActiveColor": "#be736f",
+    "borderInactiveColor": "#4c3d40",
+    "borderSize": 2,
+    "gapsIn": 4,
+    "gapsOut": 8,
+    "rounding": 22
+  },
+  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/material-sakura"
+}

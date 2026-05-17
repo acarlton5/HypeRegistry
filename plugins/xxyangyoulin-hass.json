@@ -1,0 +1,24 @@
+{
+    "id":  "homeAssistantMonitor",
+    "name":  "Home Assistant Monitor",
+    "capabilities":  [
+                         "home-assistant-monitor",
+                         "dankbar-widget"
+                     ],
+    "category":  "utilities",
+    "repo":  "https://github.com/acarlton5/HYPEPLUGIN-homeAssistantMonitor",
+    "author":  "xxyangyoulin",
+    "description":  "Monitor and display Home Assistant entity states in your status bar",
+    "dependencies":  [
+                         "curl"
+                     ],
+    "compositors":  [
+                        "hyprland"
+                    ],
+    "distro":  [
+                   "any"
+               ],
+    "screenshot":  "https://raw.githubusercontent.com/xxyangyoulin/dms-plugin-hass/master/assets/screenshot.png",
+    "requires_dms":  "\u003e=1.2.0",
+    "featured":  true
+}

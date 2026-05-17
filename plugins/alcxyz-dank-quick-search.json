@@ -1,0 +1,21 @@
+{
+    "id":  "dankQuickSearch",
+    "name":  "Quick Search",
+    "capabilities":  [
+                         "launcher"
+                     ],
+    "category":  "utilities",
+    "repo":  "https://github.com/acarlton5/HYPEPLUGIN-dankQuickSearch",
+    "author":  "alcxyz",
+    "description":  "Minimal web search from the launcher with engine prefixes",
+    "dependencies":  [
+                         "xdg-open"
+                     ],
+    "compositors":  [
+                        "any"
+                    ],
+    "distro":  [
+                   "any"
+               ],
+    "screenshot":  "https://raw.githubusercontent.com/alcxyz/DankQuickSearch/main/docs/screenshot.png"
+}

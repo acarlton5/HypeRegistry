@@ -1,0 +1,157 @@
+{
+  "id": "crimsonBlue",
+  "name": "Crimson-Blue",
+  "version": "0.1.2",
+  "author": "HyDE community, converted for HypeShell",
+  "description": "Red with Blue vibes",
+  "dark": {
+    "name": "Crimson-Blue Dark",
+    "primary": "#b4bee2",
+    "primaryText": "#101410",
+    "primaryContainer": "#798098",
+    "secondary": "#653b3c",
+    "surface": "#3d3c46",
+    "surfaceText": "#b8a5a2",
+    "surfaceVariant": "#545b62",
+    "surfaceVariantText": "#b8b1af",
+    "surfaceTint": "#b4bee2",
+    "background": "#393c47",
+    "backgroundText": "#b8a5a2",
+    "outline": "#8a7f81",
+    "surfaceContainer": "#433c44",
+    "surfaceContainerHigh": "#575968",
+    "surfaceContainerHighest": "#5e696f",
+    "error": "#ffb4ab",
+    "warning": "#bae8e3",
+    "info": "#653b3c"
+  },
+  "light": {
+    "name": "Crimson-Blue Light",
+    "primary": "#c2cae7",
+    "primaryText": "#101410",
+    "primaryContainer": "#d1d6eb",
+    "secondary": "#8d6e6f",
+    "surface": "#e8edf6",
+    "surfaceText": "#4f5363",
+    "surfaceVariant": "#e3edf4",
+    "surfaceVariantText": "#626671",
+    "surfaceTint": "#c2cae7",
+    "background": "#e2e4ef",
+    "backgroundText": "#4f5363",
+    "outline": "#848795",
+    "surfaceContainer": "#d9d9e0",
+    "surfaceContainerHigh": "#e0e5f3",
+    "surfaceContainerHighest": "#e1edf3",
+    "error": "#ba1a1a",
+    "warning": "#cdeeeb",
+    "info": "#8d6e6f"
+  },
+  "wallpapers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "path": "wallpapers/default.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "alert",
+      "name": "Alert",
+      "path": "wallpapers/alert.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "boat",
+      "name": "Boat",
+      "path": "wallpapers/boat.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "clouds",
+      "name": "Clouds",
+      "path": "wallpapers/clouds.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "flare",
+      "name": "Flare",
+      "path": "wallpapers/flare.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "gravityPull",
+      "name": "Gravity Pull",
+      "path": "wallpapers/gravity-pull.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "idk",
+      "name": "Idk",
+      "path": "wallpapers/idk.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "idk2",
+      "name": "Idk2",
+      "path": "wallpapers/idk2.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "lava",
+      "name": "Lava",
+      "path": "wallpapers/lava.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "league",
+      "name": "League",
+      "path": "wallpapers/league.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "moon",
+      "name": "Moon",
+      "path": "wallpapers/moon.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "myFav",
+      "name": "My Fav",
+      "path": "wallpapers/my_fav.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "perfectBlue",
+      "name": "Perfect Blue",
+      "path": "wallpapers/perfect-blue.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "spacecraft",
+      "name": "Spacecraft",
+      "path": "wallpapers/spacecraft.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "sunSet",
+      "name": "Sun Set",
+      "path": "wallpapers/sun-set.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "women",
+      "name": "Women",
+      "path": "wallpapers/women.jpg",
+      "fillMode": "Fill"
+    }
+  ],
+  "window": {
+    "borderColor": "#8a7f81",
+    "borderActiveColor": "#b4bee2",
+    "borderInactiveColor": "#545b62",
+    "borderSize": 2,
+    "gapsIn": 4,
+    "gapsOut": 8,
+    "rounding": 8
+  },
+  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/crimson-blue"
+}

@@ -1,0 +1,97 @@
+{
+  "id": "hackTheBox",
+  "name": "Hack the Box",
+  "version": "0.1.2",
+  "author": "HyDE community, converted for HypeShell",
+  "description": "Hacker based theme",
+  "dark": {
+    "name": "Hack the Box Dark",
+    "primary": "#46950f",
+    "primaryText": "#f7fff8",
+    "primaryContainer": "#2c5f1e",
+    "secondary": "#1f2c4e",
+    "surface": "#102532",
+    "surfaceText": "#828a9d",
+    "surfaceVariant": "#28312c",
+    "surfaceVariantText": "#818b98",
+    "surfaceTint": "#46950f",
+    "background": "#0f242f",
+    "backgroundText": "#828a9d",
+    "outline": "#596575",
+    "surfaceContainer": "#122636",
+    "surfaceContainerHigh": "#1c3e2a",
+    "surfaceContainerHighest": "#333629",
+    "error": "#ffb4ab",
+    "warning": "#97670e",
+    "info": "#1f2c4e"
+  },
+  "light": {
+    "name": "Hack the Box Light",
+    "primary": "#67a83a",
+    "primaryText": "#f7fff8",
+    "primaryContainer": "#8fbe70",
+    "secondary": "#59637c",
+    "surface": "#c9dcb5",
+    "surfaceText": "#193829",
+    "surfaceVariant": "#c5cfa3",
+    "surfaceVariantText": "#435f4b",
+    "surfaceTint": "#67a83a",
+    "background": "#bbd6aa",
+    "backgroundText": "#193829",
+    "outline": "#537157",
+    "surfaceContainer": "#b7c9ac",
+    "surfaceContainerHigh": "#b3d19a",
+    "surfaceContainerHighest": "#c4c99b",
+    "error": "#ba1a1a",
+    "warning": "#b49251",
+    "info": "#59637c"
+  },
+  "wallpapers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "path": "wallpapers/default.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "hacker1",
+      "name": "Hacker1",
+      "path": "wallpapers/Hacker1.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "hacker2",
+      "name": "Hacker2",
+      "path": "wallpapers/Hacker2.jpeg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "hacker3",
+      "name": "Hacker3",
+      "path": "wallpapers/Hacker3.jpeg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "hacker4",
+      "name": "Hacker4",
+      "path": "wallpapers/Hacker4.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "hacker5",
+      "name": "Hacker5",
+      "path": "wallpapers/Hacker5.jpg",
+      "fillMode": "Fill"
+    }
+  ],
+  "window": {
+    "borderColor": "#596575",
+    "borderActiveColor": "#46950f",
+    "borderInactiveColor": "#28312c",
+    "borderSize": 2,
+    "gapsIn": 4,
+    "gapsOut": 8,
+    "rounding": 8
+  },
+  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/hack-the-box"
+}

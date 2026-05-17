@@ -1,0 +1,223 @@
+{
+  "id": "joker",
+  "name": "Joker",
+  "version": "0.1.2",
+  "author": "HyDE community, converted for HypeShell",
+  "description": "Its for you Izumi.",
+  "dark": {
+    "name": "Joker Dark",
+    "primary": "#00e25a",
+    "primaryText": "#101410",
+    "primaryContainer": "#00983c",
+    "secondary": "#cb4b38",
+    "surface": "#12471f",
+    "surfaceText": "#f09b91",
+    "surfaceVariant": "#24641a",
+    "surfaceVariantText": "#ceada0",
+    "surfaceTint": "#00e25a",
+    "background": "#00471c",
+    "backgroundText": "#f09b91",
+    "outline": "#9a7d67",
+    "surfaceContainer": "#304823",
+    "surfaceContainerHigh": "#0e692c",
+    "surfaceContainerHighest": "#2b7118",
+    "error": "#ffb4ab",
+    "warning": "#74e903",
+    "info": "#cb4b38"
+  },
+  "light": {
+    "name": "Joker Light",
+    "primary": "#2ee778",
+    "primaryText": "#101410",
+    "primaryContainer": "#69eb9c",
+    "secondary": "#d97a6c",
+    "surface": "#b5f6c9",
+    "surfaceText": "#006327",
+    "surfaceVariant": "#b0f5b2",
+    "surfaceVariantText": "#267143",
+    "surfaceTint": "#2ee778",
+    "background": "#a9f0c3",
+    "backgroundText": "#006327",
+    "outline": "#3d965f",
+    "surfaceContainer": "#bbe2ba",
+    "surfaceContainerHigh": "#97f3b7",
+    "surfaceContainerHighest": "#aef4a8",
+    "error": "#ba1a1a",
+    "warning": "#9bef4a",
+    "info": "#d97a6c"
+  },
+  "wallpapers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "path": "wallpapers/default.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme1",
+      "name": "1",
+      "path": "wallpapers/1.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme10",
+      "name": "10",
+      "path": "wallpapers/10.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme11",
+      "name": "11",
+      "path": "wallpapers/11.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme12",
+      "name": "12",
+      "path": "wallpapers/12.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme13",
+      "name": "13",
+      "path": "wallpapers/13.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme14",
+      "name": "14",
+      "path": "wallpapers/14.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme15",
+      "name": "15",
+      "path": "wallpapers/15.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme16",
+      "name": "16",
+      "path": "wallpapers/16.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme17",
+      "name": "17",
+      "path": "wallpapers/17.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme18",
+      "name": "18",
+      "path": "wallpapers/18.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme19",
+      "name": "19",
+      "path": "wallpapers/19.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme2",
+      "name": "2",
+      "path": "wallpapers/2.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme20",
+      "name": "20",
+      "path": "wallpapers/20.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme21",
+      "name": "21",
+      "path": "wallpapers/21.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme22",
+      "name": "22",
+      "path": "wallpapers/22.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme23",
+      "name": "23",
+      "path": "wallpapers/23.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme24",
+      "name": "24",
+      "path": "wallpapers/24.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme25",
+      "name": "25",
+      "path": "wallpapers/25.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme26",
+      "name": "26",
+      "path": "wallpapers/26.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme27",
+      "name": "27",
+      "path": "wallpapers/27.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme4",
+      "name": "4",
+      "path": "wallpapers/4.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme5",
+      "name": "5",
+      "path": "wallpapers/5.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme6",
+      "name": "6",
+      "path": "wallpapers/6.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme7",
+      "name": "7",
+      "path": "wallpapers/7.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme8",
+      "name": "8",
+      "path": "wallpapers/8.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme9",
+      "name": "9",
+      "path": "wallpapers/9.jpg",
+      "fillMode": "Fill"
+    }
+  ],
+  "window": {
+    "borderColor": "#9a7d67",
+    "borderActiveColor": "#00e25a",
+    "borderInactiveColor": "#24641a",
+    "borderSize": 2,
+    "gapsIn": 4,
+    "gapsOut": 8,
+    "rounding": 8
+  },
+  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/joker"
+}

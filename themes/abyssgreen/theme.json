@@ -1,0 +1,91 @@
+{
+  "id": "abyssgreen",
+  "name": "AbyssGreen",
+  "version": "0.1.2",
+  "author": "HyDE community, converted for HypeShell",
+  "description": "AbyssGreen is a theme based on the Everforst color scheme",
+  "dark": {
+    "name": "AbyssGreen Dark",
+    "primary": "#76a081",
+    "primaryText": "#101410",
+    "primaryContainer": "#546f5f",
+    "secondary": "#573e4c",
+    "surface": "#333a3c",
+    "surfaceText": "#b1a6ab",
+    "surfaceVariant": "#343b3f",
+    "surfaceVariantText": "#a5a1a3",
+    "surfaceTint": "#76a081",
+    "background": "#2f3a3a",
+    "backgroundText": "#b1a6ab",
+    "outline": "#827f82",
+    "surfaceContainer": "#393b3f",
+    "surfaceContainerHigh": "#42504b",
+    "surfaceContainerHighest": "#353c41",
+    "error": "#ffb4ab",
+    "warning": "#3a414f",
+    "info": "#573e4c"
+  },
+  "light": {
+    "name": "AbyssGreen Light",
+    "primary": "#8fb198",
+    "primaryText": "#101410",
+    "primaryContainer": "#acc5b3",
+    "secondary": "#83707b",
+    "surface": "#d3ddd6",
+    "surfaceText": "#3c4c47",
+    "surfaceVariant": "#c1cac7",
+    "surfaceVariantText": "#525f59",
+    "surfaceTint": "#8fb198",
+    "background": "#ccdad0",
+    "backgroundText": "#3c4c47",
+    "outline": "#707f78",
+    "surfaceContainer": "#c6ccc7",
+    "surfaceContainerHigh": "#c4d3c8",
+    "surfaceContainerHighest": "#bac2c0",
+    "error": "#ba1a1a",
+    "warning": "#717680",
+    "info": "#83707b"
+  },
+  "wallpapers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "path": "wallpapers/default.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "bg16",
+      "name": "Bg 16",
+      "path": "wallpapers/bg_16.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "bg24",
+      "name": "Bg 24",
+      "path": "wallpapers/bg_24.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "bg25",
+      "name": "Bg 25",
+      "path": "wallpapers/bg_25.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "bg28",
+      "name": "Bg 28",
+      "path": "wallpapers/bg_28.jpg",
+      "fillMode": "Fill"
+    }
+  ],
+  "window": {
+    "borderColor": "#827f82",
+    "borderActiveColor": "#76a081",
+    "borderInactiveColor": "#343b3f",
+    "borderSize": 2,
+    "gapsIn": 4,
+    "gapsOut": 8,
+    "rounding": 20
+  },
+  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/abyssgreen"
+}

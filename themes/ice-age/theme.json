@@ -1,0 +1,175 @@
+{
+  "id": "iceAge",
+  "name": "Ice Age",
+  "version": "0.1.2",
+  "author": "HyDE community, converted for HypeShell",
+  "description": "Winter based Ice Age theme for Hyde",
+  "dark": {
+    "name": "Ice Age Dark",
+    "primary": "#02abcd",
+    "primaryText": "#2c302c",
+    "primaryContainer": "#077593",
+    "secondary": "#011ad3",
+    "surface": "#0b3760",
+    "surfaceText": "#9eaaf2",
+    "surfaceVariant": "#095359",
+    "surfaceVariantText": "#91a2d6",
+    "surfaceTint": "#02abcd",
+    "background": "#0c3a54",
+    "backgroundText": "#9eaaf2",
+    "outline": "#6982b9",
+    "surfaceContainer": "#093272",
+    "surfaceContainerHigh": "#095178",
+    "surfaceContainerHighest": "#085f56",
+    "error": "#ffb4ab",
+    "warning": "#01d03a",
+    "info": "#011ad3"
+  },
+  "light": {
+    "name": "Ice Age Light",
+    "primary": "#30bad6",
+    "primaryText": "#101410",
+    "primaryContainer": "#68cae1",
+    "secondary": "#4356de",
+    "surface": "#b1e6ea",
+    "surfaceText": "#0a4e6a",
+    "surfaceVariant": "#9ee4d4",
+    "surfaceVariantText": "#2c6173",
+    "surfaceTint": "#30bad6",
+    "background": "#a4dced",
+    "backgroundText": "#0a4e6a",
+    "outline": "#418199",
+    "surfaceContainer": "#9fcfe8",
+    "surfaceContainerHigh": "#95dce6",
+    "surfaceContainerHighest": "#96e4cb",
+    "error": "#ba1a1a",
+    "warning": "#48dd71",
+    "info": "#4356de"
+  },
+  "wallpapers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "path": "wallpapers/default.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "winter1",
+      "name": "Winter 1",
+      "path": "wallpapers/winter-1.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "winter10",
+      "name": "Winter 10",
+      "path": "wallpapers/winter-10.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "winter11",
+      "name": "Winter 11",
+      "path": "wallpapers/winter-11.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "winter12",
+      "name": "Winter 12",
+      "path": "wallpapers/winter-12.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "winter13",
+      "name": "Winter 13",
+      "path": "wallpapers/winter-13.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "winter14",
+      "name": "Winter 14",
+      "path": "wallpapers/winter-14.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "winter15",
+      "name": "Winter 15",
+      "path": "wallpapers/winter-15.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "winter16",
+      "name": "Winter 16",
+      "path": "wallpapers/winter-16.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "winter17",
+      "name": "Winter 17",
+      "path": "wallpapers/winter-17.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "winter2",
+      "name": "Winter 2",
+      "path": "wallpapers/winter-2.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "winter3",
+      "name": "Winter 3",
+      "path": "wallpapers/winter-3.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "winter4",
+      "name": "Winter 4",
+      "path": "wallpapers/winter-4.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "winter5",
+      "name": "Winter 5",
+      "path": "wallpapers/winter-5.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "winter6",
+      "name": "Winter 6",
+      "path": "wallpapers/winter-6.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "winter7",
+      "name": "Winter 7",
+      "path": "wallpapers/winter-7.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "winter8",
+      "name": "Winter 8",
+      "path": "wallpapers/winter-8.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "winter9",
+      "name": "Winter 9",
+      "path": "wallpapers/winter-9.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "winterMountain",
+      "name": "Winter Mountain",
+      "path": "wallpapers/winter-mountain.png",
+      "fillMode": "Fill"
+    }
+  ],
+  "window": {
+    "borderColor": "#6982b9",
+    "borderActiveColor": "#02abcd",
+    "borderInactiveColor": "#095359",
+    "borderSize": 2,
+    "gapsIn": 4,
+    "gapsOut": 8,
+    "rounding": 18
+  },
+  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/ice-age"
+}

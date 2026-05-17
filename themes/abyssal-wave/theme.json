@@ -1,0 +1,163 @@
+{
+  "id": "abyssalWave",
+  "name": "Abyssal-Wave",
+  "version": "0.1.2",
+  "author": "HyDE community, converted for HypeShell",
+  "description": "Dive into the deep, where elegance meets the infinite night.",
+  "dark": {
+    "name": "Abyssal-Wave Dark",
+    "primary": "#da687e",
+    "primaryText": "#f7fff8",
+    "primaryContainer": "#924655",
+    "secondary": "#2d5467",
+    "surface": "#42262e",
+    "surfaceText": "#87a3ae",
+    "surfaceVariant": "#5d334e",
+    "surfaceVariantText": "#8d9ba2",
+    "surfaceTint": "#da687e",
+    "background": "#442128",
+    "backgroundText": "#87a3ae",
+    "outline": "#6f747e",
+    "surfaceContainer": "#3f2d37",
+    "surfaceContainerHigh": "#633540",
+    "surfaceContainerHighest": "#68385c",
+    "error": "#ffb4ab",
+    "warning": "#d66cde",
+    "info": "#2d5467"
+  },
+  "light": {
+    "name": "Abyssal-Wave Light",
+    "primary": "#e18395",
+    "primaryText": "#101410",
+    "primaryContainer": "#e6a4b1",
+    "secondary": "#64808f",
+    "surface": "#f4d1db",
+    "surfaceText": "#5f2e37",
+    "surfaceVariant": "#f1c6dd",
+    "surfaceVariantText": "#6e4950",
+    "surfaceTint": "#e18395",
+    "background": "#ecc8d0",
+    "backgroundText": "#5f2e37",
+    "outline": "#92656e",
+    "surfaceContainer": "#ddc4cf",
+    "surfaceContainerHigh": "#f0c0cc",
+    "surfaceContainerHighest": "#efc1de",
+    "error": "#ba1a1a",
+    "warning": "#e195e7",
+    "info": "#64808f"
+  },
+  "wallpapers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "path": "wallpapers/default.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "bg1",
+      "name": "Bg 1",
+      "path": "wallpapers/bg-1.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "bg10",
+      "name": "Bg 10",
+      "path": "wallpapers/bg-10.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "bg11",
+      "name": "Bg 11",
+      "path": "wallpapers/bg-11.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "bg12",
+      "name": "Bg 12",
+      "path": "wallpapers/bg-12.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "bg13",
+      "name": "Bg 13",
+      "path": "wallpapers/bg-13.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "bg15",
+      "name": "Bg 15",
+      "path": "wallpapers/bg-15.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "bg16",
+      "name": "Bg 16",
+      "path": "wallpapers/bg-16.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "bg17",
+      "name": "Bg 17",
+      "path": "wallpapers/bg-17.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "bg18",
+      "name": "Bg 18",
+      "path": "wallpapers/bg-18.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "bg2",
+      "name": "Bg 2",
+      "path": "wallpapers/bg-2.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "bg3",
+      "name": "Bg 3",
+      "path": "wallpapers/bg-3.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "bg4",
+      "name": "Bg 4",
+      "path": "wallpapers/bg-4.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "bg5",
+      "name": "Bg 5",
+      "path": "wallpapers/bg-5.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "bg6",
+      "name": "Bg 6",
+      "path": "wallpapers/bg-6.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "bg7",
+      "name": "Bg 7",
+      "path": "wallpapers/bg-7.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "bg8",
+      "name": "Bg 8",
+      "path": "wallpapers/bg-8.png",
+      "fillMode": "Fill"
+    }
+  ],
+  "window": {
+    "borderColor": "#6f747e",
+    "borderActiveColor": "#da687e",
+    "borderInactiveColor": "#5d334e",
+    "borderSize": 2,
+    "gapsIn": 4,
+    "gapsOut": 8,
+    "rounding": 16
+  },
+  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/abyssal-wave"
+}

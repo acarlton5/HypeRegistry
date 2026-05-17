@@ -1,0 +1,30 @@
+{
+    "id":  "converter",
+    "name":  "Converter",
+    "description":  "Universal unit and color converter. Convert distance, weight, temperature, speed, volume, area, energy, and colors (RGB/Hex/HSV/HSL) instantly from the launcher.",
+    "version":  "1.0.0",
+    "author":  "viewerofall ",
+    "type":  "launcher",
+    "capabilities":  [
+                         "launcher"
+                     ],
+    "category":  "utilities",
+    "repo":  "https://github.com/acarlton5/HYPEPLUGIN-converter",
+    "requires_dms":  "\u003e=1.4.0",
+    "tags":  [
+                 "converter",
+                 "units",
+                 "calculator",
+                 "color"
+             ],
+    "dependencies":  [
+
+                     ],
+    "compositors":  [
+                        "any"
+                    ],
+    "distro":  [
+                   "any"
+               ],
+    "screenshot":  "https://raw.githubusercontent.com/viewerofall-labs/weather-viewer/main/convert.png"
+}

@@ -1,0 +1,68 @@
+{
+  "id": "eternalArctic",
+  "name": "Eternal Arctic",
+  "version": "0.1.2",
+  "author": "HyDE community, converted for HypeShell",
+  "description": "Serene Nord-inspired theme having frosty aesthetic blues",
+  "dark": {
+    "name": "Eternal Arctic Dark",
+    "primary": "#78aab8",
+    "primaryText": "#101410",
+    "primaryContainer": "#50727c",
+    "secondary": "#576581",
+    "surface": "#2a3a40",
+    "surfaceText": "#a4acbd",
+    "surfaceVariant": "#39524f",
+    "surfaceVariantText": "#9ba5af",
+    "surfaceTint": "#78aab8",
+    "background": "#25363a",
+    "backgroundText": "#a4acbd",
+    "outline": "#76828e",
+    "surfaceContainer": "#31414a",
+    "surfaceContainerHigh": "#3b535a",
+    "surfaceContainerHighest": "#3f5c55",
+    "error": "#ffb4ab",
+    "warning": "#7cbe92",
+    "info": "#576581"
+  },
+  "light": {
+    "name": "Eternal Arctic Light",
+    "primary": "#90b9c5",
+    "primaryText": "#101410",
+    "primaryContainer": "#adcbd4",
+    "secondary": "#838da2",
+    "surface": "#d5e5e7",
+    "surfaceText": "#344b51",
+    "surfaceVariant": "#cce1dd",
+    "surfaceVariantText": "#4e5f63",
+    "surfaceTint": "#90b9c5",
+    "background": "#cddee4",
+    "backgroundText": "#344b51",
+    "outline": "#6b8086",
+    "surfaceContainer": "#c8d7dc",
+    "surfaceContainerHigh": "#c6dbe0",
+    "surfaceContainerHighest": "#c7e0d9",
+    "error": "#ba1a1a",
+    "warning": "#a1d0b1",
+    "info": "#838da2"
+  },
+  "wallpapers": [
+    {
+      "id": "themeWallpaper",
+      "name": "Theme Wallpaper",
+      "lightPath": "wallpapers/theme-light.svg",
+      "darkPath": "wallpapers/theme-dark.svg",
+      "fillMode": "Fill"
+    }
+  ],
+  "window": {
+    "borderColor": "#76828e",
+    "borderActiveColor": "#78aab8",
+    "borderInactiveColor": "#39524f",
+    "borderSize": 2,
+    "gapsIn": 4,
+    "gapsOut": 8,
+    "rounding": 18
+  },
+  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/eternal-arctic"
+}

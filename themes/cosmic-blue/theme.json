@@ -1,0 +1,85 @@
+{
+  "id": "cosmicBlue",
+  "name": "Cosmic Blue",
+  "version": "0.1.2",
+  "author": "HyDE community, converted for HypeShell",
+  "description": "Out there, somewhere in our galaxy...",
+  "dark": {
+    "name": "Cosmic Blue Dark",
+    "primary": "#6c8fda",
+    "primaryText": "#f7fff8",
+    "primaryContainer": "#486092",
+    "secondary": "#d8d8e2",
+    "surface": "#333d52",
+    "surfaceText": "#f5f4fa",
+    "surfaceVariant": "#3e5a67",
+    "surfaceVariantText": "#c6c8d2",
+    "surfaceTint": "#6c8fda",
+    "background": "#222d44",
+    "backgroundText": "#f5f4fa",
+    "outline": "#a9acb8",
+    "surfaceContainer": "#4d5669",
+    "surfaceContainerHigh": "#404f70",
+    "surfaceContainerHighest": "#436770",
+    "error": "#ffb4ab",
+    "warning": "#6fdfc7",
+    "info": "#d8d8e2"
+  },
+  "light": {
+    "name": "Cosmic Blue Light",
+    "primary": "#86a3e1",
+    "primaryText": "#101410",
+    "primaryContainer": "#a8bde9",
+    "secondary": "#e2e2ea",
+    "surface": "#d2e0f3",
+    "surfaceText": "#2f3f5f",
+    "surfaceVariant": "#c7e1ee",
+    "surfaceVariantText": "#49576e",
+    "surfaceTint": "#86a3e1",
+    "background": "#cdd9f2",
+    "backgroundText": "#2f3f5f",
+    "outline": "#687694",
+    "surfaceContainer": "#d5e0f2",
+    "surfaceContainerHigh": "#c1d3ef",
+    "surfaceContainerHighest": "#c3e2ec",
+    "error": "#ba1a1a",
+    "warning": "#97e8d7",
+    "info": "#e2e2ea"
+  },
+  "wallpapers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "path": "wallpapers/default.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "a",
+      "name": "A",
+      "path": "wallpapers/A.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "b",
+      "name": "B",
+      "path": "wallpapers/B.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "c",
+      "name": "C",
+      "path": "wallpapers/C.png",
+      "fillMode": "Fill"
+    }
+  ],
+  "window": {
+    "borderColor": "#a9acb8",
+    "borderActiveColor": "#6c8fda",
+    "borderInactiveColor": "#3e5a67",
+    "borderSize": 2,
+    "gapsIn": 4,
+    "gapsOut": 8,
+    "rounding": 14
+  },
+  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/cosmic-blue"
+}

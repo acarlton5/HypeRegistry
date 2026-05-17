@@ -1,0 +1,133 @@
+{
+  "id": "nightbrew",
+  "name": "Nightbrew",
+  "version": "0.1.2",
+  "author": "HyDE community, converted for HypeShell",
+  "description": "A rich, dark theme crafted for late-night productivity and sleek aesthetics.",
+  "dark": {
+    "name": "Nightbrew Dark",
+    "primary": "#9494d0",
+    "primaryText": "#101410",
+    "primaryContainer": "#5c5c7f",
+    "secondary": "#8aa8be",
+    "surface": "#2a2c36",
+    "surfaceText": "#bad1e1",
+    "surfaceVariant": "#3e4a53",
+    "surfaceVariantText": "#97a9b8",
+    "surfaceTint": "#9494d0",
+    "background": "#202028",
+    "backgroundText": "#bad1e1",
+    "outline": "#83919e",
+    "surfaceContainer": "#39404c",
+    "surfaceContainerHigh": "#414358",
+    "surfaceContainerHighest": "#475760",
+    "error": "#ffb4ab",
+    "warning": "#99d2d8",
+    "info": "#8aa8be"
+  },
+  "light": {
+    "name": "Nightbrew Light",
+    "primary": "#a7a7d8",
+    "primaryText": "#101410",
+    "primaryContainer": "#bfbfe3",
+    "secondary": "#a8bfcf",
+    "surface": "#dee0f1",
+    "surfaceText": "#353546",
+    "surfaceVariant": "#d7e0ee",
+    "surfaceVariantText": "#5e5e6f",
+    "surfaceTint": "#a7a7d8",
+    "background": "#d9d9ee",
+    "backgroundText": "#353546",
+    "outline": "#707082",
+    "surfaceContainer": "#d5dbec",
+    "surfaceContainerHigh": "#d2d3ec",
+    "surfaceContainerHighest": "#d4e0ed",
+    "error": "#ba1a1a",
+    "warning": "#b6dfe3",
+    "info": "#a8bfcf"
+  },
+  "wallpapers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "path": "wallpapers/default.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme2iLFbH6",
+      "name": "2iLFbH6",
+      "path": "wallpapers/2iLFbH6.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme2XZaJPhUte",
+      "name": "2XZaJPhUte",
+      "path": "wallpapers/2XZaJPhUte.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme39",
+      "name": "39",
+      "path": "wallpapers/39.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "abstract",
+      "name": "Abstract",
+      "path": "wallpapers/abstract.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "archBlack",
+      "name": "Arch Black",
+      "path": "wallpapers/arch-black.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "babyStar",
+      "name": "Baby Star",
+      "path": "wallpapers/baby-star.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "blackHole",
+      "name": "Black Hole",
+      "path": "wallpapers/black-hole.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "d2mv1i5",
+      "name": "D2MV1I5",
+      "path": "wallpapers/d2MV1I5.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "flatppuccin4kMacchiato",
+      "name": "Flatppuccin 4k Macchiato",
+      "path": "wallpapers/flatppuccin_4k_macchiato.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "retroMario",
+      "name": "Retro Mario",
+      "path": "wallpapers/retro-mario.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "wallpaperThemeConverter1",
+      "name": "Wallpaper Theme Converter1",
+      "path": "wallpapers/wallpaper-theme-converter1.png",
+      "fillMode": "Fill"
+    }
+  ],
+  "window": {
+    "borderColor": "#83919e",
+    "borderActiveColor": "#9494d0",
+    "borderInactiveColor": "#3e4a53",
+    "borderSize": 2,
+    "gapsIn": 4,
+    "gapsOut": 8,
+    "rounding": 20
+  },
+  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/nightbrew"
+}

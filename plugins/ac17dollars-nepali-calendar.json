@@ -1,0 +1,21 @@
+{
+    "id":  "nepaliCalendar",
+    "name":  "Nepali Calendar",
+    "capabilities":  [
+                         "dankbar-widget"
+                     ],
+    "category":  "utilities",
+    "repo":  "https://github.com/acarlton5/HYPEPLUGIN-nepaliCalendar",
+    "author":  "ac17dollars (Abhinav Chalise)",
+    "description":  "Get the current Nepali date",
+    "dependencies":  [
+
+                     ],
+    "compositors":  [
+                        "any"
+                    ],
+    "distro":  [
+                   "any"
+               ],
+    "screenshot":  "https://raw.githubusercontent.com/AC17dollars/dms-nepali-calendar/main/assets/horizontal.png"
+}

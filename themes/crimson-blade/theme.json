@@ -1,0 +1,68 @@
+{
+  "id": "crimsonBlade",
+  "name": "Crimson Blade",
+  "version": "0.1.2",
+  "author": "HyDE community, converted for HypeShell",
+  "description": "A striking fusion of sharp elegance, cutting through the darkness with bold hues.",
+  "dark": {
+    "name": "Crimson Blade Dark",
+    "primary": "#ce0f46",
+    "primaryText": "#f7fff8",
+    "primaryContainer": "#8a0a2f",
+    "secondary": "#0f63ab",
+    "surface": "#3c0e24",
+    "surfaceText": "#579ed3",
+    "surfaceVariant": "#510e43",
+    "surfaceVariantText": "#6f93b7",
+    "surfaceTint": "#ce0f46",
+    "background": "#410516",
+    "backgroundText": "#579ed3",
+    "outline": "#4f678f",
+    "surfaceContainer": "#351c3a",
+    "surfaceContainerHigh": "#5c0e2b",
+    "surfaceContainerHighest": "#5a0f51",
+    "error": "#ffb4ab",
+    "warning": "#ae10d0",
+    "info": "#0f63ab"
+  },
+  "light": {
+    "name": "Crimson Blade Light",
+    "primary": "#d73a67",
+    "primaryText": "#f7fff8",
+    "primaryContainer": "#df7091",
+    "secondary": "#4d8cc1",
+    "surface": "#eeb5cb",
+    "surfaceText": "#5a071f",
+    "surfaceVariant": "#e7a3ce",
+    "surfaceVariantText": "#7e3148",
+    "surfaceTint": "#d73a67",
+    "background": "#e7abbf",
+    "backgroundText": "#5a071f",
+    "outline": "#8d4259",
+    "surfaceContainer": "#d4aec9",
+    "surfaceContainerHigh": "#e99ab5",
+    "surfaceContainerHighest": "#e39cd0",
+    "error": "#ba1a1a",
+    "warning": "#c553dd",
+    "info": "#4d8cc1"
+  },
+  "wallpapers": [
+    {
+      "id": "themeWallpaper",
+      "name": "Theme Wallpaper",
+      "lightPath": "wallpapers/theme-light.svg",
+      "darkPath": "wallpapers/theme-dark.svg",
+      "fillMode": "Fill"
+    }
+  ],
+  "window": {
+    "borderColor": "#4f678f",
+    "borderActiveColor": "#ce0f46",
+    "borderInactiveColor": "#510e43",
+    "borderSize": 2,
+    "gapsIn": 4,
+    "gapsOut": 8,
+    "rounding": 8
+  },
+  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/crimson-blade"
+}

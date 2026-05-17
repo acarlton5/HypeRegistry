@@ -1,0 +1,85 @@
+{
+  "id": "breezyAutumn",
+  "name": "Breezy Autumn",
+  "version": "0.1.2",
+  "author": "HyDE community, converted for HypeShell",
+  "description": "Autumn, what a cozy time...",
+  "dark": {
+    "name": "Breezy Autumn Dark",
+    "primary": "#9e613b",
+    "primaryText": "#f7fff8",
+    "primaryContainer": "#6a4128",
+    "secondary": "#5a7b56",
+    "surface": "#362719",
+    "surfaceText": "#92ad92",
+    "surfaceVariant": "#4a2b29",
+    "surfaceVariantText": "#92a28d",
+    "surfaceTint": "#9e613b",
+    "background": "#321f13",
+    "backgroundText": "#92ad92",
+    "outline": "#6f7a64",
+    "surfaceContainer": "#3c3423",
+    "surfaceContainerHigh": "#4d3420",
+    "surfaceContainerHighest": "#532d30",
+    "error": "#ffb4ab",
+    "warning": "#a43f73",
+    "info": "#5a7b56"
+  },
+  "light": {
+    "name": "Breezy Autumn Light",
+    "primary": "#af7d5e",
+    "primaryText": "#f7fff8",
+    "primaryContainer": "#c4a18a",
+    "secondary": "#859d82",
+    "surface": "#e1cdc5",
+    "surfaceText": "#452b1a",
+    "surfaceVariant": "#dbbdbd",
+    "surfaceVariantText": "#6a5243",
+    "surfaceTint": "#af7d5e",
+    "background": "#dac7b9",
+    "backgroundText": "#452b1a",
+    "outline": "#7b6353",
+    "surfaceContainer": "#d2c5ba",
+    "surfaceContainerHigh": "#d6bbae",
+    "surfaceContainerHighest": "#d8b6ba",
+    "error": "#ba1a1a",
+    "warning": "#bd759a",
+    "info": "#859d82"
+  },
+  "wallpapers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "path": "wallpapers/default.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "a",
+      "name": "A",
+      "path": "wallpapers/A.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "b",
+      "name": "B",
+      "path": "wallpapers/B.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "c",
+      "name": "C",
+      "path": "wallpapers/C.png",
+      "fillMode": "Fill"
+    }
+  ],
+  "window": {
+    "borderColor": "#6f7a64",
+    "borderActiveColor": "#9e613b",
+    "borderInactiveColor": "#4a2b29",
+    "borderSize": 2,
+    "gapsIn": 4,
+    "gapsOut": 8,
+    "rounding": 6
+  },
+  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/breezy-autumn"
+}

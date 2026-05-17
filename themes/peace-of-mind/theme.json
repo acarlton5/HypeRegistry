@@ -1,0 +1,79 @@
+{
+  "id": "peaceOfMind",
+  "name": "Peace Of Mind",
+  "version": "0.1.2",
+  "author": "HyDE community, converted for HypeShell",
+  "description": "Finally, some peace of mind...",
+  "dark": {
+    "name": "Peace Of Mind Dark",
+    "primary": "#6f89be",
+    "primaryText": "#f7fff8",
+    "primaryContainer": "#4a597b",
+    "secondary": "#ceb07a",
+    "surface": "#323339",
+    "surfaceText": "#eed6ab",
+    "surfaceVariant": "#3e4d4f",
+    "surfaceVariantText": "#c1af90",
+    "surfaceTint": "#6f89be",
+    "background": "#222633",
+    "backgroundText": "#eed6ab",
+    "outline": "#a59780",
+    "surfaceContainer": "#4b4743",
+    "surfaceContainerHigh": "#3f4656",
+    "surfaceContainerHighest": "#435858",
+    "error": "#ffb4ab",
+    "warning": "#73c3b1",
+    "info": "#ceb07a"
+  },
+  "light": {
+    "name": "Peace Of Mind Light",
+    "primary": "#899eca",
+    "primaryText": "#101410",
+    "primaryContainer": "#aab9d7",
+    "secondary": "#dbc59d",
+    "surface": "#d3ddeb",
+    "surfaceText": "#30384c",
+    "surfaceVariant": "#c9dbe5",
+    "surfaceVariantText": "#576072",
+    "surfaceTint": "#899eca",
+    "background": "#ced6e6",
+    "backgroundText": "#30384c",
+    "outline": "#697183",
+    "surfaceContainer": "#d4d9df",
+    "surfaceContainerHigh": "#c3cfe4",
+    "surfaceContainerHighest": "#c4dbe2",
+    "error": "#ba1a1a",
+    "warning": "#9ad4c7",
+    "info": "#dbc59d"
+  },
+  "wallpapers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "path": "wallpapers/default.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "a",
+      "name": "A",
+      "path": "wallpapers/A.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "b",
+      "name": "B",
+      "path": "wallpapers/B.png",
+      "fillMode": "Fill"
+    }
+  ],
+  "window": {
+    "borderColor": "#a59780",
+    "borderActiveColor": "#6f89be",
+    "borderInactiveColor": "#3e4d4f",
+    "borderSize": 2,
+    "gapsIn": 4,
+    "gapsOut": 8,
+    "rounding": 22
+  },
+  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/peace-of-mind"
+}

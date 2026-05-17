@@ -1,0 +1,229 @@
+{
+  "id": "catLatte",
+  "name": "Cat Latte",
+  "version": "0.1.2",
+  "author": "HyDE community, converted for HypeShell",
+  "description": "Better Catppuccin-Latte that fixes the inconsistencies of the official theme",
+  "dark": {
+    "name": "Cat Latte Dark",
+    "primary": "#c46a6a",
+    "primaryText": "#f7fff8",
+    "primaryContainer": "#844747",
+    "secondary": "#c9c9d0",
+    "surface": "#4b3132",
+    "surfaceText": "#e7eaef",
+    "surfaceVariant": "#623c4c",
+    "surfaceVariantText": "#c2bec2",
+    "surfaceTint": "#c46a6a",
+    "background": "#3e2222",
+    "backgroundText": "#e7eaef",
+    "outline": "#aaa2a5",
+    "surfaceContainer": "#5f494b",
+    "surfaceContainerHigh": "#663e3e",
+    "surfaceContainerHighest": "#6c4157",
+    "error": "#ffb4ab",
+    "warning": "#ca6ec0",
+    "info": "#c9c9d0"
+  },
+  "light": {
+    "name": "Cat Latte Light",
+    "primary": "#cf8585",
+    "primaryText": "#101410",
+    "primaryContainer": "#dca7a7",
+    "secondary": "#d7d7dc",
+    "surface": "#edd1d4",
+    "surfaceText": "#562f2f",
+    "surfaceVariant": "#e9c7d4",
+    "surfaceVariantText": "#674a4a",
+    "surfaceTint": "#cf8585",
+    "background": "#eacccc",
+    "backgroundText": "#562f2f",
+    "outline": "#8b6868",
+    "surfaceContainer": "#e9d2d5",
+    "surfaceContainerHigh": "#e6c0c3",
+    "surfaceContainerHighest": "#e8c2d3",
+    "error": "#ba1a1a",
+    "warning": "#d997d2",
+    "info": "#d7d7dc"
+  },
+  "wallpapers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "path": "wallpapers/default.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "akira",
+      "name": "Akira",
+      "path": "wallpapers/akira.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "cloud",
+      "name": "Cloud",
+      "path": "wallpapers/cloud.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "cloudsRealism",
+      "name": "Clouds Realism",
+      "path": "wallpapers/clouds_realism.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "comfy",
+      "name": "Comfy",
+      "path": "wallpapers/comfy.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "dragonBall",
+      "name": "Dragon Ball",
+      "path": "wallpapers/dragon_ball.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "dreamy",
+      "name": "Dreamy",
+      "path": "wallpapers/dreamy.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "fantasyGirl",
+      "name": "Fantasy Girl",
+      "path": "wallpapers/fantasy-girl.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "flower",
+      "name": "Flower",
+      "path": "wallpapers/flower.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "frieren1",
+      "name": "Frieren 1",
+      "path": "wallpapers/frieren-1.jpeg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "frieren2",
+      "name": "Frieren 2",
+      "path": "wallpapers/frieren-2.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "frieren3",
+      "name": "Frieren 3",
+      "path": "wallpapers/frieren-3.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "frieren4",
+      "name": "Frieren 4",
+      "path": "wallpapers/frieren-4.jpeg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "girls",
+      "name": "Girls",
+      "path": "wallpapers/girls.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "jonSnow",
+      "name": "Jon Snow",
+      "path": "wallpapers/jon_snow.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "macchiato",
+      "name": "Macchiato",
+      "path": "wallpapers/macchiato.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "palmTrees",
+      "name": "Palm Trees",
+      "path": "wallpapers/palm_trees.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "sakuraZenitsu",
+      "name": "Sakura Zenitsu",
+      "path": "wallpapers/sakura_zenitsu.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "samuraiBebop",
+      "name": "Samurai Bebop",
+      "path": "wallpapers/samurai_bebop.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "samuraiBebopAlone",
+      "name": "Samurai Bebop Alone",
+      "path": "wallpapers/samurai_bebop_alone.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "samuraiGirl",
+      "name": "Samurai Girl",
+      "path": "wallpapers/samurai_girl.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "samuraiGirlChill",
+      "name": "Samurai Girl Chill",
+      "path": "wallpapers/samurai_girl_chill.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "scissors",
+      "name": "Scissors",
+      "path": "wallpapers/scissors.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "shrine",
+      "name": "Shrine",
+      "path": "wallpapers/shrine.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "totoro",
+      "name": "Totoro",
+      "path": "wallpapers/totoro.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "trainTokyo",
+      "name": "Train Tokyo",
+      "path": "wallpapers/train_tokyo.gif",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "wings",
+      "name": "Wings",
+      "path": "wallpapers/wings.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "yosemite",
+      "name": "Yosemite",
+      "path": "wallpapers/yosemite.png",
+      "fillMode": "Fill"
+    }
+  ],
+  "window": {
+    "borderColor": "#aaa2a5",
+    "borderActiveColor": "#c46a6a",
+    "borderInactiveColor": "#623c4c",
+    "borderSize": 2,
+    "gapsIn": 4,
+    "gapsOut": 8,
+    "rounding": 22
+  },
+  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/cat-latte"
+}

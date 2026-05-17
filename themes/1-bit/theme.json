@@ -1,0 +1,175 @@
+{
+  "id": "theme1Bit",
+  "name": "1-Bit",
+  "version": "0.1.2",
+  "author": "HyDE community, converted for HypeShell",
+  "description": "Monochrome based theme",
+  "dark": {
+    "name": "1-Bit Dark",
+    "primary": "#bababa",
+    "primaryText": "#101410",
+    "primaryContainer": "#747474",
+    "secondary": "#c1c1c1",
+    "surface": "#363636",
+    "surfaceText": "#e3e3e3",
+    "surfaceVariant": "#4f4f4f",
+    "surfaceVariantText": "#b9b9b9",
+    "surfaceTint": "#bababa",
+    "background": "#282828",
+    "backgroundText": "#e3e3e3",
+    "outline": "#a0a0a0",
+    "surfaceContainer": "#4c4c4c",
+    "surfaceContainerHigh": "#535353",
+    "surfaceContainerHighest": "#5a5a5a",
+    "error": "#ffb4ab",
+    "warning": "#c1c1c1",
+    "info": "#c1c1c1"
+  },
+  "light": {
+    "name": "1-Bit Light",
+    "primary": "#c6c6c6",
+    "primaryText": "#101410",
+    "primaryContainer": "#d6d6d6",
+    "secondary": "#d1d1d1",
+    "surface": "#eaeaea",
+    "surfaceText": "#424242",
+    "surfaceVariant": "#e6e6e6",
+    "surfaceVariantText": "#5a5b5a",
+    "surfaceTint": "#c6c6c6",
+    "background": "#e7e7e7",
+    "backgroundText": "#424242",
+    "outline": "#7d7d7d",
+    "surfaceContainer": "#e6e6e6",
+    "surfaceContainerHigh": "#e2e2e2",
+    "surfaceContainerHighest": "#e4e4e4",
+    "error": "#ba1a1a",
+    "warning": "#d2d2d2",
+    "info": "#d1d1d1"
+  },
+  "wallpapers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "path": "wallpapers/default.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "arch",
+      "name": "Arch",
+      "path": "wallpapers/arch.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "cachyos",
+      "name": "Cachyos",
+      "path": "wallpapers/cachyos.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "chained",
+      "name": "Chained",
+      "path": "wallpapers/chained.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "endeavouros",
+      "name": "Endeavouros",
+      "path": "wallpapers/endeavouros.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "evangelion",
+      "name": "Evangelion",
+      "path": "wallpapers/evangelion.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "evangelion2",
+      "name": "Evangelion2",
+      "path": "wallpapers/evangelion2.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "falltree",
+      "name": "Falltree",
+      "path": "wallpapers/falltree.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "girl",
+      "name": "Girl",
+      "path": "wallpapers/girl.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "goals",
+      "name": "Goals",
+      "path": "wallpapers/goals.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "horseMan",
+      "name": "Horse Man",
+      "path": "wallpapers/horse_man.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "humanBody",
+      "name": "Human Body",
+      "path": "wallpapers/human_body.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "icarus",
+      "name": "Icarus",
+      "path": "wallpapers/icarus.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "magicians",
+      "name": "Magicians",
+      "path": "wallpapers/magicians.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "nixWallpaper",
+      "name": "Nix Wallpaper",
+      "path": "wallpapers/nix-wallpaper.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "painting",
+      "name": "Painting",
+      "path": "wallpapers/painting.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "rei",
+      "name": "Rei",
+      "path": "wallpapers/rei.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "roman",
+      "name": "Roman",
+      "path": "wallpapers/roman.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "ssrGt",
+      "name": "Ssr Gt",
+      "path": "wallpapers/ssr_gt.png",
+      "fillMode": "Fill"
+    }
+  ],
+  "window": {
+    "borderColor": "#a0a0a0",
+    "borderActiveColor": "#bababa",
+    "borderInactiveColor": "#4f4f4f",
+    "borderSize": 2,
+    "gapsIn": 4,
+    "gapsOut": 8,
+    "rounding": 2
+  },
+  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/1-bit"
+}

@@ -1,0 +1,139 @@
+{
+  "id": "obsidianPurple",
+  "name": "Obsidian-Purple",
+  "version": "0.1.2",
+  "author": "HyDE community, converted for HypeShell",
+  "description": "Where mystery meets elegance.",
+  "dark": {
+    "name": "Obsidian-Purple Dark",
+    "primary": "#7244c4",
+    "primaryText": "#f7fff8",
+    "primaryContainer": "#4d2e84",
+    "secondary": "#c846bd",
+    "surface": "#331a4a",
+    "surfaceText": "#e986de",
+    "surfaceVariant": "#372f61",
+    "surfaceVariantText": "#c786c5",
+    "surfaceTint": "#7244c4",
+    "background": "#24163e",
+    "backgroundText": "#e986de",
+    "outline": "#a25ea4",
+    "surfaceContainer": "#4b215c",
+    "surfaceContainerHigh": "#412365",
+    "surfaceContainerHighest": "#38386c",
+    "error": "#ffb4ab",
+    "warning": "#488ecb",
+    "info": "#c846bd"
+  },
+  "light": {
+    "name": "Obsidian-Purple Light",
+    "primary": "#8b66cf",
+    "primaryText": "#f7fff8",
+    "primaryContainer": "#ac8fdc",
+    "secondary": "#d676ce",
+    "surface": "#d2c9ed",
+    "surfaceText": "#321e56",
+    "surfaceVariant": "#c2c4ea",
+    "surfaceVariantText": "#58477a",
+    "surfaceTint": "#8b66cf",
+    "background": "#cfbbea",
+    "backgroundText": "#321e56",
+    "outline": "#6b578b",
+    "surfaceContainer": "#d3bce8",
+    "surfaceContainerHigh": "#c2b3e6",
+    "surfaceContainerHighest": "#bbc2e8",
+    "error": "#ba1a1a",
+    "warning": "#7baeda",
+    "info": "#d676ce"
+  },
+  "wallpapers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "path": "wallpapers/default.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme124",
+      "name": "124",
+      "path": "wallpapers/124.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "awb",
+      "name": "Awb",
+      "path": "wallpapers/awb.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "erw",
+      "name": "Erw",
+      "path": "wallpapers/erw.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "flower",
+      "name": "Flower",
+      "path": "wallpapers/flower.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "flowers",
+      "name": "Flowers",
+      "path": "wallpapers/flowers.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "forest",
+      "name": "Forest",
+      "path": "wallpapers/forest.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "grass",
+      "name": "Grass",
+      "path": "wallpapers/grass.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "hollowKnight",
+      "name": "Hollow Knight",
+      "path": "wallpapers/hollow_knight.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "htyr",
+      "name": "Htyr",
+      "path": "wallpapers/htyr.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "space",
+      "name": "Space",
+      "path": "wallpapers/space.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "streetLight",
+      "name": "Street Light",
+      "path": "wallpapers/street_light.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "xewb",
+      "name": "Xewb",
+      "path": "wallpapers/xewb.png",
+      "fillMode": "Fill"
+    }
+  ],
+  "window": {
+    "borderColor": "#a25ea4",
+    "borderActiveColor": "#7244c4",
+    "borderInactiveColor": "#372f61",
+    "borderSize": 2,
+    "gapsIn": 4,
+    "gapsOut": 8,
+    "rounding": 14
+  },
+  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/obsidian-purple"
+}

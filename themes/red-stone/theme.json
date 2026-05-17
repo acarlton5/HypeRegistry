@@ -1,0 +1,139 @@
+{
+  "id": "redStone",
+  "name": "Red Stone",
+  "version": "0.1.2",
+  "author": "HyDE community, converted for HypeShell",
+  "description": "Hot Red based theme",
+  "dark": {
+    "name": "Red Stone Dark",
+    "primary": "#9f100f",
+    "primaryText": "#f7fff8",
+    "primaryContainer": "#6b0b0a",
+    "secondary": "#a47c10",
+    "surface": "#3c1006",
+    "surfaceText": "#ccb15d",
+    "surfaceVariant": "#4f101f",
+    "surfaceVariantText": "#a98a48",
+    "surfaceTint": "#9f100f",
+    "background": "#320505",
+    "backgroundText": "#ccb15d",
+    "outline": "#95733d",
+    "surfaceContainer": "#4d2108",
+    "surfaceContainerHigh": "#521008",
+    "surfaceContainerHighest": "#57102a",
+    "error": "#ffb4ab",
+    "warning": "#a41092",
+    "info": "#a47c10"
+  },
+  "light": {
+    "name": "Red Stone Light",
+    "primary": "#b03b3a",
+    "primaryText": "#f7fff8",
+    "primaryContainer": "#c5716f",
+    "secondary": "#bc9e4e",
+    "surface": "#e1b5ba",
+    "surfaceText": "#460707",
+    "surfaceVariant": "#dba3b8",
+    "surfaceVariantText": "#6b3132",
+    "surfaceTint": "#b03b3a",
+    "background": "#dcaca8",
+    "backgroundText": "#460707",
+    "outline": "#7c4241",
+    "surfaceContainer": "#dbb1a9",
+    "surfaceContainerHigh": "#d69a9e",
+    "surfaceContainerHighest": "#d89cb8",
+    "error": "#ba1a1a",
+    "warning": "#bd53b1",
+    "info": "#bc9e4e"
+  },
+  "wallpapers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "path": "wallpapers/default.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme1067005",
+      "name": "1067005",
+      "path": "wallpapers/1067005.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme1073720",
+      "name": "1073720",
+      "path": "wallpapers/1073720.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme1311137",
+      "name": "1311137",
+      "path": "wallpapers/1311137.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "b012",
+      "name": "B 012",
+      "path": "wallpapers/b-012.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "b032",
+      "name": "B 032",
+      "path": "wallpapers/b-032.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "blossomfire",
+      "name": "Blossomfire",
+      "path": "wallpapers/blossomfire.jpeg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "wallhaven5gorx9",
+      "name": "Wallhaven 5gorx9",
+      "path": "wallpapers/wallhaven-5gorx9.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "wallpaperflare",
+      "name": "Wallpaperflare",
+      "path": "wallpapers/wallpaperflare..jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "wallpaperflareComWallpaper1",
+      "name": "Wallpaperflare Com Wallpaper 1",
+      "path": "wallpapers/wallpaperflare.com_wallpaper (1).jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "wallpaperflareComWallpaper",
+      "name": "Wallpaperflare Com Wallpaper",
+      "path": "wallpapers/wallpaperflare.com_wallpaper.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "wp4389714RedScarsAnimeWallpapers",
+      "name": "Wp4389714 Red Scars Anime Wallpapers",
+      "path": "wallpapers/wp4389714-red-scars-anime-wallpapers.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "wp5537123AnimeRed1920x1080Wallpapers",
+      "name": "Wp5537123 Anime Red 1920x1080 Wallpapers",
+      "path": "wallpapers/wp5537123-anime-red-1920x1080-wallpapers.jpg",
+      "fillMode": "Fill"
+    }
+  ],
+  "window": {
+    "borderColor": "#95733d",
+    "borderActiveColor": "#9f100f",
+    "borderInactiveColor": "#4f101f",
+    "borderSize": 2,
+    "gapsIn": 4,
+    "gapsOut": 8,
+    "rounding": 8
+  },
+  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/red-stone"
+}

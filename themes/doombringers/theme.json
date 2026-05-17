@@ -1,0 +1,121 @@
+{
+  "id": "doombringers",
+  "name": "DoomBringers",
+  "version": "0.1.2",
+  "author": "HyDE community, converted for HypeShell",
+  "description": "When shadows catch fire, sharp edges leave their mark.",
+  "dark": {
+    "name": "DoomBringers Dark",
+    "primary": "#dda72a",
+    "primaryText": "#101410",
+    "primaryContainer": "#95701c",
+    "secondary": "#94e22b",
+    "surface": "#4d4510",
+    "surfaceText": "#befc72",
+    "surfaceVariant": "#68411c",
+    "surfaceVariantText": "#a3d05a",
+    "surfaceTint": "#dda72a",
+    "background": "#46350d",
+    "backgroundText": "#befc72",
+    "outline": "#93b44e",
+    "surfaceContainer": "#585e14",
+    "surfaceContainerHigh": "#6d5b16",
+    "surfaceContainerHighest": "#744021",
+    "error": "#ffb4ab",
+    "warning": "#e43052",
+    "info": "#94e22b"
+  },
+  "light": {
+    "name": "DoomBringers Light",
+    "primary": "#e3b750",
+    "primaryText": "#101410",
+    "primaryContainer": "#e9cb80",
+    "secondary": "#b0ea62",
+    "surface": "#f4dfbe",
+    "surfaceText": "#614a12",
+    "surfaceVariant": "#f3cab3",
+    "surfaceVariantText": "#6f5e33",
+    "surfaceTint": "#e3b750",
+    "background": "#f0e1b3",
+    "backgroundText": "#614a12",
+    "outline": "#94804c",
+    "surfaceContainer": "#e9e1af",
+    "surfaceContainerHigh": "#f0d6a6",
+    "surfaceContainerHighest": "#f2c1ae",
+    "error": "#ba1a1a",
+    "warning": "#ec6a82",
+    "info": "#b0ea62"
+  },
+  "wallpapers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "path": "wallpapers/default.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme1AbandonedBattlefield",
+      "name": "1 Abandoned Battlefield",
+      "path": "wallpapers/1 Abandoned Battlefield.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme2TheTower",
+      "name": "2 The Tower",
+      "path": "wallpapers/2 The Tower.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme3EtherealAbyss",
+      "name": "3 Ethereal Abyss",
+      "path": "wallpapers/3 Ethereal Abyss.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme4CosmicRift",
+      "name": "4 Cosmic Rift",
+      "path": "wallpapers/4 Cosmic Rift.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme5Strive",
+      "name": "5 Strive",
+      "path": "wallpapers/5 Strive.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme6Alone",
+      "name": "6 Alone",
+      "path": "wallpapers/6 Alone.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme7Void",
+      "name": "7 Void",
+      "path": "wallpapers/7 Void.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme8TheHorizon",
+      "name": "8 The Horizon",
+      "path": "wallpapers/8 The Horizon.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme9TheCliphs",
+      "name": "9 The Cliphs",
+      "path": "wallpapers/9 The Cliphs.jpg",
+      "fillMode": "Fill"
+    }
+  ],
+  "window": {
+    "borderColor": "#93b44e",
+    "borderActiveColor": "#dda72a",
+    "borderInactiveColor": "#68411c",
+    "borderSize": 2,
+    "gapsIn": 4,
+    "gapsOut": 8,
+    "rounding": 8
+  },
+  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/doombringers"
+}

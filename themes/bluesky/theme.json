@@ -1,0 +1,133 @@
+{
+  "id": "bluesky",
+  "name": "BlueSky",
+  "version": "0.1.2",
+  "author": "HyDE community, converted for HypeShell",
+  "description": "A serene theme inspired by bright cloudy skies",
+  "dark": {
+    "name": "BlueSky Dark",
+    "primary": "#94b0d0",
+    "primaryText": "#101410",
+    "primaryContainer": "#5c6d7f",
+    "secondary": "#ab9ad8",
+    "surface": "#2d2f38",
+    "surfaceText": "#d3c5f5",
+    "surfaceVariant": "#404d50",
+    "surfaceVariantText": "#aba1c8",
+    "surfaceTint": "#94b0d0",
+    "background": "#202428",
+    "backgroundText": "#d3c5f5",
+    "outline": "#938bab",
+    "surfaceContainer": "#414052",
+    "surfaceContainerHigh": "#444b59",
+    "surfaceContainerHighest": "#495b5b",
+    "error": "#ffb4ab",
+    "warning": "#99d8c0",
+    "info": "#ab9ad8"
+  },
+  "light": {
+    "name": "BlueSky Light",
+    "primary": "#a7bed8",
+    "primaryText": "#101410",
+    "primaryContainer": "#bfcfe3",
+    "secondary": "#c1b4e2",
+    "surface": "#dee8f0",
+    "surfaceText": "#353d46",
+    "surfaceVariant": "#d7e7eb",
+    "surfaceVariantText": "#5e666f",
+    "surfaceTint": "#a7bed8",
+    "background": "#dae2ee",
+    "backgroundText": "#353d46",
+    "outline": "#707882",
+    "surfaceContainer": "#d9e0ee",
+    "surfaceContainerHigh": "#d2dfeb",
+    "surfaceContainerHighest": "#d4e7e8",
+    "error": "#ba1a1a",
+    "warning": "#b6e3d2",
+    "info": "#c1b4e2"
+  },
+  "wallpapers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "path": "wallpapers/default.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "bg1",
+      "name": "Bg 1",
+      "path": "wallpapers/bg-1.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "bg10",
+      "name": "Bg 10",
+      "path": "wallpapers/bg-10.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "bg11",
+      "name": "Bg 11",
+      "path": "wallpapers/bg-11.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "bg2",
+      "name": "Bg 2",
+      "path": "wallpapers/bg-2.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "bg3",
+      "name": "Bg 3",
+      "path": "wallpapers/bg-3.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "bg4",
+      "name": "Bg 4",
+      "path": "wallpapers/bg-4.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "bg5",
+      "name": "Bg 5",
+      "path": "wallpapers/bg-5.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "bg6",
+      "name": "Bg 6",
+      "path": "wallpapers/bg-6.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "bg7",
+      "name": "Bg 7",
+      "path": "wallpapers/bg-7.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "bg8",
+      "name": "Bg 8",
+      "path": "wallpapers/bg-8.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "bg9",
+      "name": "Bg 9",
+      "path": "wallpapers/bg-9.jpg",
+      "fillMode": "Fill"
+    }
+  ],
+  "window": {
+    "borderColor": "#938bab",
+    "borderActiveColor": "#94b0d0",
+    "borderInactiveColor": "#404d50",
+    "borderSize": 2,
+    "gapsIn": 4,
+    "gapsOut": 8,
+    "rounding": 20
+  },
+  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/bluesky"
+}

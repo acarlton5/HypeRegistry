@@ -1,0 +1,21 @@
+{
+    "id":  "emojiLauncher",
+    "name":  "Emoji \u0026 Unicode Launcher",
+    "capabilities":  [
+                         "launcher"
+                     ],
+    "category":  "utilities",
+    "repo":  "https://github.com/acarlton5/HYPEPLUGIN-emojiLauncher",
+    "author":  "devnullvoid",
+    "description":  "Search and copy 300+ emojis and 100+ unicode characters directly from the launcher with instant clipboard copying",
+    "dependencies":  [
+
+                     ],
+    "compositors":  [
+                        "any"
+                    ],
+    "distro":  [
+                   "any"
+               ],
+    "screenshot":  "https://github.com/devnullvoid/dms-emoji-launcher/blob/main/screenshot.png?raw=true"
+}

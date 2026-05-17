@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="484" height="240" viewBox="0 0 484 240">
+  <g transform="translate(0, 0)">
+  <rect width="240" height="240" fill="#372d44"/>
+  <rect x="8" y="8" width="224" height="224" rx="8" fill="#463b50"/>
+  <rect x="16" y="16" width="208" height="36" rx="6" fill="#5e5163"/>
+  <text x="28" y="40" font-family="system-ui, sans-serif" font-size="12" font-weight="600" fill="#f8e7e3">Catppuccin-Macchiato (dark)</text>
+  <rect x="16" y="60" width="208" height="72" rx="6" fill="#5d4d6e"/>
+  <text x="28" y="82" font-family="system-ui, sans-serif" font-size="11" fill="#f8e7e3">Surface Text</text>
+  <text x="28" y="98" font-family="system-ui, sans-serif" font-size="10" fill="#b3a4aa">Outline color</text>
+  <rect x="28" y="108" width="72" height="18" rx="9" fill="#af8eda"/>
+  <text x="64" y="120" font-family="system-ui, sans-serif" font-size="9" text-anchor="middle" fill="#101410">Primary</text>
+  <rect x="108" y="108" width="48" height="18" rx="4" fill="#ddc6c4"/>
+  <rect x="16" y="140" width="100" height="52" rx="6" fill="#5e5163"/>
+  <rect x="24" y="148" width="84" height="36" rx="4" fill="#372d44"/>
+  <text x="66" y="170" font-family="system-ui, sans-serif" font-size="9" text-anchor="middle" fill="#f8e7e3">Background</text>
+  <rect x="124" y="140" width="100" height="52" rx="6" fill="#5e5163"/>
+  <circle cx="148" cy="166" r="9" fill="#ffb4ab"/>
+  <circle cx="172" cy="166" r="9" fill="#b8bfe0"/>
+  <circle cx="196" cy="166" r="9" fill="#ddc6c4"/>
+  <rect x="16" y="200" width="208" height="24" rx="4" fill="#af8eda" opacity="0.15"/>
+  <text x="120" y="216" font-family="system-ui, sans-serif" font-size="9" text-anchor="middle" fill="#f8e7e3">Surface Tint Overlay</text>
+</g>
+  <rect x="240" y="0" width="4" height="240" fill="#888"/>
+  <g transform="translate(244, 0)">
+  <rect width="240" height="240" fill="#e4d8f1"/>
+  <rect x="8" y="8" width="224" height="224" rx="8" fill="#e7def4"/>
+  <rect x="16" y="16" width="208" height="36" rx="6" fill="#e7ddef"/>
+  <text x="28" y="40" font-family="system-ui, sans-serif" font-size="12" font-weight="600" fill="#4d3e5f">Catppuccin-Macchiato (light)</text>
+  <rect x="16" y="60" width="208" height="72" rx="6" fill="#ded1f0"/>
+  <text x="28" y="82" font-family="system-ui, sans-serif" font-size="11" fill="#4d3e5f">Surface Text</text>
+  <text x="28" y="98" font-family="system-ui, sans-serif" font-size="10" fill="#837594">Outline color</text>
+  <rect x="28" y="108" width="72" height="18" rx="9" fill="#bda2e1"/>
+  <text x="64" y="120" font-family="system-ui, sans-serif" font-size="9" text-anchor="middle" fill="#101410">Primary</text>
+  <rect x="108" y="108" width="48" height="18" rx="4" fill="#e6d5d3"/>
+  <rect x="16" y="140" width="100" height="52" rx="6" fill="#e7ddef"/>
+  <rect x="24" y="148" width="84" height="36" rx="4" fill="#e4d8f1"/>
+  <text x="66" y="170" font-family="system-ui, sans-serif" font-size="9" text-anchor="middle" fill="#4d3e5f">Background</text>
+  <rect x="124" y="140" width="100" height="52" rx="6" fill="#e7ddef"/>
+  <circle cx="148" cy="166" r="9" fill="#ba1a1a"/>
+  <circle cx="172" cy="166" r="9" fill="#ccd1e9"/>
+  <circle cx="196" cy="166" r="9" fill="#e6d5d3"/>
+  <rect x="16" y="200" width="208" height="24" rx="4" fill="#bda2e1" opacity="0.15"/>
+  <text x="120" y="216" font-family="system-ui, sans-serif" font-size="9" text-anchor="middle" fill="#4d3e5f">Surface Tint Overlay</text>
+</g>
+</svg>

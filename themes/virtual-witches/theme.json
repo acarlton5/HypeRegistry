@@ -1,0 +1,115 @@
+{
+  "id": "virtualWitches",
+  "name": "Virtual-Witches",
+  "version": "0.1.2",
+  "author": "HyDE community, converted for HypeShell",
+  "description": "HyDE theme based on Catppuccin Frappe and Virtual Witch Phenomenon",
+  "dark": {
+    "name": "Virtual-Witches Dark",
+    "primary": "#cab4e2",
+    "primaryText": "#101410",
+    "primaryContainer": "#877998",
+    "secondary": "#9db0dc",
+    "surface": "#484455",
+    "surfaceText": "#c5d4f5",
+    "surfaceVariant": "#5d5d70",
+    "surfaceVariantText": "#b5bfd6",
+    "surfaceTint": "#cab4e2",
+    "background": "#3f3947",
+    "backgroundText": "#c5d4f5",
+    "outline": "#959cb6",
+    "surfaceContainer": "#56556b",
+    "surfaceContainerHigh": "#655d74",
+    "surfaceContainerHighest": "#66687b",
+    "error": "#ffb4ab",
+    "warning": "#bbcfe9",
+    "info": "#9db0dc"
+  },
+  "light": {
+    "name": "Virtual-Witches Light",
+    "primary": "#d4c2e7",
+    "primaryText": "#101410",
+    "primaryContainer": "#dfd2ed",
+    "secondary": "#b6c5e5",
+    "surface": "#eee9f6",
+    "surfaceText": "#584f63",
+    "surfaceVariant": "#e8e7f5",
+    "surfaceVariantText": "#696371",
+    "surfaceTint": "#d4c2e7",
+    "background": "#ebe4f4",
+    "backgroundText": "#584f63",
+    "outline": "#8d8597",
+    "surfaceContainer": "#e5e3f3",
+    "surfaceContainerHigh": "#e8e0f3",
+    "surfaceContainerHighest": "#e6e6f4",
+    "error": "#ba1a1a",
+    "warning": "#cedcef",
+    "info": "#b6c5e5"
+  },
+  "wallpapers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "path": "wallpapers/default.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "isekaijoucho",
+      "name": "Isekaijoucho",
+      "path": "wallpapers/isekaijoucho.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "kaf",
+      "name": "Kaf",
+      "path": "wallpapers/kaf.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "rim",
+      "name": "Rim",
+      "path": "wallpapers/rim.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "witches1",
+      "name": "Witches1",
+      "path": "wallpapers/witches1.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "witches2",
+      "name": "Witches2",
+      "path": "wallpapers/witches2.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "witches3",
+      "name": "Witches3",
+      "path": "wallpapers/witches3.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "witches4",
+      "name": "Witches4",
+      "path": "wallpapers/witches4.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "witches5",
+      "name": "Witches5",
+      "path": "wallpapers/witches5.png",
+      "fillMode": "Fill"
+    }
+  ],
+  "window": {
+    "borderColor": "#959cb6",
+    "borderActiveColor": "#cab4e2",
+    "borderInactiveColor": "#5d5d70",
+    "borderSize": 2,
+    "gapsIn": 4,
+    "gapsOut": 8,
+    "rounding": 14
+  },
+  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/virtual-witches"
+}

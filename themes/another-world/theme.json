@@ -1,0 +1,68 @@
+{
+  "id": "anotherWorld",
+  "name": "Another World",
+  "version": "0.1.2",
+  "author": "HyDE community, converted for HypeShell",
+  "description": "Step beyond the horizon, where reality fades and imagination reigns supreme.",
+  "dark": {
+    "name": "Another World Dark",
+    "primary": "#6aafd0",
+    "primaryText": "#101410",
+    "primaryContainer": "#47758b",
+    "secondary": "#7570d7",
+    "surface": "#2a3c4f",
+    "surfaceText": "#a9a3f1",
+    "surfaceVariant": "#36585d",
+    "surfaceVariantText": "#aeafd9",
+    "surfaceTint": "#6aafd0",
+    "background": "#223741",
+    "backgroundText": "#a9a3f1",
+    "outline": "#787cb2",
+    "surfaceContainer": "#364465",
+    "surfaceContainerHigh": "#38556b",
+    "surfaceContainerHighest": "#3c6463",
+    "error": "#ffb4ab",
+    "warning": "#6ed59b",
+    "info": "#7570d7"
+  },
+  "light": {
+    "name": "Another World Light",
+    "primary": "#85bdd8",
+    "primaryText": "#101410",
+    "primaryContainer": "#a6cee3",
+    "secondary": "#9995e1",
+    "surface": "#d1e8ef",
+    "surfaceText": "#2f4d5b",
+    "surfaceVariant": "#c7e7e5",
+    "surfaceVariantText": "#49616b",
+    "surfaceTint": "#85bdd8",
+    "background": "#c9e1ee",
+    "backgroundText": "#2f4d5b",
+    "outline": "#668290",
+    "surfaceContainer": "#c8dbed",
+    "surfaceContainerHigh": "#c0dfea",
+    "surfaceContainerHighest": "#c2e6e0",
+    "error": "#ba1a1a",
+    "warning": "#97e1b7",
+    "info": "#9995e1"
+  },
+  "wallpapers": [
+    {
+      "id": "themeWallpaper",
+      "name": "Theme Wallpaper",
+      "lightPath": "wallpapers/theme-light.svg",
+      "darkPath": "wallpapers/theme-dark.svg",
+      "fillMode": "Fill"
+    }
+  ],
+  "window": {
+    "borderColor": "#787cb2",
+    "borderActiveColor": "#6aafd0",
+    "borderInactiveColor": "#36585d",
+    "borderSize": 2,
+    "gapsIn": 4,
+    "gapsOut": 8,
+    "rounding": 14
+  },
+  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/another-world"
+}

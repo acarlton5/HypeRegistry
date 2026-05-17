@@ -1,0 +1,21 @@
+{
+    "id":  "prayerTimes",
+    "name":  "Prayer Times",
+    "capabilities":  [
+                         "dankbar-widget"
+                     ],
+    "category":  "utilities",
+    "repo":  "https://github.com/acarlton5/HYPEPLUGIN-prayerTimes",
+    "author":  "muadz",
+    "description":  "Display Islamic prayer times from Aladhan API",
+    "dependencies":  [
+
+                     ],
+    "compositors":  [
+                        "any"
+                    ],
+    "distro":  [
+                   "any"
+               ],
+    "screenshot":  "https://raw.githubusercontent.com/muadzmo/prayertimes/refs/heads/main/screenshot.png"
+}

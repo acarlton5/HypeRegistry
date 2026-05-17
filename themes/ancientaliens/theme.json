@@ -1,0 +1,97 @@
+{
+  "id": "ancientaliens",
+  "name": "AncientAliens",
+  "version": "0.1.8",
+  "author": "HyDE community, converted for HypeShell",
+  "description": "A futuristic alien-like theme. Designed to invoke the feelings of watching the History channel at three in the morning.",
+  "dark": {
+    "name": "AncientAliens Dark",
+    "primary": "#94b9d0",
+    "primaryText": "#101410",
+    "primaryContainer": "#5d7380",
+    "secondary": "#a29ad8",
+    "surface": "#2e3139",
+    "surfaceText": "#cbc5f5",
+    "surfaceVariant": "#414f50",
+    "surfaceVariantText": "#a5a1c8",
+    "surfaceTint": "#94b9d0",
+    "background": "#222729",
+    "backgroundText": "#cbc5f5",
+    "outline": "#8e8cac",
+    "surfaceContainer": "#414252",
+    "surfaceContainerHigh": "#444f5a",
+    "surfaceContainerHighest": "#4a5c5a",
+    "error": "#ffb4ab",
+    "warning": "#9ad8b8",
+    "info": "#a29ad8"
+  },
+  "light": {
+    "name": "AncientAliens Light",
+    "primary": "#a7c6d8",
+    "primaryText": "#101410",
+    "primaryContainer": "#bfd5e3",
+    "secondary": "#bab4e2",
+    "surface": "#deeaf0",
+    "surfaceText": "#374147",
+    "surfaceVariant": "#d7e9ea",
+    "surfaceVariantText": "#5f6a70",
+    "surfaceTint": "#a7c6d8",
+    "background": "#d9e5ee",
+    "backgroundText": "#374147",
+    "outline": "#717c83",
+    "surfaceContainer": "#d8e1ee",
+    "surfaceContainerHigh": "#d2e2eb",
+    "surfaceContainerHighest": "#d4e8e7",
+    "error": "#ba1a1a",
+    "warning": "#b6e3cc",
+    "info": "#bab4e2"
+  },
+  "wallpapers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "path": "wallpapers/default.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme341904",
+      "name": "341904",
+      "path": "wallpapers/341904.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme760792",
+      "name": "760792",
+      "path": "wallpapers/760792.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "surrealPyramids4k",
+      "name": "Surreal Pyramids 4k",
+      "path": "wallpapers/surreal_pyramids_4k.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "wallpaperflareComWallpaper1",
+      "name": "Wallpaperflare Com Wallpaper 1",
+      "path": "wallpapers/wallpaperflare.com_wallpaper(1).jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "wallpaperflareComWallpaper",
+      "name": "Wallpaperflare Com Wallpaper",
+      "path": "wallpapers/wallpaperflare.com_wallpaper.jpg",
+      "fillMode": "Fill"
+    }
+  ],
+  "window": {
+    "borderColor": "#8e8cac",
+    "borderActiveColor": "#94b9d0",
+    "borderInactiveColor": "#414f50",
+    "borderSize": 2,
+    "gapsIn": 4,
+    "gapsOut": 8,
+    "rounding": 14
+  },
+  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/ancientaliens"
+}

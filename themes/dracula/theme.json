@@ -1,0 +1,127 @@
+{
+  "id": "dracula",
+  "name": "Dracula",
+  "version": "0.1.2",
+  "author": "HyDE community, converted for HypeShell",
+  "description": "Dracula based theme",
+  "dark": {
+    "name": "Dracula Dark",
+    "primary": "#e24b4b",
+    "primaryText": "#f7fff8",
+    "primaryContainer": "#983232",
+    "secondary": "#5d6d7a",
+    "surface": "#491f20",
+    "surfaceText": "#93a4ae",
+    "surfaceVariant": "#662741",
+    "surfaceVariantText": "#969a9f",
+    "surfaceTint": "#e24b4b",
+    "background": "#471717",
+    "backgroundText": "#93a4ae",
+    "outline": "#787178",
+    "surfaceContainer": "#4c2b2e",
+    "surfaceContainerHigh": "#6b2929",
+    "surfaceContainerHighest": "#732b50",
+    "error": "#ffb4ab",
+    "warning": "#e94ed7",
+    "info": "#5d6d7a"
+  },
+  "light": {
+    "name": "Dracula Light",
+    "primary": "#e76b6b",
+    "primaryText": "#f7fff8",
+    "primaryContainer": "#eb9394",
+    "secondary": "#87939d",
+    "surface": "#f6c8cd",
+    "surfaceText": "#632020",
+    "surfaceVariant": "#f5bbd1",
+    "surfaceVariantText": "#86484a",
+    "surfaceTint": "#e76b6b",
+    "background": "#f0bfc0",
+    "backgroundText": "#632020",
+    "outline": "#96595a",
+    "surfaceContainer": "#e4c0c5",
+    "surfaceContainerHigh": "#f3b4b7",
+    "surfaceContainerHighest": "#f4b5d2",
+    "error": "#ba1a1a",
+    "warning": "#ef80e2",
+    "info": "#87939d"
+  },
+  "wallpapers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "path": "wallpapers/default.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "arch",
+      "name": "Arch",
+      "path": "wallpapers/arch.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "castle",
+      "name": "Castle",
+      "path": "wallpapers/castle.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "cat",
+      "name": "Cat",
+      "path": "wallpapers/cat.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "emblem",
+      "name": "Emblem",
+      "path": "wallpapers/emblem.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "leaves",
+      "name": "Leaves",
+      "path": "wallpapers/leaves.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "linux",
+      "name": "Linux",
+      "path": "wallpapers/linux.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "mountains",
+      "name": "Mountains",
+      "path": "wallpapers/mountains.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "softWaves",
+      "name": "Soft Waves",
+      "path": "wallpapers/soft-waves.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "swamp",
+      "name": "Swamp",
+      "path": "wallpapers/swamp.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "waves",
+      "name": "Waves",
+      "path": "wallpapers/waves.png",
+      "fillMode": "Fill"
+    }
+  ],
+  "window": {
+    "borderColor": "#787178",
+    "borderActiveColor": "#e24b4b",
+    "borderInactiveColor": "#662741",
+    "borderSize": 2,
+    "gapsIn": 4,
+    "gapsOut": 8,
+    "rounding": 8
+  },
+  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/dracula"
+}

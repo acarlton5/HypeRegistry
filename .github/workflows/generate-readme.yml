@@ -1,0 +1,49 @@
+name: Generate README
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  generate:
+    if: github.repository == 'AvengeMedia/dms-plugin-registry'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Install dependencies
+        run: pip install jinja2
+
+      - name: Generate theme previews
+        run: python3 .github/generate_theme_previews.py
+
+      - name: Generate README
+        run: python3 .github/generate.py
+
+      - name: Check for changes
+        id: check_changes
+        run: |
+          git add -A
+          if git diff --cached --quiet; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit and push if changed
+        if: steps.check_changes.outputs.changed == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git commit -m "chore: auto-generate README.md [skip ci]"
+          git pull --rebase
+          git push

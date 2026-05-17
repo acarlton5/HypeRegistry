@@ -1,0 +1,187 @@
+{
+  "id": "montereyFrost",
+  "name": "Monterey Frost",
+  "version": "0.1.2",
+  "author": "HyDE community, converted for HypeShell",
+  "description": "Mac-OS inspired dark theme",
+  "dark": {
+    "name": "Monterey Frost Dark",
+    "primary": "#7bacbc",
+    "primaryText": "#101410",
+    "primaryContainer": "#5b7b89",
+    "secondary": "#dd839e",
+    "surface": "#484b58",
+    "surfaceText": "#f7b0c4",
+    "surfaceVariant": "#526063",
+    "surfaceVariantText": "#dab9c3",
+    "surfaceTint": "#7bacbc",
+    "background": "#394551",
+    "backgroundText": "#f7b0c4",
+    "outline": "#b3899b",
+    "surfaceContainer": "#605463",
+    "surfaceContainerHigh": "#53606e",
+    "surfaceContainerHighest": "#566968",
+    "error": "#ffb4ab",
+    "warning": "#7fbf95",
+    "info": "#dd839e"
+  },
+  "light": {
+    "name": "Monterey Frost Light",
+    "primary": "#93bbc8",
+    "primaryText": "#101410",
+    "primaryContainer": "#b1cdd6",
+    "secondary": "#e6a3b7",
+    "surface": "#d6e6e9",
+    "surfaceText": "#455864",
+    "surfaceVariant": "#cde2df",
+    "surfaceVariantText": "#58686f",
+    "surfaceTint": "#93bbc8",
+    "background": "#d2e0e6",
+    "backgroundText": "#455864",
+    "outline": "#788993",
+    "surfaceContainer": "#d9dbe1",
+    "surfaceContainerHigh": "#c7dde2",
+    "surfaceContainerHighest": "#c9e1db",
+    "error": "#ba1a1a",
+    "warning": "#a3d1b3",
+    "info": "#e6a3b7"
+  },
+  "wallpapers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "path": "wallpapers/default.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "leaf",
+      "name": "Leaf",
+      "path": "wallpapers/leaf.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "mojaveNordDark",
+      "name": "Mojave Nord Dark",
+      "path": "wallpapers/Mojave-nord-dark.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "mojaveNordLight",
+      "name": "Mojave Nord Light",
+      "path": "wallpapers/Mojave-nord-light.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "montereyDark",
+      "name": "Monterey Dark",
+      "path": "wallpapers/Monterey-dark.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "montereyLight",
+      "name": "Monterey Light",
+      "path": "wallpapers/Monterey-light.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "montereyMorning",
+      "name": "Monterey Morning",
+      "path": "wallpapers/Monterey-morning.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "montereyNord",
+      "name": "Monterey Nord",
+      "path": "wallpapers/Monterey-nord.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "monterey",
+      "name": "Monterey",
+      "path": "wallpapers/Monterey.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "osxBeach",
+      "name": "Osx Beach",
+      "path": "wallpapers/osx_beach.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "osxDesert",
+      "name": "Osx Desert",
+      "path": "wallpapers/osx_desert.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "sonamaDark",
+      "name": "Sonama Dark",
+      "path": "wallpapers/Sonama-Dark.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "sonomaDark",
+      "name": "Sonoma Dark",
+      "path": "wallpapers/Sonoma-dark.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "sonomaLight",
+      "name": "Sonoma Light",
+      "path": "wallpapers/Sonoma-light.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "venturaDark",
+      "name": "Ventura Dark",
+      "path": "wallpapers/Ventura-dark.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "venturaLight",
+      "name": "Ventura Light",
+      "path": "wallpapers/Ventura-light.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "whitesurDark",
+      "name": "WhiteSur Dark",
+      "path": "wallpapers/WhiteSur-dark.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "whitesurMorning",
+      "name": "WhiteSur Morning",
+      "path": "wallpapers/WhiteSur-morning.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "whitesurNordDark",
+      "name": "WhiteSur Nord Dark",
+      "path": "wallpapers/WhiteSur-nord-dark.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "whitesurNordLight",
+      "name": "WhiteSur Nord Light",
+      "path": "wallpapers/WhiteSur-nord-light.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "whitesur",
+      "name": "WhiteSur",
+      "path": "wallpapers/WhiteSur.jpg",
+      "fillMode": "Fill"
+    }
+  ],
+  "window": {
+    "borderColor": "#b3899b",
+    "borderActiveColor": "#7bacbc",
+    "borderInactiveColor": "#526063",
+    "borderSize": 2,
+    "gapsIn": 4,
+    "gapsOut": 8,
+    "rounding": 18
+  },
+  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/monterey-frost"
+}

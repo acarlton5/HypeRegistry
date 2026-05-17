@@ -1,0 +1,24 @@
+{
+    "id":  "mpvpaperWallpaper",
+    "name":  "mpvpaper Video Wallpaper",
+    "capabilities":  [
+                         "wallpaper",
+                         "animation",
+                         "dankbar-widget"
+                     ],
+    "category":  "appearance",
+    "repo":  "https://github.com/acarlton5/HYPEPLUGIN-mpvpaperWallpaper",
+    "author":  "kanghengliu",
+    "description":  "Video wallpaper support using mpvpaper",
+    "dependencies":  [
+                         "mpvpaper"
+                     ],
+    "compositors":  [
+                        "niri",
+                        "hyprland"
+                    ],
+    "distro":  [
+                   "any"
+               ],
+    "screenshot":  "https://raw.githubusercontent.com/kanghengliu/dms-mpvpaper/main/screenshot.png"
+}

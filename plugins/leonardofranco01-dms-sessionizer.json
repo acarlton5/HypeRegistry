@@ -1,0 +1,23 @@
+{
+    "id":  "dmsSessionizer",
+    "name":  "DMS Sessionizer",
+    "capabilities":  [
+                         "launcher",
+                         "command-execution",
+                         "shell"
+                     ],
+    "category":  "utilities",
+    "repo":  "https://github.com/acarlton5/HYPEPLUGIN-dmsSessionizer",
+    "author":  "leonardofranco01",
+    "description":  "Create tmux sessions for your projects",
+    "dependencies":  [
+                         "tmux"
+                     ],
+    "compositors":  [
+                        "hyprland"
+                    ],
+    "distro":  [
+                   "any"
+               ],
+    "screenshot":  "https://raw.githubusercontent.com/leonardofranco01/dms-sessionizer/refs/heads/main/assets/screenshot.png"
+}

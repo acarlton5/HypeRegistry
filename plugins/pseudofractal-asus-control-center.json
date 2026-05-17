@@ -1,0 +1,22 @@
+{
+    "id":  "asusControlCenter",
+    "name":  "ASUS Control Center",
+    "capabilities":  [
+                         "dankbar-widget"
+                     ],
+    "category":  "system",
+    "repo":  "https://github.com/acarlton5/HYPEPLUGIN-asusControlCenter",
+    "author":  "pseudofractal",
+    "description":  "Manage Power Profiles and GPU Modes for ASUS Laptops directly from your DankBar.",
+    "dependencies":  [
+                         "asusctl",
+                         "supergfxctl"
+                     ],
+    "compositors":  [
+                        "any"
+                    ],
+    "distro":  [
+                   "any"
+               ],
+    "screenshot":  "https://raw.githubusercontent.com/pseudofractal/AsusControl/main/assets/popup.png"
+}

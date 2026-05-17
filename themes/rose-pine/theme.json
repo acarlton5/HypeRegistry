@@ -1,0 +1,169 @@
+{
+  "id": "rosePine",
+  "name": "Ros\u00e9 Pine",
+  "version": "0.1.2",
+  "author": "HyDE community, converted for HypeShell",
+  "description": "Official Theme",
+  "dark": {
+    "name": "Ros\u00e9 Pine Dark",
+    "primary": "#d06281",
+    "primaryText": "#f7fff8",
+    "primaryContainer": "#8b4256",
+    "secondary": "#336a83",
+    "surface": "#402630",
+    "surfaceText": "#73a0b3",
+    "surfaceVariant": "#57314e",
+    "surfaceVariantText": "#8199a6",
+    "surfaceTint": "#d06281",
+    "background": "#411f28",
+    "backgroundText": "#73a0b3",
+    "outline": "#617281",
+    "surfaceContainer": "#3e313d",
+    "surfaceContainerHigh": "#603342",
+    "surfaceContainerHighest": "#62365b",
+    "error": "#ffb4ab",
+    "warning": "#c165d4",
+    "info": "#336a83"
+  },
+  "light": {
+    "name": "Ros\u00e9 Pine Light",
+    "primary": "#d87e98",
+    "primaryText": "#f7fff8",
+    "primaryContainer": "#e0a1b4",
+    "secondary": "#6891a3",
+    "surface": "#f0cfdc",
+    "surfaceText": "#5b2b38",
+    "surfaceVariant": "#ebc4dd",
+    "surfaceVariantText": "#6b4751",
+    "surfaceTint": "#d87e98",
+    "background": "#e9c7d2",
+    "backgroundText": "#5b2b38",
+    "outline": "#8e636f",
+    "surfaceContainer": "#dac5d3",
+    "surfaceContainerHigh": "#ebbdcd",
+    "surfaceContainerHighest": "#e8bfdd",
+    "error": "#ba1a1a",
+    "warning": "#d290e0",
+    "info": "#6891a3"
+  },
+  "wallpapers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "path": "wallpapers/default.jpeg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "burningCherry",
+      "name": "Burning Cherry",
+      "path": "wallpapers/burning_cherry.jpeg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "chainsawMakima",
+      "name": "Chainsaw Makima",
+      "path": "wallpapers/chainsaw_makima.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "darkPurpleKimono",
+      "name": "Dark Purple Kimono",
+      "path": "wallpapers/dark_purple_kimono.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "ferrisWheel",
+      "name": "Ferris Wheel",
+      "path": "wallpapers/ferris_wheel.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "japanMountainPink",
+      "name": "Japan Mountain Pink",
+      "path": "wallpapers/japan_mountain_pink.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "japanTowerPink",
+      "name": "Japan Tower Pink",
+      "path": "wallpapers/japan_tower_pink.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "lakesideSunset",
+      "name": "Lakeside Sunset",
+      "path": "wallpapers/lakeside_sunset.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "mountainDragonPink",
+      "name": "Mountain Dragon Pink",
+      "path": "wallpapers/mountain_dragon_pink.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "mountainSunset",
+      "name": "Mountain Sunset",
+      "path": "wallpapers/mountain_sunset.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "mushrooms1",
+      "name": "Mushrooms 1",
+      "path": "wallpapers/mushrooms_1.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "mushrooms2",
+      "name": "Mushrooms 2",
+      "path": "wallpapers/mushrooms_2.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "mushrooms3",
+      "name": "Mushrooms 3",
+      "path": "wallpapers/mushrooms_3.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "mushrooms4",
+      "name": "Mushrooms 4",
+      "path": "wallpapers/mushrooms_4.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "nimbus",
+      "name": "Nimbus",
+      "path": "wallpapers/nimbus.gif",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "redPurple",
+      "name": "Red Purple",
+      "path": "wallpapers/red_purple.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "waifuPink",
+      "name": "Waifu Pink",
+      "path": "wallpapers/waifu_pink.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "warmAfternoon",
+      "name": "Warm Afternoon",
+      "path": "wallpapers/warm_afternoon.jpeg",
+      "fillMode": "Fill"
+    }
+  ],
+  "window": {
+    "borderColor": "#617281",
+    "borderActiveColor": "#d06281",
+    "borderInactiveColor": "#57314e",
+    "borderSize": 2,
+    "gapsIn": 4,
+    "gapsOut": 8,
+    "rounding": 22
+  },
+  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/rose-pine"
+}

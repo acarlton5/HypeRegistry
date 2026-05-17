@@ -1,0 +1,91 @@
+{
+  "id": "timelessDream",
+  "name": "Timeless Dream",
+  "version": "0.1.2",
+  "author": "HyDE community, converted for HypeShell",
+  "description": "Maybe, it's all just a dream...",
+  "dark": {
+    "name": "Timeless Dream Dark",
+    "primary": "#79c4e2",
+    "primaryText": "#101410",
+    "primaryContainer": "#518498",
+    "secondary": "#bc6293",
+    "surface": "#34414e",
+    "surfaceText": "#df98bc",
+    "surfaceVariant": "#3a5b61",
+    "surfaceVariantText": "#cbabbe",
+    "surfaceTint": "#79c4e2",
+    "background": "#263e47",
+    "backgroundText": "#df98bc",
+    "outline": "#9c7892",
+    "surfaceContainer": "#4a4659",
+    "surfaceContainerHigh": "#435e6f",
+    "surfaceContainerHighest": "#3d666a",
+    "error": "#ffb4ab",
+    "warning": "#56d0b8",
+    "info": "#bc6293"
+  },
+  "light": {
+    "name": "Timeless Dream Light",
+    "primary": "#91cfe7",
+    "primaryText": "#101410",
+    "primaryContainer": "#afdbec",
+    "secondary": "#cd8baf",
+    "surface": "#d4edf4",
+    "surfaceText": "#355663",
+    "surfaceVariant": "#c6eaed",
+    "surfaceVariantText": "#4e6871",
+    "surfaceTint": "#91cfe7",
+    "background": "#d0e7f2",
+    "backgroundText": "#355663",
+    "outline": "#6d8a96",
+    "surfaceContainer": "#d3dde9",
+    "surfaceContainerHigh": "#c5e6f1",
+    "surfaceContainerHighest": "#bfe9ea",
+    "error": "#ba1a1a",
+    "warning": "#85ddcc",
+    "info": "#cd8baf"
+  },
+  "wallpapers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "path": "wallpapers/default.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "a",
+      "name": "A",
+      "path": "wallpapers/A.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "b",
+      "name": "B",
+      "path": "wallpapers/B.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "c",
+      "name": "C",
+      "path": "wallpapers/C.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "d",
+      "name": "D",
+      "path": "wallpapers/D.png",
+      "fillMode": "Fill"
+    }
+  ],
+  "window": {
+    "borderColor": "#9c7892",
+    "borderActiveColor": "#79c4e2",
+    "borderInactiveColor": "#3a5b61",
+    "borderSize": 2,
+    "gapsIn": 4,
+    "gapsOut": 8,
+    "rounding": 14
+  },
+  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/timeless-dream"
+}

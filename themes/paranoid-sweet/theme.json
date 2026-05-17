@@ -1,0 +1,181 @@
+{
+  "id": "paranoidSweet",
+  "name": "Paranoid Sweet",
+  "version": "0.1.2",
+  "author": "HyDE community, converted for HypeShell",
+  "description": "Dark purple based theme for HyDE",
+  "dark": {
+    "name": "Paranoid Sweet Dark",
+    "primary": "#00abca",
+    "primaryText": "#2c302c",
+    "primaryContainer": "#007387",
+    "secondary": "#d1274c",
+    "surface": "#133540",
+    "surfaceText": "#f36b87",
+    "surfaceVariant": "#374f44",
+    "surfaceVariantText": "#d092a0",
+    "surfaceTint": "#00abca",
+    "background": "#00363f",
+    "backgroundText": "#f36b87",
+    "outline": "#9c586d",
+    "surfaceContainer": "#313342",
+    "surfaceContainerHigh": "#0f4f5e",
+    "surfaceContainerHighest": "#475b46",
+    "error": "#ffb4ab",
+    "warning": "#dbc859",
+    "info": "#d1274c"
+  },
+  "light": {
+    "name": "Paranoid Sweet Light",
+    "primary": "#2ebad4",
+    "primaryText": "#101410",
+    "primaryContainer": "#69cade",
+    "secondary": "#dd5f7b",
+    "surface": "#b9e6ea",
+    "surfaceText": "#004b58",
+    "surfaceVariant": "#c1e3d8",
+    "surfaceVariantText": "#275f68",
+    "surfaceTint": "#2ebad4",
+    "background": "#a9dce8",
+    "backgroundText": "#004b58",
+    "outline": "#3d7f8c",
+    "surfaceContainer": "#bfd0d8",
+    "surfaceContainerHigh": "#9adce5",
+    "surfaceContainerHighest": "#c4e2d0",
+    "error": "#ba1a1a",
+    "warning": "#e5d787",
+    "info": "#dd5f7b"
+  },
+  "wallpapers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "path": "wallpapers/default.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "car",
+      "name": "Car",
+      "path": "wallpapers/car.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "cyanMagenta",
+      "name": "Cyan Magenta",
+      "path": "wallpapers/cyan_magenta.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "dsTanjiro",
+      "name": "Ds Tanjiro",
+      "path": "wallpapers/ds_tanjiro.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "eyes",
+      "name": "Eyes",
+      "path": "wallpapers/eyes.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "guts",
+      "name": "Guts",
+      "path": "wallpapers/guts.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "hoshinoAi",
+      "name": "Hoshino Ai",
+      "path": "wallpapers/hoshino_ai.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "neonCar",
+      "name": "Neon Car",
+      "path": "wallpapers/neon_car.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "paranoidAndroid",
+      "name": "Paranoid Android",
+      "path": "wallpapers/paranoid-android.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "paranoidMaterial",
+      "name": "Paranoid Material",
+      "path": "wallpapers/paranoid_material.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "path",
+      "name": "Path",
+      "path": "wallpapers/path.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "ps4",
+      "name": "Ps4",
+      "path": "wallpapers/ps4.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "raiden1",
+      "name": "Raiden 1",
+      "path": "wallpapers/raiden_1.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "raiden2",
+      "name": "Raiden 2",
+      "path": "wallpapers/raiden_2.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "raiden3",
+      "name": "Raiden 3",
+      "path": "wallpapers/raiden_3.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "raidenBaal",
+      "name": "Raiden Baal",
+      "path": "wallpapers/raiden_baal.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "raidenEi",
+      "name": "Raiden Ei",
+      "path": "wallpapers/raiden_ei.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "saturn",
+      "name": "Saturn",
+      "path": "wallpapers/saturn.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "skeleton",
+      "name": "Skeleton",
+      "path": "wallpapers/skeleton.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "soloMonarch",
+      "name": "Solo Monarch",
+      "path": "wallpapers/solo_monarch.jpg",
+      "fillMode": "Fill"
+    }
+  ],
+  "window": {
+    "borderColor": "#9c586d",
+    "borderActiveColor": "#00abca",
+    "borderInactiveColor": "#374f44",
+    "borderSize": 2,
+    "gapsIn": 4,
+    "gapsOut": 8,
+    "rounding": 8
+  },
+  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/paranoid-sweet"
+}

@@ -1,0 +1,97 @@
+{
+  "id": "edgeRunner",
+  "name": "Edge Runner",
+  "version": "0.1.2",
+  "author": "HyDE community, converted for HypeShell",
+  "description": "Official Theme",
+  "dark": {
+    "name": "Edge Runner Dark",
+    "primary": "#e293ac",
+    "primaryText": "#101410",
+    "primaryContainer": "#986373",
+    "secondary": "#e5c51a",
+    "surface": "#553c33",
+    "surfaceText": "#fce661",
+    "surfaceVariant": "#6c4d53",
+    "surfaceVariantText": "#d4bd56",
+    "surfaceTint": "#e293ac",
+    "background": "#472e36",
+    "backgroundText": "#fce661",
+    "outline": "#bba452",
+    "surfaceContainer": "#6c522f",
+    "surfaceContainerHigh": "#744f4e",
+    "surfaceContainerHighest": "#775462",
+    "error": "#ffb4ab",
+    "warning": "#d698e7",
+    "info": "#e5c51a"
+  },
+  "light": {
+    "name": "Edge Runner Light",
+    "primary": "#e7a6bb",
+    "primaryText": "#101410",
+    "primaryContainer": "#eebecb",
+    "secondary": "#ecd456",
+    "surface": "#f6dee8",
+    "surfaceText": "#63404b",
+    "surfaceVariant": "#f2d7e9",
+    "surfaceVariantText": "#715760",
+    "surfaceTint": "#e7a6bb",
+    "background": "#f5d9dd",
+    "backgroundText": "#63404b",
+    "outline": "#987780",
+    "surfaceContainer": "#f4dcd1",
+    "surfaceContainerHigh": "#f3d2de",
+    "surfaceContainerHighest": "#f1d3ea",
+    "error": "#ba1a1a",
+    "warning": "#e1b5ee",
+    "info": "#ecd456"
+  },
+  "wallpapers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "path": "wallpapers/default.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "cyberpunkDave",
+      "name": "Cyberpunk Dave",
+      "path": "wallpapers/cyberpunk_dave.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "david",
+      "name": "David",
+      "path": "wallpapers/david.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "lucy1",
+      "name": "Lucy 1",
+      "path": "wallpapers/lucy_1.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "lucy2",
+      "name": "Lucy 2",
+      "path": "wallpapers/lucy_2.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "lucyRebecca",
+      "name": "Lucy Rebecca",
+      "path": "wallpapers/lucy_rebecca.jpg",
+      "fillMode": "Fill"
+    }
+  ],
+  "window": {
+    "borderColor": "#bba452",
+    "borderActiveColor": "#e293ac",
+    "borderInactiveColor": "#6c4d53",
+    "borderSize": 2,
+    "gapsIn": 4,
+    "gapsOut": 8,
+    "rounding": 8
+  },
+  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/edge-runner"
+}

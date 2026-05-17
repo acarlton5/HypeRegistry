@@ -1,0 +1,97 @@
+{
+  "id": "windows11",
+  "name": "Windows 11",
+  "version": "0.1.2",
+  "author": "HyDE community, converted for HypeShell",
+  "description": "We love Windows! Wew",
+  "dark": {
+    "name": "Windows 11 Dark",
+    "primary": "#4f7de3",
+    "primaryText": "#f7fff8",
+    "primaryContainer": "#37569c",
+    "secondary": "#cb424c",
+    "surface": "#2c2e50",
+    "surfaceText": "#ec8185",
+    "surfaceVariant": "#334f66",
+    "surfaceVariantText": "#c8878f",
+    "surfaceTint": "#4f7de3",
+    "background": "#1c2c50",
+    "backgroundText": "#ec8185",
+    "outline": "#a16272",
+    "surfaceContainer": "#45314f",
+    "surfaceContainerHigh": "#343f70",
+    "surfaceContainerHighest": "#365e6f",
+    "error": "#ffb4ab",
+    "warning": "#52e6c9",
+    "info": "#cb424c"
+  },
+  "light": {
+    "name": "Windows 11 Light",
+    "primary": "#6f94e8",
+    "primaryText": "#f7fff8",
+    "primaryContainer": "#97b0ec",
+    "secondary": "#d9737b",
+    "surface": "#c9dbf5",
+    "surfaceText": "#253b6a",
+    "surfaceVariant": "#bcdef0",
+    "surfaceVariantText": "#415375",
+    "surfaceTint": "#6f94e8",
+    "background": "#c3cff0",
+    "backgroundText": "#253b6a",
+    "outline": "#5e709a",
+    "surfaceContainer": "#cccae1",
+    "surfaceContainerHigh": "#b5cbf2",
+    "surfaceContainerHighest": "#b7e0ed",
+    "error": "#ba1a1a",
+    "warning": "#82edd8",
+    "info": "#d9737b"
+  },
+  "wallpapers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "path": "wallpapers/default.jpeg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "windows1",
+      "name": "Windows 1",
+      "path": "wallpapers/windows-1.jpeg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "windows2",
+      "name": "Windows 2",
+      "path": "wallpapers/windows-2.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "windows3",
+      "name": "Windows 3",
+      "path": "wallpapers/windows-3.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "windows4",
+      "name": "Windows 4",
+      "path": "wallpapers/windows-4.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "windows5",
+      "name": "Windows 5",
+      "path": "wallpapers/windows-5.jpg",
+      "fillMode": "Fill"
+    }
+  ],
+  "window": {
+    "borderColor": "#a16272",
+    "borderActiveColor": "#4f7de3",
+    "borderInactiveColor": "#334f66",
+    "borderSize": 2,
+    "gapsIn": 4,
+    "gapsOut": 8,
+    "rounding": 20
+  },
+  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/windows-11"
+}

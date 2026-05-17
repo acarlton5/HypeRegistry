@@ -1,0 +1,22 @@
+{
+    "id":  "codexBar",
+    "name":  "CodexBar",
+    "capabilities":  [
+                         "dankbar-widget"
+                     ],
+    "category":  "monitoring",
+    "repo":  "https://github.com/acarlton5/HYPEPLUGIN-codexBar",
+    "author":  "zak",
+    "description":  "Monitor AI provider usage quotas",
+    "dependencies":  [
+
+                     ],
+    "compositors":  [
+                        "niri",
+                        "hyprland"
+                    ],
+    "distro":  [
+                   "any"
+               ],
+    "screenshot":  "https://raw.githubusercontent.com/zakstam/dms-codexbar/main/screenshot.png"
+}

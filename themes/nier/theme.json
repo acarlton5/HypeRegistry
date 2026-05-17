@@ -1,0 +1,229 @@
+{
+  "id": "nier",
+  "name": "Nier",
+  "version": "0.1.2",
+  "author": "HyDE community, converted for HypeShell",
+  "description": "Green dominant Nier Inspired Theme.",
+  "dark": {
+    "name": "Nier Dark",
+    "primary": "#49573e",
+    "primaryText": "#f7fff8",
+    "primaryContainer": "#313b2a",
+    "secondary": "#8c6252",
+    "surface": "#22221a",
+    "surfaceText": "#bc9a8f",
+    "surfaceVariant": "#24261e",
+    "surfaceVariantText": "#a8948b",
+    "surfaceTint": "#49573e",
+    "background": "#171c14",
+    "backgroundText": "#bc9a8f",
+    "outline": "#816d63",
+    "surfaceContainer": "#332c23",
+    "surfaceContainerHigh": "#2b2e22",
+    "surfaceContainerHighest": "#252720",
+    "error": "#ffb4ab",
+    "warning": "#2c3630",
+    "info": "#8c6252"
+  },
+  "light": {
+    "name": "Nier Light",
+    "primary": "#6a7561",
+    "primaryText": "#f7fff8",
+    "primaryContainer": "#939a8c",
+    "secondary": "#aa8b7f",
+    "surface": "#c6cac3",
+    "surfaceText": "#20271c",
+    "surfaceVariant": "#b5b9b3",
+    "surfaceVariantText": "#484e44",
+    "surfaceTint": "#6a7561",
+    "background": "#bfc3ba",
+    "backgroundText": "#20271c",
+    "outline": "#595f55",
+    "surfaceContainer": "#c2c0b8",
+    "surfaceContainerHigh": "#b2b7ad",
+    "surfaceContainerHighest": "#adb2ac",
+    "error": "#ba1a1a",
+    "warning": "#676e6a",
+    "info": "#aa8b7f"
+  },
+  "wallpapers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "path": "wallpapers/default.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme2b10",
+      "name": "2b 10",
+      "path": "wallpapers/2b-10.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme2b11",
+      "name": "2b 11",
+      "path": "wallpapers/2b-11.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme2b12",
+      "name": "2b 12",
+      "path": "wallpapers/2b-12.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme2b13",
+      "name": "2b 13",
+      "path": "wallpapers/2b-13.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme2b14",
+      "name": "2b 14",
+      "path": "wallpapers/2b-14.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme2b15",
+      "name": "2b 15",
+      "path": "wallpapers/2b-15.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme2b16",
+      "name": "2b 16",
+      "path": "wallpapers/2b-16.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme2b17",
+      "name": "2b 17",
+      "path": "wallpapers/2b-17.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme2b18",
+      "name": "2b 18",
+      "path": "wallpapers/2b-18.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme2b19",
+      "name": "2b 19",
+      "path": "wallpapers/2b-19.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme2b2",
+      "name": "2b 2",
+      "path": "wallpapers/2b-2.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme2b20",
+      "name": "2b 20",
+      "path": "wallpapers/2b-20.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme2b21",
+      "name": "2b 21",
+      "path": "wallpapers/2b-21.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme2b22",
+      "name": "2b 22",
+      "path": "wallpapers/2b-22.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme2b23",
+      "name": "2b 23",
+      "path": "wallpapers/2b-23.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme2b24",
+      "name": "2b 24",
+      "path": "wallpapers/2b-24.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme2b25",
+      "name": "2b 25",
+      "path": "wallpapers/2b-25.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme2b3",
+      "name": "2b 3",
+      "path": "wallpapers/2b-3.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme2b4",
+      "name": "2b 4",
+      "path": "wallpapers/2b-4.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme2b5",
+      "name": "2b 5",
+      "path": "wallpapers/2b-5.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme2b6",
+      "name": "2b 6",
+      "path": "wallpapers/2b-6.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme2b7",
+      "name": "2b 7",
+      "path": "wallpapers/2b-7.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme2b8",
+      "name": "2b 8",
+      "path": "wallpapers/2b-8.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme2b9",
+      "name": "2b 9",
+      "path": "wallpapers/2b-9.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme2b",
+      "name": "2b",
+      "path": "wallpapers/2b.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "nier1",
+      "name": "Nier 1",
+      "path": "wallpapers/nier-1.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "nier2",
+      "name": "Nier 2",
+      "path": "wallpapers/nier-2.jpg",
+      "fillMode": "Fill"
+    }
+  ],
+  "window": {
+    "borderColor": "#816d63",
+    "borderActiveColor": "#49573e",
+    "borderInactiveColor": "#24261e",
+    "borderSize": 2,
+    "gapsIn": 4,
+    "gapsOut": 8,
+    "rounding": 14
+  },
+  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/nier"
+}

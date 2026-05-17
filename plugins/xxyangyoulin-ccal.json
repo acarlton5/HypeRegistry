@@ -1,0 +1,24 @@
+{
+    "id":  "chineseCalendar",
+    "name":  "Chinese Calendar",
+    "capabilities":  [
+                         "calendar",
+                         "dankbar-widget"
+                     ],
+    "category":  "utilities",
+    "repo":  "https://github.com/acarlton5/HYPEPLUGIN-chineseCalendar",
+    "author":  "xxyangyoulin",
+    "description":  "Display Chinese lunar calendar with holiday information in the status bar",
+    "dependencies":  [
+                         "ccal",
+                         "curl"
+                     ],
+    "compositors":  [
+                        "any"
+                    ],
+    "distro":  [
+                   "any"
+               ],
+    "screenshot":  "https://raw.githubusercontent.com/xxyangyoulin/dms-plugin-ccal/master/assets/screenshot.png",
+    "requires_dms":  "\u003e=1.4.0"
+}

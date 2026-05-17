@@ -1,0 +1,121 @@
+{
+  "id": "amethystAura",
+  "name": "Amethyst-Aura",
+  "version": "0.1.2",
+  "author": "HyDE community, converted for HypeShell",
+  "description": "A vibrant purple-themed style with ethereal accents",
+  "dark": {
+    "name": "Amethyst-Aura Dark",
+    "primary": "#c696d3",
+    "primaryText": "#101410",
+    "primaryContainer": "#80648b",
+    "secondary": "#bac5e8",
+    "surface": "#403b4c",
+    "surfaceText": "#dce6ff",
+    "surfaceVariant": "#503f55",
+    "surfaceVariantText": "#b7bdd4",
+    "surfaceTint": "#c696d3",
+    "background": "#342d3c",
+    "backgroundText": "#dce6ff",
+    "outline": "#a0a3b9",
+    "surfaceContainer": "#545165",
+    "surfaceContainerHigh": "#5d4f6a",
+    "surfaceContainerHighest": "#574158",
+    "error": "#ffb4ab",
+    "warning": "#97527c",
+    "info": "#bac5e8"
+  },
+  "light": {
+    "name": "Amethyst-Aura Light",
+    "primary": "#d0a9db",
+    "primaryText": "#101410",
+    "primaryContainer": "#dcc1e5",
+    "secondary": "#ccd4ee",
+    "surface": "#ebdcee",
+    "surfaceText": "#4e4057",
+    "surfaceVariant": "#e1cce0",
+    "surfaceVariantText": "#625668",
+    "surfaceTint": "#d0a9db",
+    "background": "#eadaf0",
+    "backgroundText": "#4e4057",
+    "outline": "#86778e",
+    "surfaceContainer": "#e6dbee",
+    "surfaceContainerHigh": "#e5d1ea",
+    "surfaceContainerHighest": "#ddc5da",
+    "error": "#ba1a1a",
+    "warning": "#b482a1",
+    "info": "#ccd4ee"
+  },
+  "wallpapers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "path": "wallpapers/default.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "wallpaper1",
+      "name": "Wallpaper1",
+      "path": "wallpapers/Wallpaper1.gif",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "wallpaper2",
+      "name": "Wallpaper2",
+      "path": "wallpapers/Wallpaper2.gif",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "wallpaper3",
+      "name": "Wallpaper3",
+      "path": "wallpapers/Wallpaper3.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "wallpaper4",
+      "name": "Wallpaper4",
+      "path": "wallpapers/Wallpaper4.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "wallpaper5",
+      "name": "Wallpaper5",
+      "path": "wallpapers/Wallpaper5.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "wallpaper6",
+      "name": "Wallpaper6",
+      "path": "wallpapers/Wallpaper6.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "wallpaper7",
+      "name": "Wallpaper7",
+      "path": "wallpapers/Wallpaper7.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "wallpaper8",
+      "name": "Wallpaper8",
+      "path": "wallpapers/Wallpaper8.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "wallpaper9",
+      "name": "Wallpaper9",
+      "path": "wallpapers/Wallpaper9.png",
+      "fillMode": "Fill"
+    }
+  ],
+  "window": {
+    "borderColor": "#a0a3b9",
+    "borderActiveColor": "#c696d3",
+    "borderInactiveColor": "#503f55",
+    "borderSize": 2,
+    "gapsIn": 4,
+    "gapsOut": 8,
+    "rounding": 14
+  },
+  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/amethyst-aura"
+}

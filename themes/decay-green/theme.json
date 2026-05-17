@@ -1,0 +1,103 @@
+{
+  "id": "decayGreen",
+  "name": "Decay Green",
+  "version": "0.1.2",
+  "author": "HyDE community, converted for HypeShell",
+  "description": "Official Theme",
+  "dark": {
+    "name": "Decay Green Dark",
+    "primary": "#85b8d0",
+    "primaryText": "#101410",
+    "primaryContainer": "#557485",
+    "secondary": "#83ba9c",
+    "surface": "#29383d",
+    "surfaceText": "#b4dec5",
+    "surfaceVariant": "#3a5551",
+    "surfaceVariantText": "#93b6a4",
+    "surfaceTint": "#85b8d0",
+    "background": "#202b33",
+    "backgroundText": "#b4dec5",
+    "outline": "#7f9e90",
+    "surfaceContainer": "#374d4c",
+    "surfaceContainerHigh": "#3d545d",
+    "surfaceContainerHighest": "#426159",
+    "error": "#ffb4ab",
+    "warning": "#8ad7aa",
+    "info": "#83ba9c"
+  },
+  "light": {
+    "name": "Decay Green Light",
+    "primary": "#9bc5d8",
+    "primaryText": "#101410",
+    "primaryContainer": "#b6d5e2",
+    "secondary": "#a3ccb6",
+    "surface": "#daeaef",
+    "surfaceText": "#32444f",
+    "surfaceVariant": "#d2e9e7",
+    "surfaceVariantText": "#4d5c63",
+    "surfaceTint": "#9bc5d8",
+    "background": "#d4e6ed",
+    "backgroundText": "#32444f",
+    "outline": "#6c7e88",
+    "surfaceContainer": "#d1e5e6",
+    "surfaceContainerHigh": "#cce2ea",
+    "surfaceContainerHighest": "#cee8e3",
+    "error": "#ba1a1a",
+    "warning": "#abe2c2",
+    "info": "#a3ccb6"
+  },
+  "wallpapers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "path": "wallpapers/default.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "arcadeDecayRed",
+      "name": "Arcade Decay Red",
+      "path": "wallpapers/arcade_decay_red.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "auroraBorealis",
+      "name": "Aurora Borealis",
+      "path": "wallpapers/aurora_borealis.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "blueSwirl",
+      "name": "Blue Swirl",
+      "path": "wallpapers/blue_swirl.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "momentsBeforeDesk",
+      "name": "Moments Before Desk",
+      "path": "wallpapers/moments_before_desk.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "nightCity",
+      "name": "Night City",
+      "path": "wallpapers/night_city.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "relaxedMario",
+      "name": "Relaxed Mario",
+      "path": "wallpapers/relaxed_mario.png",
+      "fillMode": "Fill"
+    }
+  ],
+  "window": {
+    "borderColor": "#7f9e90",
+    "borderActiveColor": "#85b8d0",
+    "borderInactiveColor": "#3a5551",
+    "borderSize": 2,
+    "gapsIn": 4,
+    "gapsOut": 8,
+    "rounding": 20
+  },
+  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/decay-green"
+}

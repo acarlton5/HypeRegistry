@@ -1,0 +1,169 @@
+{
+  "id": "greenLush",
+  "name": "Green Lush",
+  "version": "0.1.2",
+  "author": "HyDE community, converted for HypeShell",
+  "description": "A ghibli based theme for Hyde",
+  "dark": {
+    "name": "Green Lush Dark",
+    "primary": "#10a29c",
+    "primaryText": "#f7fff8",
+    "primaryContainer": "#0e7460",
+    "secondary": "#93b051",
+    "surface": "#174c23",
+    "surfaceText": "#c2d38d",
+    "surfaceVariant": "#2c5c3e",
+    "surfaceVariantText": "#aac18c",
+    "surfaceTint": "#10a29c",
+    "background": "#0b421e",
+    "backgroundText": "#c2d38d",
+    "outline": "#809f65",
+    "surfaceContainer": "#2b5c2a",
+    "surfaceContainerHigh": "#155f3e",
+    "surfaceContainerHighest": "#36634b",
+    "error": "#ffb4ab",
+    "warning": "#8ea5bb",
+    "info": "#93b051"
+  },
+  "light": {
+    "name": "Green Lush Light",
+    "primary": "#3bb3ae",
+    "primaryText": "#101410",
+    "primaryContainer": "#72c8c3",
+    "secondary": "#afc57e",
+    "surface": "#bae2e1",
+    "surfaceText": "#0c5335",
+    "surfaceVariant": "#b8dcde",
+    "surfaceVariantText": "#2f6450",
+    "surfaceTint": "#3bb3ae",
+    "background": "#added9",
+    "backgroundText": "#0c5335",
+    "outline": "#468570",
+    "surfaceContainer": "#b8ddd1",
+    "surfaceContainerHigh": "#9ed8d6",
+    "surfaceContainerHighest": "#b7d9dc",
+    "error": "#ba1a1a",
+    "warning": "#aebece",
+    "info": "#afc57e"
+  },
+  "wallpapers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "path": "wallpapers/default.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "hypeTheme",
+      "name": "Hype Theme",
+      "path": "wallpapers/\u4e91\u548c\u5c71\u98ce\u666f.PNG",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "hypeTheme2",
+      "name": "Hype Theme",
+      "path": "wallpapers/\u591c\u8272\u5f52\u9014.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "hypeTheme3",
+      "name": "Hype Theme",
+      "path": "wallpapers/\u5c71\u96e8\u5982\u6666.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "hypeTheme4",
+      "name": "Hype Theme",
+      "path": "wallpapers/\u5e7d\u8c37\u79d8\u5883.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "hypeTheme5",
+      "name": "Hype Theme",
+      "path": "wallpapers/\u60c5\u8272\u6d77\u6e7e.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "hypeTheme6",
+      "name": "Hype Theme",
+      "path": "wallpapers/\u65e5\u51fa.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "hypeTheme7",
+      "name": "Hype Theme",
+      "path": "wallpapers/\u68ee\u6797\u4e2d\u7684\u4e66\u5e97.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "hypeTheme8",
+      "name": "Hype Theme",
+      "path": "wallpapers/\u706f\u706b\u9611\u73ca.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "hypeTheme9",
+      "name": "Hype Theme",
+      "path": "wallpapers/\u7eff\u8272\u623f\u5b50.PNG",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "hypeTheme10",
+      "name": "Hype Theme",
+      "path": "wallpapers/\u7eff\u8272\u9053\u8def.PNG",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "hypeTheme11",
+      "name": "Hype Theme",
+      "path": "wallpapers/\u81ea\u7531\u9636\u68af.JPG",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "hypeTheme12",
+      "name": "Hype Theme",
+      "path": "wallpapers/\u8273\u9633\u5929.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "hypeTheme13",
+      "name": "Hype Theme",
+      "path": "wallpapers/\u8f69\u69ad\u6668\u5149.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "hypeTheme14",
+      "name": "Hype Theme",
+      "path": "wallpapers/\u8fd9\u662f\u4ec0\u4e48.PNG",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "hypeTheme15",
+      "name": "Hype Theme",
+      "path": "wallpapers/\u94c1\u9053\u5929\u6865.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "hypeTheme16",
+      "name": "Hype Theme",
+      "path": "wallpapers/\u9759\u591c\u5e7d.PNG",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "hypeTheme17",
+      "name": "Hype Theme",
+      "path": "wallpapers/\u9759\u591c\u5e7d\u5c45.png",
+      "fillMode": "Fill"
+    }
+  ],
+  "window": {
+    "borderColor": "#809f65",
+    "borderActiveColor": "#10a29c",
+    "borderInactiveColor": "#2c5c3e",
+    "borderSize": 2,
+    "gapsIn": 4,
+    "gapsOut": 8,
+    "rounding": 20
+  },
+  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/green-lush"
+}

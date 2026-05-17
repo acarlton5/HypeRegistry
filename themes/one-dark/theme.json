@@ -1,0 +1,157 @@
+{
+  "id": "oneDark",
+  "name": "One Dark",
+  "version": "0.1.2",
+  "author": "HyDE community, converted for HypeShell",
+  "description": "One Dark based theme",
+  "dark": {
+    "name": "One Dark Dark",
+    "primary": "#dc6f65",
+    "primaryText": "#f7fff8",
+    "primaryContainer": "#944b44",
+    "secondary": "#58626c",
+    "surface": "#472927",
+    "surfaceText": "#8f9aa2",
+    "surfaceVariant": "#4e483e",
+    "surfaceVariantText": "#a5a8a9",
+    "surfaceTint": "#dc6f65",
+    "background": "#452320",
+    "backgroundText": "#8f9aa2",
+    "outline": "#746f73",
+    "surfaceContainer": "#4a3232",
+    "surfaceContainerHigh": "#683835",
+    "surfaceContainerHighest": "#515648",
+    "error": "#ffb4ab",
+    "warning": "#6dd8a6",
+    "info": "#58626c"
+  },
+  "light": {
+    "name": "One Dark Light",
+    "primary": "#e28981",
+    "primaryText": "#101410",
+    "primaryContainer": "#e8a9a3",
+    "secondary": "#838b92",
+    "surface": "#f0d7d2",
+    "surfaceText": "#60312c",
+    "surfaceVariant": "#e0d9cf",
+    "surfaceVariantText": "#6e4d48",
+    "surfaceTint": "#e28981",
+    "background": "#eecbc8",
+    "backgroundText": "#60312c",
+    "outline": "#936864",
+    "surfaceContainer": "#dfcbc8",
+    "surfaceContainerHigh": "#edc6c0",
+    "surfaceContainerHighest": "#d9dacd",
+    "error": "#ba1a1a",
+    "warning": "#96e3bf",
+    "info": "#838b92"
+  },
+  "wallpapers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "path": "wallpapers/default.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "autumn",
+      "name": "Autumn",
+      "path": "wallpapers/autumn.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "balloons",
+      "name": "Balloons",
+      "path": "wallpapers/balloons.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "berlinetta",
+      "name": "Berlinetta",
+      "path": "wallpapers/berlinetta.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "brain",
+      "name": "Brain",
+      "path": "wallpapers/brain.jpeg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "chained",
+      "name": "Chained",
+      "path": "wallpapers/chained.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "guardian",
+      "name": "Guardian",
+      "path": "wallpapers/guardian.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "leaf",
+      "name": "Leaf",
+      "path": "wallpapers/leaf.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "revan",
+      "name": "Revan",
+      "path": "wallpapers/revan.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "road",
+      "name": "Road",
+      "path": "wallpapers/road.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "shards",
+      "name": "Shards",
+      "path": "wallpapers/shards.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "space",
+      "name": "Space",
+      "path": "wallpapers/space.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "tokyo",
+      "name": "Tokyo",
+      "path": "wallpapers/tokyo.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "trail",
+      "name": "Trail",
+      "path": "wallpapers/trail.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "vaporwave",
+      "name": "Vaporwave",
+      "path": "wallpapers/vaporwave.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "waves",
+      "name": "Waves",
+      "path": "wallpapers/waves.jpg",
+      "fillMode": "Fill"
+    }
+  ],
+  "window": {
+    "borderColor": "#746f73",
+    "borderActiveColor": "#dc6f65",
+    "borderInactiveColor": "#4e483e",
+    "borderSize": 2,
+    "gapsIn": 4,
+    "gapsOut": 8,
+    "rounding": 8
+  },
+  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/one-dark"
+}

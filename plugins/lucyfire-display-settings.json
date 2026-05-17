@@ -1,0 +1,22 @@
+{
+    "id":  "displaySettings",
+    "name":  "Display Settings",
+    "capabilities":  [
+                         "manage-displays"
+                     ],
+    "category":  "utilities",
+    "repo":  "https://github.com/acarlton5/HYPEPLUGIN-displaySettings",
+    "author":  "lucyfire",
+    "description":  "Turn on/off displays for Hyprland",
+    "dependencies":  [
+
+                     ],
+    "compositors":  [
+                        "hyprland"
+                    ],
+    "distro":  [
+                   "any"
+               ],
+    "screenshot":  "https://github.com/Lucyfire/dms-plugins/blob/master/displaySettings/screenshot.png?raw=true",
+    "requires_dms":  "\u003e=0.6.2"
+}

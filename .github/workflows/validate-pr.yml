@@ -1,0 +1,81 @@
+name: Validate Pull Request
+
+on:
+  pull_request:
+    branches:
+      - master
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Install dependencies
+        run: pip install jinja2 requests
+
+      - name: Validate plugins and themes
+        run: python3 .github/generate.py --validate
+
+      - name: Validate theme colors
+        run: python3 .github/validate_themes.py
+
+      - name: Generate theme previews
+        run: python3 .github/generate_theme_previews.py
+
+      - name: Test README generation
+        run: python3 .github/generate.py
+
+      - name: Check if README was generated successfully
+        run: |
+          if [ ! -f README.md ]; then
+            echo "Error: README.md was not generated"
+            exit 1
+          fi
+          echo "README.md generated successfully"
+
+      - name: Get changed plugin files
+        id: changed
+        run: |
+          ALL_CHANGED=$(gh pr diff ${{ github.event.pull_request.number }} --name-only)
+          CI_CHANGED=$(echo "$ALL_CHANGED" | grep '^\.github/' || true)
+          if [ -n "$CI_CHANGED" ]; then
+            echo "CI scripts changed, validating all plugins"
+            echo "files=" >> "$GITHUB_OUTPUT"
+          else
+            CHANGED=$(echo "$ALL_CHANGED" | grep '^plugins/' || true)
+            echo "files<<EOF" >> "$GITHUB_OUTPUT"
+            echo "$CHANGED" >> "$GITHUB_OUTPUT"
+            echo "EOF" >> "$GITHUB_OUTPUT"
+          fi
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Validate plugin links and paths
+        id: validate-links
+        run: |
+          python3 .github/validate_links.py 2>&1 | tee /tmp/validate-links-output.txt
+          exit ${PIPESTATUS[0]}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          CHANGED_PLUGINS: ${{ steps.changed.outputs.files }}
+
+      - name: Save PR number
+        if: failure() && steps.validate-links.outcome == 'failure'
+        run: echo "${{ github.event.pull_request.number }}" > /tmp/pr-number.txt
+
+      - name: Upload validation output
+        if: failure() && steps.validate-links.outcome == 'failure'
+        uses: actions/upload-artifact@v7
+        with:
+          name: validation-result
+          path: |
+            /tmp/validate-links-output.txt
+            /tmp/pr-number.txt

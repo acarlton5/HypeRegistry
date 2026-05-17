@@ -1,0 +1,109 @@
+{
+  "id": "greenify",
+  "name": "Greenify",
+  "version": "0.1.2",
+  "author": "HyDE community, converted for HypeShell",
+  "description": "Dark Green based theme for Hyde",
+  "dark": {
+    "name": "Greenify Dark",
+    "primary": "#96d4a6",
+    "primaryText": "#101410",
+    "primaryContainer": "#658e6f",
+    "secondary": "#203834",
+    "surface": "#2f4234",
+    "surfaceText": "#a9b6b1",
+    "surfaceVariant": "#4a5e47",
+    "surfaceVariantText": "#9faca5",
+    "surfaceTint": "#96d4a6",
+    "background": "#304334",
+    "backgroundText": "#a9b6b1",
+    "outline": "#7d8d84",
+    "surfaceContainer": "#2d4034",
+    "surfaceContainerHigh": "#46624d",
+    "surfaceContainerHighest": "#566a4f",
+    "error": "#ffb4ab",
+    "warning": "#c4db9c",
+    "info": "#203834"
+  },
+  "light": {
+    "name": "Greenify Light",
+    "primary": "#a9dcb6",
+    "primaryText": "#101410",
+    "primaryContainer": "#bee3c8",
+    "secondary": "#5a6c69",
+    "surface": "#e1f2e3",
+    "surfaceText": "#425d49",
+    "surfaceVariant": "#dff0db",
+    "surfaceVariantText": "#586d5d",
+    "surfaceTint": "#a9dcb6",
+    "background": "#d5eadc",
+    "backgroundText": "#425d49",
+    "outline": "#77907e",
+    "surfaceContainer": "#cbddcf",
+    "surfaceContainerHigh": "#d5edd9",
+    "surfaceContainerHighest": "#deefd8",
+    "error": "#ba1a1a",
+    "warning": "#d5e5b8",
+    "info": "#5a6c69"
+  },
+  "wallpapers": [
+    {
+      "id": "default",
+      "name": "Default",
+      "path": "wallpapers/default.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme1",
+      "name": "1",
+      "path": "wallpapers/1.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme3",
+      "name": "3",
+      "path": "wallpapers/3.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme4",
+      "name": "4",
+      "path": "wallpapers/4.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme5",
+      "name": "5",
+      "path": "wallpapers/5.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "wallpaperflareComWallpaper2",
+      "name": "Wallpaperflare Com Wallpaper 2",
+      "path": "wallpapers/wallpaperflare.com_wallpaper (2).jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "wallpaperflareComWallpaper4",
+      "name": "Wallpaperflare Com Wallpaper 4",
+      "path": "wallpapers/wallpaperflare.com_wallpaper (4).jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "hypeTheme",
+      "name": "Hype Theme",
+      "path": "wallpapers/\u5c71\u96e8\u5982\u6666.png",
+      "fillMode": "Fill"
+    }
+  ],
+  "window": {
+    "borderColor": "#7d8d84",
+    "borderActiveColor": "#96d4a6",
+    "borderInactiveColor": "#4a5e47",
+    "borderSize": 2,
+    "gapsIn": 4,
+    "gapsOut": 8,
+    "rounding": 20
+  },
+  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/greenify"
+}
