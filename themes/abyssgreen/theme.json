@@ -1,7 +1,7 @@
 {
   "id": "abyssgreen",
   "name": "AbyssGreen",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "author": "HyDE community, converted for HypeShell",
   "description": "AbyssGreen is a theme based on the Everforst color scheme",
   "dark": {
@@ -9,28 +9,28 @@
     "primary": "#76a081",
     "primaryText": "#101410",
     "primaryContainer": "#546f5f",
-    "secondary": "#573e4c",
+    "secondary": "#8ca889",
     "surface": "#333a3c",
-    "surfaceText": "#b1a6ab",
+    "surfaceText": "#c7d7c5",
     "surfaceVariant": "#343b3f",
-    "surfaceVariantText": "#a5a1a3",
+    "surfaceVariantText": "#b5c7b8",
     "surfaceTint": "#76a081",
     "background": "#2f3a3a",
-    "backgroundText": "#b1a6ab",
-    "outline": "#827f82",
+    "backgroundText": "#c7d7c5",
+    "outline": "#8ca889",
     "surfaceContainer": "#393b3f",
     "surfaceContainerHigh": "#42504b",
     "surfaceContainerHighest": "#353c41",
     "error": "#ffb4ab",
-    "warning": "#3a414f",
-    "info": "#573e4c"
+    "warning": "#d8a657",
+    "info": "#89b482"
   },
   "light": {
     "name": "AbyssGreen Light",
     "primary": "#8fb198",
     "primaryText": "#101410",
     "primaryContainer": "#acc5b3",
-    "secondary": "#83707b",
+    "secondary": "#6f8f78",
     "surface": "#d3ddd6",
     "surfaceText": "#3c4c47",
     "surfaceVariant": "#c1cac7",
@@ -43,8 +43,8 @@
     "surfaceContainerHigh": "#c4d3c8",
     "surfaceContainerHighest": "#bac2c0",
     "error": "#ba1a1a",
-    "warning": "#717680",
-    "info": "#83707b"
+    "warning": "#b57914",
+    "info": "#6f8f78"
   },
   "wallpapers": [
     {
@@ -79,7 +79,7 @@
     }
   ],
   "window": {
-    "borderColor": "#827f82",
+    "borderColor": "#8ca889",
     "borderActiveColor": "#76a081",
     "borderInactiveColor": "#343b3f",
     "borderSize": 2,
