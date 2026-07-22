@@ -1,0 +1,26 @@
+{
+    "id": "hypeVoiceInput",
+    "name": "Voice Input",
+    "capabilities": [
+        "hypebar-widget"
+    ],
+    "category": "utilities",
+    "repo": "https://github.com/acarlton5/Hype-Plugin-Voice2Text",
+    "author": "acarlton5",
+    "firstParty": false,
+    "description": "Private on-device speech-to-text with a floating listening and processing orb that inserts transcription into the focused field.",
+    "dependencies": [
+        "pipewire",
+        "whisper.cpp",
+        "wtype",
+        "wl-clipboard"
+    ],
+    "compositors": [
+        "hyprland"
+    ],
+    "distro": [
+        "any"
+    ],
+    "featured": true,
+    "requires_hype": ">=1.5"
+}

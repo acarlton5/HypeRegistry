@@ -276,10 +276,8 @@ def validate_plugin(plugin_file: Path) -> list[str]:
         elif not is_camel_case(plugin_id):
             errors.append(f"ID '{plugin_id}' is not in camelCase format (must start with lowercase letter and contain only letters/digits)")
 
-    # Validate screenshot
-    if "screenshot" not in plugin:
-        errors.append("Missing required 'screenshot' property")
-    else:
+    # Screenshots are optional, but validate the URL when one is provided.
+    if "screenshot" in plugin:
         screenshot_url = plugin["screenshot"]
         if not screenshot_url:
             errors.append("Screenshot URL is empty")
