@@ -15,6 +15,7 @@
         "wtype",
         "wl-clipboard"
     ],
+    "setup_script": "scripts/install-dependencies",
     "compositors": [
         "hyprland"
     ],
