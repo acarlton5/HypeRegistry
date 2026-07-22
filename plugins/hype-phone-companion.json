@@ -10,8 +10,10 @@
     "firstParty": false,
     "description": "Control connected devices through KDE Connect or Valent: view battery status, send files, find a phone, share clipboard content, and send SMS messages.",
     "dependencies": [
-        "kdeconnect"
+        "KDE Connect or Valent",
+        "sshfs or GVfs"
     ],
+    "setup_script": "scripts/install-dependencies",
     "compositors": [
         "hyprland"
     ],
