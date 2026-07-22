@@ -1,0 +1,24 @@
+{
+    "id": "hypeKDEConnect",
+    "name": "Phone Companion",
+    "capabilities": [
+        "hypebar-widget"
+    ],
+    "category": "utilities",
+    "repo": "https://github.com/acarlton5/Hype-Plugin-PhoneCompanion",
+    "author": "Avenge Media",
+    "firstParty": false,
+    "description": "Control connected devices through KDE Connect or Valent: view battery status, send files, find a phone, share clipboard content, and send SMS messages.",
+    "dependencies": [
+        "kdeconnect"
+    ],
+    "compositors": [
+        "hyprland"
+    ],
+    "distro": [
+        "any"
+    ],
+    "featured": true,
+    "screenshot": "https://raw.githubusercontent.com/acarlton5/Hype-Plugin-PhoneCompanion/main/screenshot.png",
+    "requires_hype": ">=1.5"
+}
