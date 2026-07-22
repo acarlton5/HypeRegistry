@@ -9,11 +9,20 @@
 
 # Contributing a Plugin
 
-Thank you for contributing to the Dank Material Shell Plugins registry!
+Thank you for contributing to the HypeShell plugin registry!
 
 ## How to Add Your Plugin
 
 1. **Fork this repository**
+
+   Standalone repositories maintained for HypeShell use this canonical name:
+
+   ```text
+   Hype-Plugin-{Name}
+   ```
+
+   Example: `Hype-Plugin-PhoneCompanion`. Legacy repository names remain
+   installable while existing plugins are reviewed and migrated.
 
 2. **Create a new JSON file** in the `plugins/` directory following this naming convention:
    ```
@@ -29,7 +38,7 @@ Thank you for contributing to the Dank Material Shell Plugins registry!
 {
     "id": "pluginId",
     "name": "PluginName",
-    "capabilities": ["dankbar-widget"],
+    "capabilities": ["hypebar-widget"],
     "category": "monitoring",
     "repo": "https://github.com/yourusername/your-plugin-repo",
     "path": "optional/path/in/monorepo",
@@ -50,14 +59,14 @@ Thank you for contributing to the Dank Material Shell Plugins registry!
   - **Must exactly match the `id` field in your repository's `plugin.json` file**
 - **name** (required): Display name of your plugin (e.g., `World Clock`, `Power Usage Monitor`)
   - **Must exactly match the `name` field in your repository's `plugin.json` file**
-- **capabilities** (required): Array of capabilities, e.g., `["dankbar-widget"]`
+- **capabilities** (required): Array of capabilities, e.g., `["hypebar-widget"]`
 - **category** (required): One of: `monitoring`, `utilities`, `appearance`, `system`, etc.
 - **repo** (required): Full GitHub URL to your plugin repository
 - **path** (optional): If your plugin is in a monorepo, specify the subdirectory path
 - **author** (required): Your name or GitHub username
 - **description** (required): Clear, concise description of the plugin's purpose
 - **dependencies** (required): Array of dependencies, use `[]` if none
-- **compositors** (required): Supported Wayland compositors: `["niri", "hyprland"]`, etc.
+- **compositors** (required): HypeShell targets Hyprland; use `["hyprland"]`.
 - **distro** (required): Supported distributions: `["any"]`, `["fedora"]`, `["arch"]`, etc.
 - **screenshot** (optional): Direct URL to a screenshot image
 
@@ -112,7 +121,11 @@ If you have questions about the contribution process, please open an issue in th
 
 # Contributing a Theme
 
-Thank you for contributing a theme to the Dank Material Shell registry!
+Thank you for contributing a theme to the HypeShell registry!
+
+Standalone theme repositories maintained for HypeShell use the canonical name
+`Hype-Theme-{Name}`. Legacy in-registry themes remain available while they are
+reviewed and migrated.
 
 ## How to Add Your Theme
 
