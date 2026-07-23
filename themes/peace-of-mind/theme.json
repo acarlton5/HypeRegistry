@@ -1,7 +1,7 @@
 {
   "id": "peaceOfMind",
   "name": "Peace Of Mind",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "author": "HyDE community, converted for HypeShell",
   "description": "Finally, some peace of mind...",
   "dark": {
@@ -48,12 +48,6 @@
   },
   "wallpapers": [
     {
-      "id": "default",
-      "name": "Default",
-      "path": "wallpapers/default.png",
-      "fillMode": "Fill"
-    },
-    {
       "id": "a",
       "name": "A",
       "path": "wallpapers/A.png",
@@ -75,5 +69,17 @@
     "gapsOut": 8,
     "rounding": 22
   },
-  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/peace-of-mind"
+  "desktop": {
+    "icons": {
+      "name": "Kanagawa",
+      "archive": "desktop/archives/icons.tar.gz",
+      "root": "Kanagawa"
+    },
+    "gtk": {
+      "name": "Kanagawa",
+      "archive": "desktop/archives/gtk.tar.gz",
+      "root": "Kanagawa"
+    }
+  },
+  "repository": "https://github.com/acarlton5/Hype-Theme-Peace-Of-Mind.git"
 }

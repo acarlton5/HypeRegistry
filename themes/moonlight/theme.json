@@ -1,7 +1,7 @@
 {
   "id": "moonlight",
   "name": "Moonlight",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "author": "HyDE community, converted for HypeShell",
   "description": "Gentle, soft moonlight lingers on my face...",
   "dark": {
@@ -48,12 +48,6 @@
   },
   "wallpapers": [
     {
-      "id": "default",
-      "name": "Default",
-      "path": "wallpapers/default.png",
-      "fillMode": "Fill"
-    },
-    {
       "id": "a",
       "name": "A",
       "path": "wallpapers/A.png",
@@ -81,5 +75,17 @@
     "gapsOut": 8,
     "rounding": 14
   },
-  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/moonlight"
+  "desktop": {
+    "icons": {
+      "name": "Colorful-Icons",
+      "archive": "desktop/archives/icons.tar.gz",
+      "root": "Colorful-Icons"
+    },
+    "gtk": {
+      "name": "Tokyo-Night",
+      "archive": "desktop/archives/gtk.tar.gz",
+      "root": "Tokyo-Night"
+    }
+  },
+  "repository": "https://github.com/acarlton5/Hype-Theme-Moonlight.git"
 }

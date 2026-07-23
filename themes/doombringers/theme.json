@@ -1,7 +1,7 @@
 {
   "id": "doombringers",
   "name": "DoomBringers",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "author": "HyDE community, converted for HypeShell",
   "description": "When shadows catch fire, sharp edges leave their mark.",
   "dark": {
@@ -47,12 +47,6 @@
     "info": "#b0ea62"
   },
   "wallpapers": [
-    {
-      "id": "default",
-      "name": "Default",
-      "path": "wallpapers/default.jpg",
-      "fillMode": "Fill"
-    },
     {
       "id": "theme1AbandonedBattlefield",
       "name": "1 Abandoned Battlefield",
@@ -117,5 +111,22 @@
     "gapsOut": 8,
     "rounding": 8
   },
-  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/doombringers"
+  "desktop": {
+    "cursor": {
+      "name": "BattleCursor",
+      "archive": "desktop/archives/cursor.tar.gz",
+      "root": "BattleCursor"
+    },
+    "icons": {
+      "name": "Tela-circle-yellow",
+      "archive": "desktop/archives/icons.tar.gz",
+      "root": "Tela-circle-yellow"
+    },
+    "gtk": {
+      "name": "BattleGTK",
+      "archive": "desktop/archives/gtk.tar.gz",
+      "root": "BattleGTK"
+    }
+  },
+  "repository": "https://github.com/acarlton5/Hype-Theme-DoomBringers.git"
 }

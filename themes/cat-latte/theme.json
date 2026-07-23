@@ -1,7 +1,7 @@
 {
   "id": "catLatte",
   "name": "Cat Latte",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "author": "HyDE community, converted for HypeShell",
   "description": "Better Catppuccin-Latte that fixes the inconsistencies of the official theme",
   "dark": {
@@ -47,12 +47,6 @@
     "info": "#d7d7dc"
   },
   "wallpapers": [
-    {
-      "id": "default",
-      "name": "Default",
-      "path": "wallpapers/default.png",
-      "fillMode": "Fill"
-    },
     {
       "id": "akira",
       "name": "Akira",
@@ -156,27 +150,27 @@
       "fillMode": "Fill"
     },
     {
-      "id": "samuraiBebop",
-      "name": "Samurai Bebop",
-      "path": "wallpapers/samurai_bebop.jpg",
-      "fillMode": "Fill"
-    },
-    {
       "id": "samuraiBebopAlone",
       "name": "Samurai Bebop Alone",
       "path": "wallpapers/samurai_bebop_alone.jpg",
       "fillMode": "Fill"
     },
     {
-      "id": "samuraiGirl",
-      "name": "Samurai Girl",
-      "path": "wallpapers/samurai_girl.png",
+      "id": "samuraiBebop",
+      "name": "Samurai Bebop",
+      "path": "wallpapers/samurai_bebop.jpg",
       "fillMode": "Fill"
     },
     {
       "id": "samuraiGirlChill",
       "name": "Samurai Girl Chill",
       "path": "wallpapers/samurai_girl_chill.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "samuraiGirl",
+      "name": "Samurai Girl",
+      "path": "wallpapers/samurai_girl.png",
       "fillMode": "Fill"
     },
     {
@@ -225,5 +219,22 @@
     "gapsOut": 8,
     "rounding": 22
   },
-  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/cat-latte"
+  "desktop": {
+    "cursor": {
+      "name": "Bibata-Modern-Classic",
+      "archive": "desktop/archives/cursor.tar.xz",
+      "root": "Bibata-Modern-Classic"
+    },
+    "icons": {
+      "name": "Papirus-Latte",
+      "archive": "desktop/archives/icons.tar.xz",
+      "root": "Papirus-Latte"
+    },
+    "gtk": {
+      "name": "Catppuccin-Latte",
+      "archive": "desktop/archives/gtk.tar.xz",
+      "root": "Catppuccin-Latte"
+    }
+  },
+  "repository": "https://github.com/acarlton5/Hype-Theme-Cat-Latte.git"
 }

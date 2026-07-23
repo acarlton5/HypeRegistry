@@ -1,7 +1,7 @@
 {
   "id": "soulsborne",
   "name": "Soulsborne",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "author": "HyDE community, converted for HypeShell",
   "description": "HyDE theme inspired by the Soulsborne series.",
   "dark": {
@@ -47,12 +47,6 @@
     "info": "#bec4ca"
   },
   "wallpapers": [
-    {
-      "id": "default",
-      "name": "Default",
-      "path": "wallpapers/default.jpg",
-      "fillMode": "Fill"
-    },
     {
       "id": "darkSoulsDarkSoulsIiiCityMoonNight4kHdGames",
       "name": "Dark Souls Dark Souls Iii City Moon Night 4k Hd Games",
@@ -189,5 +183,22 @@
     "gapsOut": 8,
     "rounding": 8
   },
-  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/soulsborne"
+  "desktop": {
+    "cursor": {
+      "name": "Sweet-cursors",
+      "archive": "desktop/archives/cursor.tar.xz",
+      "root": "Sweet-cursors"
+    },
+    "icons": {
+      "name": "Tela-circle-black",
+      "archive": "desktop/archives/icons.tar.gz",
+      "root": "Tela-circle-black"
+    },
+    "gtk": {
+      "name": "Kripton",
+      "archive": "desktop/archives/gtk.tar.gz",
+      "root": "Kripton"
+    }
+  },
+  "repository": "https://github.com/acarlton5/Hype-Theme-Soulsborne.git"
 }

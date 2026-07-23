@@ -1,7 +1,7 @@
 {
   "id": "nightbrew",
   "name": "Nightbrew",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "author": "HyDE community, converted for HypeShell",
   "description": "A rich, dark theme crafted for late-night productivity and sleek aesthetics.",
   "dark": {
@@ -47,12 +47,6 @@
     "info": "#a8bfcf"
   },
   "wallpapers": [
-    {
-      "id": "default",
-      "name": "Default",
-      "path": "wallpapers/default.png",
-      "fillMode": "Fill"
-    },
     {
       "id": "theme2iLFbH6",
       "name": "2iLFbH6",
@@ -129,5 +123,17 @@
     "gapsOut": 8,
     "rounding": 20
   },
-  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/nightbrew"
+  "desktop": {
+    "icons": {
+      "name": "Aretha-Dark-Icons",
+      "archive": "desktop/archives/icons.tar.gz",
+      "root": "Aretha-Dark-Icons"
+    },
+    "gtk": {
+      "name": "Sweet-Dark-v40",
+      "archive": "desktop/archives/gtk.tar.xz",
+      "root": "Sweet-Dark-v40"
+    }
+  },
+  "repository": "https://github.com/acarlton5/Hype-Theme-Nightbrew.git"
 }

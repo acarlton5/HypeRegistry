@@ -1,7 +1,7 @@
 {
   "id": "joker",
   "name": "Joker",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "author": "HyDE community, converted for HypeShell",
   "description": "Its for you Izumi.",
   "dark": {
@@ -47,12 +47,6 @@
     "info": "#d97a6c"
   },
   "wallpapers": [
-    {
-      "id": "default",
-      "name": "Default",
-      "path": "wallpapers/default.jpg",
-      "fillMode": "Fill"
-    },
     {
       "id": "theme1",
       "name": "1",
@@ -219,5 +213,22 @@
     "gapsOut": 8,
     "rounding": 8
   },
-  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/joker"
+  "desktop": {
+    "cursor": {
+      "name": "Bibata-Modern-Classic",
+      "archive": "desktop/archives/cursor.tar.gz",
+      "root": "Bibata-Modern-Classic"
+    },
+    "icons": {
+      "name": "Tela-circle-dracula",
+      "archive": "desktop/archives/icons.tar.gz",
+      "root": "Tela-circle-dracula"
+    },
+    "gtk": {
+      "name": "Joker",
+      "archive": "desktop/archives/gtk.tar.gz",
+      "root": "Joker"
+    }
+  },
+  "repository": "https://github.com/acarlton5/Hype-Theme-Joker.git"
 }

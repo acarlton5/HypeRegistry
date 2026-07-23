@@ -1,7 +1,7 @@
 {
   "id": "rainDark",
   "name": "Rain Dark",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "author": "HyDE community, converted for HypeShell",
   "description": "Cozy new Rain based theme for HyDE",
   "dark": {
@@ -47,12 +47,6 @@
     "info": "#9a5ba9"
   },
   "wallpapers": [
-    {
-      "id": "default",
-      "name": "Default",
-      "path": "wallpapers/default.png",
-      "fillMode": "Fill"
-    },
     {
       "id": "rainDark1",
       "name": "Rain Dark 1",
@@ -123,5 +117,22 @@
     "gapsOut": 8,
     "rounding": 8
   },
-  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/rain-dark"
+  "desktop": {
+    "cursor": {
+      "name": "Capitaine-Cursors-Tokyonight",
+      "archive": "desktop/archives/cursor.tar.xz",
+      "root": "Capitaine-Cursors-Tokyonight"
+    },
+    "icons": {
+      "name": "Rain-Dark",
+      "archive": "desktop/archives/icons.tar.gz",
+      "root": "Rain-Dark"
+    },
+    "gtk": {
+      "name": "Rain-Dark",
+      "archive": "desktop/archives/gtk.tar.gz",
+      "root": "Rain-Dark"
+    }
+  },
+  "repository": "https://github.com/acarlton5/Hype-Theme-Rain-Dark.git"
 }

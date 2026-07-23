@@ -1,7 +1,7 @@
 {
   "id": "vantaBlack",
   "name": "Vanta Black",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "author": "HyDE community, converted for HypeShell",
   "description": "Vanta Black inspired theme having the deepest blacks",
   "dark": {
@@ -48,12 +48,6 @@
   },
   "wallpapers": [
     {
-      "id": "default",
-      "name": "Default",
-      "path": "wallpapers/default.jpg",
-      "fillMode": "Fill"
-    },
-    {
       "id": "abstract",
       "name": "Abstract",
       "path": "wallpapers/abstract.jpg",
@@ -86,7 +80,7 @@
     {
       "id": "bankai",
       "name": "Bankai",
-      "path": "wallpapers/bankai-\u534d\u89e3.jpg",
+      "path": "wallpapers/bankai-卍解.jpg",
       "fillMode": "Fill"
     },
     {
@@ -345,5 +339,22 @@
     "gapsOut": 8,
     "rounding": 8
   },
-  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/vanta-black"
+  "desktop": {
+    "cursor": {
+      "name": "Bibata-Modern-Ice",
+      "archive": "desktop/archives/cursor.tar.gz",
+      "root": "Bibata-Modern-Ice"
+    },
+    "icons": {
+      "name": "Tela-circle-black",
+      "archive": "desktop/archives/icons.tar.gz",
+      "root": "Tela-circle-black"
+    },
+    "gtk": {
+      "name": "Vanta-Black",
+      "archive": "desktop/archives/gtk.tar.gz",
+      "root": "Vanta-Black"
+    }
+  },
+  "repository": "https://github.com/acarlton5/Hype-Theme-Vanta-Black.git"
 }

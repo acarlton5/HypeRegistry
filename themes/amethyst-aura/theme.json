@@ -1,7 +1,7 @@
 {
   "id": "amethystAura",
   "name": "Amethyst-Aura",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "author": "HyDE community, converted for HypeShell",
   "description": "A vibrant purple-themed style with ethereal accents",
   "dark": {
@@ -47,12 +47,6 @@
     "info": "#ccd4ee"
   },
   "wallpapers": [
-    {
-      "id": "default",
-      "name": "Default",
-      "path": "wallpapers/default.png",
-      "fillMode": "Fill"
-    },
     {
       "id": "wallpaper1",
       "name": "Wallpaper1",
@@ -117,5 +111,22 @@
     "gapsOut": 8,
     "rounding": 14
   },
-  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/amethyst-aura"
+  "desktop": {
+    "cursor": {
+      "name": "GoogleDot-Blue",
+      "archive": "desktop/archives/cursor.tar.gz",
+      "root": "GoogleDot-Blue"
+    },
+    "icons": {
+      "name": "Aretha-Dark-Icons",
+      "archive": "desktop/archives/icons.tar.gz",
+      "root": "Aretha-Dark-Icons"
+    },
+    "gtk": {
+      "name": "Sweet-Dark-v40",
+      "archive": "desktop/archives/gtk.tar.xz",
+      "root": "Sweet-Dark-v40"
+    }
+  },
+  "repository": "https://github.com/acarlton5/Hype-Theme-Amethyst-Aura.git"
 }

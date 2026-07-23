@@ -1,7 +1,7 @@
 {
   "id": "tokyoNight",
   "name": "Tokyo Night",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "author": "HyDE community, converted for HypeShell",
   "description": "Official Theme",
   "dark": {
@@ -48,12 +48,6 @@
   },
   "wallpapers": [
     {
-      "id": "default",
-      "name": "Default",
-      "path": "wallpapers/default.jpg",
-      "fillMode": "Fill"
-    },
-    {
       "id": "catLofiCafe",
       "name": "Cat Lofi Cafe",
       "path": "wallpapers/cat_lofi_cafe.jpg",
@@ -99,5 +93,5 @@
     "gapsOut": 8,
     "rounding": 8
   },
-  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/tokyo-night"
+  "repository": "https://github.com/acarlton5/Hype-Theme-Tokyo-Night.git"
 }

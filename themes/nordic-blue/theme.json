@@ -1,7 +1,7 @@
 {
   "id": "nordicBlue",
   "name": "Nordic Blue",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "author": "HyDE community, converted for HypeShell",
   "description": "Official Theme",
   "dark": {
@@ -48,10 +48,45 @@
   },
   "wallpapers": [
     {
-      "id": "themeWallpaper",
-      "name": "Theme Wallpaper",
-      "lightPath": "wallpapers/theme-light.svg",
-      "darkPath": "wallpapers/theme-dark.svg",
+      "id": "forest",
+      "name": "Forest",
+      "path": "wallpapers/forest.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "mountains",
+      "name": "Mountains",
+      "path": "wallpapers/mountains.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "nordicHeroin",
+      "name": "Nordic Heroin",
+      "path": "wallpapers/Nordic-Heroin.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "range",
+      "name": "Range",
+      "path": "wallpapers/range.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "sunset",
+      "name": "Sunset",
+      "path": "wallpapers/sunset.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "underwater",
+      "name": "Underwater",
+      "path": "wallpapers/underwater.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "wild",
+      "name": "Wild",
+      "path": "wallpapers/wild.png",
       "fillMode": "Fill"
     }
   ],
@@ -64,5 +99,5 @@
     "gapsOut": 8,
     "rounding": 18
   },
-  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/nordic-blue"
+  "repository": "https://github.com/acarlton5/Hype-Theme-Nordic-Blue.git"
 }

@@ -1,7 +1,7 @@
 {
   "id": "anotherWorld",
   "name": "Another World",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "author": "HyDE community, converted for HypeShell",
   "description": "Step beyond the horizon, where reality fades and imagination reigns supreme.",
   "dark": {
@@ -48,10 +48,33 @@
   },
   "wallpapers": [
     {
-      "id": "themeWallpaper",
-      "name": "Theme Wallpaper",
-      "lightPath": "wallpapers/theme-light.svg",
-      "darkPath": "wallpapers/theme-dark.svg",
+      "id": "anotherWorld",
+      "name": "Another World",
+      "path": "wallpapers/another_world.jpeg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "cold",
+      "name": "Cold",
+      "path": "wallpapers/cold.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "solo",
+      "name": "Solo",
+      "path": "wallpapers/solo.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "stare",
+      "name": "Stare",
+      "path": "wallpapers/stare.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "surrounded",
+      "name": "Surrounded",
+      "path": "wallpapers/surrounded.jpg",
       "fillMode": "Fill"
     }
   ],
@@ -64,5 +87,22 @@
     "gapsOut": 8,
     "rounding": 14
   },
-  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/another-world"
+  "desktop": {
+    "cursor": {
+      "name": "Sweet-cursors",
+      "archive": "desktop/archives/cursor.tar.xz",
+      "root": "Sweet-cursors"
+    },
+    "icons": {
+      "name": "Vivid-Glassy-Dark-Icons",
+      "archive": "desktop/archives/icons.tar.gz",
+      "root": "Vivid-Glassy-Dark-Icons"
+    },
+    "gtk": {
+      "name": "Kripton",
+      "archive": "desktop/archives/gtk.tar.gz",
+      "root": "Kripton"
+    }
+  },
+  "repository": "https://github.com/acarlton5/Hype-Theme-Another-World.git"
 }

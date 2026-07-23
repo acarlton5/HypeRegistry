@@ -1,7 +1,7 @@
 {
   "id": "timelessDream",
   "name": "Timeless Dream",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "author": "HyDE community, converted for HypeShell",
   "description": "Maybe, it's all just a dream...",
   "dark": {
@@ -48,12 +48,6 @@
   },
   "wallpapers": [
     {
-      "id": "default",
-      "name": "Default",
-      "path": "wallpapers/default.png",
-      "fillMode": "Fill"
-    },
-    {
       "id": "a",
       "name": "A",
       "path": "wallpapers/A.png",
@@ -87,5 +81,17 @@
     "gapsOut": 8,
     "rounding": 14
   },
-  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/timeless-dream"
+  "desktop": {
+    "icons": {
+      "name": "Ars-Dark",
+      "archive": "desktop/archives/icons.tar.gz",
+      "root": "Ars-Dark"
+    },
+    "gtk": {
+      "name": "Dracula-Pink",
+      "archive": "desktop/archives/gtk.tar.gz",
+      "root": "Dracula-Pink"
+    }
+  },
+  "repository": "https://github.com/acarlton5/Hype-Theme-Timeless-Dream.git"
 }

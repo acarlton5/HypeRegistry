@@ -1,7 +1,7 @@
 {
   "id": "electra",
   "name": "Electra",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "author": "HyDE community, converted for HypeShell",
   "description": "Where darkness meets brilliance",
   "dark": {
@@ -47,12 +47,6 @@
     "info": "#e7d9d8"
   },
   "wallpapers": [
-    {
-      "id": "default",
-      "name": "Default",
-      "path": "wallpapers/default.jpg",
-      "fillMode": "Fill"
-    },
     {
       "id": "theme1Thunder",
       "name": "1 Thunder",
@@ -117,5 +111,5 @@
     "gapsOut": 8,
     "rounding": 10
   },
-  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/electra"
+  "repository": "https://github.com/acarlton5/Hype-Theme-Electra.git"
 }

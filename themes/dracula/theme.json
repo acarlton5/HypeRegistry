@@ -1,7 +1,7 @@
 {
   "id": "dracula",
   "name": "Dracula",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "author": "HyDE community, converted for HypeShell",
   "description": "Dracula based theme",
   "dark": {
@@ -47,12 +47,6 @@
     "info": "#87939d"
   },
   "wallpapers": [
-    {
-      "id": "default",
-      "name": "Default",
-      "path": "wallpapers/default.png",
-      "fillMode": "Fill"
-    },
     {
       "id": "arch",
       "name": "Arch",
@@ -123,5 +117,22 @@
     "gapsOut": 8,
     "rounding": 8
   },
-  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/dracula"
+  "desktop": {
+    "cursor": {
+      "name": "Dracula-cursors",
+      "archive": "desktop/archives/cursor.tar.gz",
+      "root": "Dracula-cursors"
+    },
+    "icons": {
+      "name": "Azure-Dark-Icons",
+      "archive": "desktop/archives/icons.tar.gz",
+      "root": "Azure-Dark-Icons"
+    },
+    "gtk": {
+      "name": "Dracula",
+      "archive": "desktop/archives/gtk.tar.xz",
+      "root": "Dracula"
+    }
+  },
+  "repository": "https://github.com/acarlton5/Hype-Theme-Dracula.git"
 }

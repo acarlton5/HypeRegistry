@@ -1,7 +1,7 @@
 {
   "id": "paranoidSweet",
   "name": "Paranoid Sweet",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "author": "HyDE community, converted for HypeShell",
   "description": "Dark purple based theme for HyDE",
   "dark": {
@@ -48,12 +48,6 @@
   },
   "wallpapers": [
     {
-      "id": "default",
-      "name": "Default",
-      "path": "wallpapers/default.png",
-      "fillMode": "Fill"
-    },
-    {
       "id": "car",
       "name": "Car",
       "path": "wallpapers/car.png",
@@ -96,15 +90,15 @@
       "fillMode": "Fill"
     },
     {
-      "id": "paranoidAndroid",
-      "name": "Paranoid Android",
-      "path": "wallpapers/paranoid-android.jpg",
-      "fillMode": "Fill"
-    },
-    {
       "id": "paranoidMaterial",
       "name": "Paranoid Material",
       "path": "wallpapers/paranoid_material.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "paranoidAndroid",
+      "name": "Paranoid Android",
+      "path": "wallpapers/paranoid-android.jpg",
       "fillMode": "Fill"
     },
     {
@@ -177,5 +171,22 @@
     "gapsOut": 8,
     "rounding": 8
   },
-  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/paranoid-sweet"
+  "desktop": {
+    "cursor": {
+      "name": "Sweet-cursors",
+      "archive": "desktop/archives/cursor.tar.gz",
+      "root": "Sweet-cursors"
+    },
+    "icons": {
+      "name": "candy-icons",
+      "archive": "desktop/archives/icons.tar.gz",
+      "root": "candy-icons"
+    },
+    "gtk": {
+      "name": "Sweet-Dark",
+      "archive": "desktop/archives/gtk.tar.gz",
+      "root": "Sweet-Dark"
+    }
+  },
+  "repository": "https://github.com/acarlton5/Hype-Theme-Paranoid-Sweet.git"
 }

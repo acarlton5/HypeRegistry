@@ -1,7 +1,7 @@
 {
   "id": "pixelDream",
   "name": "Pixel Dream",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "author": "HyDE community, converted for HypeShell",
   "description": "Pixel Art inspired theme",
   "dark": {
@@ -47,12 +47,6 @@
     "info": "#b0ea62"
   },
   "wallpapers": [
-    {
-      "id": "default",
-      "name": "Default",
-      "path": "wallpapers/default.jpg",
-      "fillMode": "Fill"
-    },
     {
       "id": "adventureTime",
       "name": "Adventure Time",
@@ -234,15 +228,15 @@
       "fillMode": "Fill"
     },
     {
-      "id": "quest",
-      "name": "Quest",
-      "path": "wallpapers/quest.jpg",
-      "fillMode": "Fill"
-    },
-    {
       "id": "questKnight",
       "name": "Quest Knight",
       "path": "wallpapers/quest_knight.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "quest",
+      "name": "Quest",
+      "path": "wallpapers/quest.jpg",
       "fillMode": "Fill"
     },
     {
@@ -294,12 +288,6 @@
       "fillMode": "Fill"
     },
     {
-      "id": "zelda",
-      "name": "Zelda",
-      "path": "wallpapers/zelda.gif",
-      "fillMode": "Fill"
-    },
-    {
       "id": "zeldaBotw",
       "name": "Zelda Botw",
       "path": "wallpapers/zelda_botw.gif",
@@ -309,6 +297,12 @@
       "id": "zeldaSs",
       "name": "Zelda Ss",
       "path": "wallpapers/zelda_ss.gif",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "zelda",
+      "name": "Zelda",
+      "path": "wallpapers/zelda.gif",
       "fillMode": "Fill"
     }
   ],
@@ -321,5 +315,22 @@
     "gapsOut": 8,
     "rounding": 6
   },
-  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/pixel-dream"
+  "desktop": {
+    "cursor": {
+      "name": "pixel-dream-cursor",
+      "archive": "desktop/archives/cursor.tar.gz",
+      "root": "pixel-dream-cursor"
+    },
+    "icons": {
+      "name": "pixel-dream",
+      "archive": "desktop/archives/icons.tar.gz",
+      "root": "pixel-dream"
+    },
+    "gtk": {
+      "name": "Pixel-Dream",
+      "archive": "desktop/archives/gtk.tar.gz",
+      "root": "Pixel-Dream"
+    }
+  },
+  "repository": "https://github.com/acarlton5/Hype-Theme-Pixel-Dream.git"
 }

@@ -1,7 +1,7 @@
 {
   "id": "abyssgreen",
   "name": "AbyssGreen",
-  "version": "0.1.3",
+  "version": "1.0.0",
   "author": "HyDE community, converted for HypeShell",
   "description": "AbyssGreen is a theme based on the Everforst color scheme",
   "dark": {
@@ -48,12 +48,6 @@
   },
   "wallpapers": [
     {
-      "id": "default",
-      "name": "Default",
-      "path": "wallpapers/default.jpg",
-      "fillMode": "Fill"
-    },
-    {
       "id": "bg16",
       "name": "Bg 16",
       "path": "wallpapers/bg_16.jpg",
@@ -87,5 +81,17 @@
     "gapsOut": 8,
     "rounding": 20
   },
-  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/abyssgreen"
+  "desktop": {
+    "icons": {
+      "name": "Gruvbox-Plus-Dark",
+      "archive": "desktop/archives/icons.tar.gz",
+      "root": "Gruvbox-Plus-Dark"
+    },
+    "gtk": {
+      "name": "Everforest-Dark",
+      "archive": "desktop/archives/gtk.tar.xz",
+      "root": "Everforest-Dark"
+    }
+  },
+  "repository": "https://github.com/acarlton5/Hype-Theme-AbyssGreen.git"
 }

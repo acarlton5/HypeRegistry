@@ -1,7 +1,7 @@
 {
   "id": "tundra",
   "name": "Tundra",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "author": "HyDE community, converted for HypeShell",
   "description": "A Soothing, Pastel Tundra Theme.",
   "dark": {
@@ -47,12 +47,6 @@
     "info": "#8798af"
   },
   "wallpapers": [
-    {
-      "id": "default",
-      "name": "Default",
-      "path": "wallpapers/default.jpg",
-      "fillMode": "Fill"
-    },
     {
       "id": "tundra1",
       "name": "Tundra1",
@@ -117,5 +111,22 @@
     "gapsOut": 8,
     "rounding": 18
   },
-  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/tundra"
+  "desktop": {
+    "cursor": {
+      "name": "volantes_cursors",
+      "archive": "desktop/archives/cursor.tar.gz",
+      "root": "volantes_cursors"
+    },
+    "icons": {
+      "name": "Zafiro-Nord-Black",
+      "archive": "desktop/archives/icons.tar.xz",
+      "root": "Zafiro-Nord-Black"
+    },
+    "gtk": {
+      "name": "Gtk_Tundra",
+      "archive": "desktop/archives/gtk.tar.gz",
+      "root": "Gtk_Tundra"
+    }
+  },
+  "repository": "https://github.com/acarlton5/Hype-Theme-Tundra.git"
 }

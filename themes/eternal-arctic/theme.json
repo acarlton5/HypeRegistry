@@ -1,7 +1,7 @@
 {
   "id": "eternalArctic",
   "name": "Eternal Arctic",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "author": "HyDE community, converted for HypeShell",
   "description": "Serene Nord-inspired theme having frosty aesthetic blues",
   "dark": {
@@ -48,10 +48,327 @@
   },
   "wallpapers": [
     {
-      "id": "themeWallpaper",
-      "name": "Theme Wallpaper",
-      "lightPath": "wallpapers/theme-light.svg",
-      "darkPath": "wallpapers/theme-dark.svg",
+      "id": "1ASlientVoice",
+      "name": "1 A Slient Voice",
+      "path": "wallpapers/1_a-slient-voice.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "accessControl",
+      "name": "Access Control",
+      "path": "wallpapers/access_control.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "agent",
+      "name": "Agent",
+      "path": "wallpapers/agent.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "astronautNord",
+      "name": "Astronaut Nord",
+      "path": "wallpapers/astronaut-nord.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "astronord",
+      "name": "Astronord",
+      "path": "wallpapers/astronord.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "cafe",
+      "name": "Cafe",
+      "path": "wallpapers/cafe.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "chainsawNord",
+      "name": "Chainsaw Nord",
+      "path": "wallpapers/chainsaw_nord.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "cold",
+      "name": "Cold",
+      "path": "wallpapers/cold.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "cyberSamurai",
+      "name": "Cyber Samurai",
+      "path": "wallpapers/cyber_samurai.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "earth",
+      "name": "Earth",
+      "path": "wallpapers/earth.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "explore",
+      "name": "Explore",
+      "path": "wallpapers/explore.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "firewatch",
+      "name": "Firewatch",
+      "path": "wallpapers/firewatch.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "ghibli",
+      "name": "Ghibli",
+      "path": "wallpapers/ghibli.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "girlsWithGun",
+      "name": "Girls With Gun",
+      "path": "wallpapers/girls_with_gun.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "gokuMui",
+      "name": "Goku Mui",
+      "path": "wallpapers/goku_mui.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "hills",
+      "name": "Hills",
+      "path": "wallpapers/hills.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "hilly",
+      "name": "Hilly",
+      "path": "wallpapers/hilly.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "horizon",
+      "name": "Horizon",
+      "path": "wallpapers/horizon.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "houseByLake",
+      "name": "House By Lake",
+      "path": "wallpapers/house_by_lake.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "ignSunGarden",
+      "name": "Ign SunGarden",
+      "path": "wallpapers/ign_sunGarden.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "kimiNoNawa",
+      "name": "Kimi No Nawa",
+      "path": "wallpapers/kimi_no_nawa.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "lakeMountains",
+      "name": "Lake Mountains",
+      "path": "wallpapers/lake_mountains.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "lifeline",
+      "name": "Lifeline",
+      "path": "wallpapers/lifeline.jpeg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "lost",
+      "name": "Lost",
+      "path": "wallpapers/lost.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "makotoShinkaiMovie",
+      "name": "Makoto Shinkai Movie",
+      "path": "wallpapers/makoto_shinkai_movie.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "metroDews",
+      "name": "Metro Dews",
+      "path": "wallpapers/metro_dews.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "nana",
+      "name": "Nana",
+      "path": "wallpapers/nana.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "neverEndingRoad",
+      "name": "Never Ending Road",
+      "path": "wallpapers/never_ending_road.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "nordCarLive",
+      "name": "Nord Car Live",
+      "path": "wallpapers/nord_car_live.gif",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "nordicHeroin",
+      "name": "Nordic Heroin",
+      "path": "wallpapers/Nordic-Heroin.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "nordic",
+      "name": "Nordic",
+      "path": "wallpapers/nordic.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "p3MakotoAigis",
+      "name": "P3 Makoto Aigis",
+      "path": "wallpapers/p3_makoto_aigis.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "p3MakotoUw",
+      "name": "P3 Makoto Uw",
+      "path": "wallpapers/p3_makoto_uw.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "p3MakotoWin",
+      "name": "P3 Makoto Win",
+      "path": "wallpapers/p3_makoto_win.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "p3Makoto",
+      "name": "P3 Makoto",
+      "path": "wallpapers/p3_makoto.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "p3",
+      "name": "P3",
+      "path": "wallpapers/p3.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "peaks",
+      "name": "Peaks",
+      "path": "wallpapers/peaks.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "peaks2",
+      "name": "Peaks",
+      "path": "wallpapers/peaks.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "pixelArch",
+      "name": "Pixel Arch",
+      "path": "wallpapers/pixel_arch.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "rainAgain",
+      "name": "Rain Again",
+      "path": "wallpapers/rain_again.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "rain",
+      "name": "Rain",
+      "path": "wallpapers/rain.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "road",
+      "name": "Road",
+      "path": "wallpapers/road.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "sinonSao",
+      "name": "Sinon Sao",
+      "path": "wallpapers/sinon_sao.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "snowy",
+      "name": "Snowy",
+      "path": "wallpapers/snowy.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "solo",
+      "name": "Solo",
+      "path": "wallpapers/solo.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "spiritedAway",
+      "name": "Spirited Away",
+      "path": "wallpapers/spirited-away.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "stare",
+      "name": "Stare",
+      "path": "wallpapers/stare.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "subaruRem",
+      "name": "Subaru Rem",
+      "path": "wallpapers/subaru_rem.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "surrounded",
+      "name": "Surrounded",
+      "path": "wallpapers/surrounded.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "sword",
+      "name": "Sword",
+      "path": "wallpapers/sword.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "tokyoNord",
+      "name": "Tokyo Nord",
+      "path": "wallpapers/tokyo_nord.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "tortoro",
+      "name": "Tortoro",
+      "path": "wallpapers/tortoro.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "underwater1",
+      "name": "Underwater 1",
+      "path": "wallpapers/underwater_1.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "underwater2",
+      "name": "Underwater 2",
+      "path": "wallpapers/underwater_2.png",
       "fillMode": "Fill"
     }
   ],
@@ -64,5 +381,22 @@
     "gapsOut": 8,
     "rounding": 18
   },
-  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/eternal-arctic"
+  "desktop": {
+    "cursor": {
+      "name": "Capitaine-Cursors-Nord",
+      "archive": "desktop/archives/cursor.tar.xz",
+      "root": "Capitaine-Cursors-Nord"
+    },
+    "icons": {
+      "name": "Papirus-Nordic",
+      "archive": "desktop/archives/icons.tar.xz",
+      "root": "Papirus-Nordic"
+    },
+    "gtk": {
+      "name": "Eternal-Arctic",
+      "archive": "desktop/archives/gtk.tar.xz",
+      "root": "Eternal-Arctic"
+    }
+  },
+  "repository": "https://github.com/acarlton5/Hype-Theme-Eternal-Arctic.git"
 }

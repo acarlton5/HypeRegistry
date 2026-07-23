@@ -1,7 +1,7 @@
 {
   "id": "oxoCarbon",
   "name": "Oxo Carbon",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "author": "HyDE community, converted for HypeShell",
   "description": "Oxo Carbon based theme for Hyde",
   "dark": {
@@ -47,12 +47,6 @@
     "info": "#e6e3e7"
   },
   "wallpapers": [
-    {
-      "id": "default",
-      "name": "Default",
-      "path": "wallpapers/default.jpg",
-      "fillMode": "Fill"
-    },
     {
       "id": "astronaut",
       "name": "Astronaut",
@@ -168,15 +162,15 @@
       "fillMode": "Fill"
     },
     {
-      "id": "samurai",
-      "name": "Samurai",
-      "path": "wallpapers/samurai.png",
-      "fillMode": "Fill"
-    },
-    {
       "id": "samuraiCyber",
       "name": "Samurai Cyber",
       "path": "wallpapers/samurai_cyber.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "samurai",
+      "name": "Samurai",
+      "path": "wallpapers/samurai.png",
       "fillMode": "Fill"
     },
     {
@@ -213,5 +207,22 @@
     "gapsOut": 8,
     "rounding": 2
   },
-  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/oxo-carbon"
+  "desktop": {
+    "cursor": {
+      "name": "Capitaine-Cursors",
+      "archive": "desktop/archives/cursor.tar.xz",
+      "root": "Capitaine-Cursors"
+    },
+    "icons": {
+      "name": "Tela-circle-pink",
+      "archive": "desktop/archives/icons.tar.gz",
+      "root": "Tela-circle-pink"
+    },
+    "gtk": {
+      "name": "Oxo-Carbon",
+      "archive": "desktop/archives/gtk.tar.gz",
+      "root": "Oxo-Carbon"
+    }
+  },
+  "repository": "https://github.com/acarlton5/Hype-Theme-Oxo-Carbon.git"
 }

@@ -1,7 +1,7 @@
 {
   "id": "crimsonBlade",
   "name": "Crimson Blade",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "author": "HyDE community, converted for HypeShell",
   "description": "A striking fusion of sharp elegance, cutting through the darkness with bold hues.",
   "dark": {
@@ -48,10 +48,27 @@
   },
   "wallpapers": [
     {
-      "id": "themeWallpaper",
-      "name": "Theme Wallpaper",
-      "lightPath": "wallpapers/theme-light.svg",
-      "darkPath": "wallpapers/theme-dark.svg",
+      "id": "aSpidermanGlitch",
+      "name": "A Spiderman Glitch",
+      "path": "wallpapers/a_spiderman_glitch.gif",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "fluet0fHaven",
+      "name": "Fluet 0f Haven",
+      "path": "wallpapers/fluet_0f_haven.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "spiderman",
+      "name": "Spiderman",
+      "path": "wallpapers/spiderman.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "void",
+      "name": "Void",
+      "path": "wallpapers/void.png",
       "fillMode": "Fill"
     }
   ],
@@ -64,5 +81,22 @@
     "gapsOut": 8,
     "rounding": 8
   },
-  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/crimson-blade"
+  "desktop": {
+    "cursor": {
+      "name": "Future-cyan-cursors",
+      "archive": "desktop/archives/cursor.tar.gz",
+      "root": "Future-cyan-cursors"
+    },
+    "icons": {
+      "name": "Colorful-Dark-Icons",
+      "archive": "desktop/archives/icons.tar.gz",
+      "root": "Colorful-Dark-Icons"
+    },
+    "gtk": {
+      "name": "Kripton",
+      "archive": "desktop/archives/gtk.tar.gz",
+      "root": "Kripton"
+    }
+  },
+  "repository": "https://github.com/acarlton5/Hype-Theme-Crimson-Blade.git"
 }

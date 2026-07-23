@@ -1,7 +1,7 @@
 {
   "id": "theme1Bit",
   "name": "1-Bit",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "author": "HyDE community, converted for HypeShell",
   "description": "Monochrome based theme",
   "dark": {
@@ -47,12 +47,6 @@
     "info": "#d1d1d1"
   },
   "wallpapers": [
-    {
-      "id": "default",
-      "name": "Default",
-      "path": "wallpapers/default.jpg",
-      "fillMode": "Fill"
-    },
     {
       "id": "arch",
       "name": "Arch",
@@ -171,5 +165,22 @@
     "gapsOut": 8,
     "rounding": 2
   },
-  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/1-bit"
+  "desktop": {
+    "cursor": {
+      "name": "Bibata-Original-Ice",
+      "archive": "desktop/archives/cursor.tar.gz",
+      "root": "Bibata-Original-Ice"
+    },
+    "icons": {
+      "name": "monochrome-icon-set",
+      "archive": "desktop/archives/icons.tar.gz",
+      "root": "monochrome-icon-set"
+    },
+    "gtk": {
+      "name": "1-Bit",
+      "archive": "desktop/archives/gtk.tar.gz",
+      "root": "1-Bit"
+    }
+  },
+  "repository": "https://github.com/acarlton5/Hype-Theme-1-Bit.git"
 }

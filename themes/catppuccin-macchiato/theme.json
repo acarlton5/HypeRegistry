@@ -1,7 +1,7 @@
 {
   "id": "catppuccinMacchiato",
   "name": "Catppuccin-Macchiato",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "author": "HyDE community, converted for HypeShell",
   "description": "Catppuccin Macchiato with Mauve Accent",
   "dark": {
@@ -48,15 +48,15 @@
   },
   "wallpapers": [
     {
-      "id": "default",
-      "name": "Default",
-      "path": "wallpapers/default.jpg",
-      "fillMode": "Fill"
-    },
-    {
       "id": "theme1SpaceRed",
       "name": "1 Space Red",
       "path": "wallpapers/1_space_red.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "theme2NordicSunset",
+      "name": "2 Nordic Sunset",
+      "path": "wallpapers/2_nordic_sunset.jpg",
       "fillMode": "Fill"
     },
     {
@@ -87,12 +87,6 @@
       "id": "theme24ShadedLandscape",
       "name": "24 Shaded Landscape",
       "path": "wallpapers/24_shaded_landscape.jpg",
-      "fillMode": "Fill"
-    },
-    {
-      "id": "theme2NordicSunset",
-      "name": "2 Nordic Sunset",
-      "path": "wallpapers/2_nordic_sunset.jpg",
       "fillMode": "Fill"
     },
     {
@@ -147,5 +141,17 @@
     "gapsOut": 8,
     "rounding": 22
   },
-  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/catppuccin-macchiato"
+  "desktop": {
+    "icons": {
+      "name": "Tela-circle-dracula",
+      "archive": "desktop/archives/icons.tar.gz",
+      "root": "Tela-circle-dracula"
+    },
+    "gtk": {
+      "name": "Catppuccin-Macchiato",
+      "archive": "desktop/archives/gtk.tar.gz",
+      "root": "Catppuccin-Macchiato"
+    }
+  },
+  "repository": "https://github.com/acarlton5/Hype-Theme-Catppuccin-Macchiato.git"
 }

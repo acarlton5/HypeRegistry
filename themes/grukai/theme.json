@@ -1,7 +1,7 @@
 {
   "id": "grukai",
   "name": "Grukai",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "author": "HyDE community, converted for HypeShell",
   "description": "Where retro warmth meets modern edge",
   "dark": {
@@ -47,12 +47,6 @@
     "info": "#ececca"
   },
   "wallpapers": [
-    {
-      "id": "default",
-      "name": "Default",
-      "path": "wallpapers/default.jpg",
-      "fillMode": "Fill"
-    },
     {
       "id": "theme1",
       "name": "1",
@@ -159,5 +153,22 @@
     "gapsOut": 8,
     "rounding": 6
   },
-  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/grukai"
+  "desktop": {
+    "cursor": {
+      "name": "Simp1e",
+      "archive": "desktop/archives/cursor.tar.gz",
+      "root": "Simp1e"
+    },
+    "icons": {
+      "name": "buuf-icons-for-plasma",
+      "archive": "desktop/archives/icons.tar.gz",
+      "root": "buuf-icons-for-plasma"
+    },
+    "gtk": {
+      "name": "Grukai",
+      "archive": "desktop/archives/gtk.tar.gz",
+      "root": "Grukai"
+    }
+  },
+  "repository": "https://github.com/acarlton5/Hype-Theme-Grukai.git"
 }

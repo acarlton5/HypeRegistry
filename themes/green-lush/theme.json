@@ -1,7 +1,7 @@
 {
   "id": "greenLush",
   "name": "Green Lush",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "author": "HyDE community, converted for HypeShell",
   "description": "A ghibli based theme for Hyde",
   "dark": {
@@ -48,111 +48,105 @@
   },
   "wallpapers": [
     {
-      "id": "default",
-      "name": "Default",
-      "path": "wallpapers/default.png",
-      "fillMode": "Fill"
-    },
-    {
       "id": "hypeTheme",
       "name": "Hype Theme",
-      "path": "wallpapers/\u4e91\u548c\u5c71\u98ce\u666f.PNG",
+      "path": "wallpapers/云和山风景.PNG",
       "fillMode": "Fill"
     },
     {
       "id": "hypeTheme2",
       "name": "Hype Theme",
-      "path": "wallpapers/\u591c\u8272\u5f52\u9014.png",
+      "path": "wallpapers/夜色归途.png",
       "fillMode": "Fill"
     },
     {
       "id": "hypeTheme3",
       "name": "Hype Theme",
-      "path": "wallpapers/\u5c71\u96e8\u5982\u6666.png",
+      "path": "wallpapers/山雨如晦.png",
       "fillMode": "Fill"
     },
     {
       "id": "hypeTheme4",
       "name": "Hype Theme",
-      "path": "wallpapers/\u5e7d\u8c37\u79d8\u5883.png",
+      "path": "wallpapers/幽谷秘境.png",
       "fillMode": "Fill"
     },
     {
       "id": "hypeTheme5",
       "name": "Hype Theme",
-      "path": "wallpapers/\u60c5\u8272\u6d77\u6e7e.png",
+      "path": "wallpapers/情色海湾.png",
       "fillMode": "Fill"
     },
     {
       "id": "hypeTheme6",
       "name": "Hype Theme",
-      "path": "wallpapers/\u65e5\u51fa.png",
+      "path": "wallpapers/日出.png",
       "fillMode": "Fill"
     },
     {
       "id": "hypeTheme7",
       "name": "Hype Theme",
-      "path": "wallpapers/\u68ee\u6797\u4e2d\u7684\u4e66\u5e97.png",
+      "path": "wallpapers/森林中的书店.png",
       "fillMode": "Fill"
     },
     {
       "id": "hypeTheme8",
       "name": "Hype Theme",
-      "path": "wallpapers/\u706f\u706b\u9611\u73ca.png",
+      "path": "wallpapers/灯火阑珊.png",
       "fillMode": "Fill"
     },
     {
       "id": "hypeTheme9",
       "name": "Hype Theme",
-      "path": "wallpapers/\u7eff\u8272\u623f\u5b50.PNG",
+      "path": "wallpapers/绿色房子.PNG",
       "fillMode": "Fill"
     },
     {
       "id": "hypeTheme10",
       "name": "Hype Theme",
-      "path": "wallpapers/\u7eff\u8272\u9053\u8def.PNG",
+      "path": "wallpapers/绿色道路.PNG",
       "fillMode": "Fill"
     },
     {
       "id": "hypeTheme11",
       "name": "Hype Theme",
-      "path": "wallpapers/\u81ea\u7531\u9636\u68af.JPG",
+      "path": "wallpapers/自由阶梯.JPG",
       "fillMode": "Fill"
     },
     {
       "id": "hypeTheme12",
       "name": "Hype Theme",
-      "path": "wallpapers/\u8273\u9633\u5929.png",
+      "path": "wallpapers/艳阳天.png",
       "fillMode": "Fill"
     },
     {
       "id": "hypeTheme13",
       "name": "Hype Theme",
-      "path": "wallpapers/\u8f69\u69ad\u6668\u5149.png",
+      "path": "wallpapers/轩榭晨光.png",
       "fillMode": "Fill"
     },
     {
       "id": "hypeTheme14",
       "name": "Hype Theme",
-      "path": "wallpapers/\u8fd9\u662f\u4ec0\u4e48.PNG",
+      "path": "wallpapers/这是什么.PNG",
       "fillMode": "Fill"
     },
     {
       "id": "hypeTheme15",
       "name": "Hype Theme",
-      "path": "wallpapers/\u94c1\u9053\u5929\u6865.png",
+      "path": "wallpapers/铁道天桥.png",
       "fillMode": "Fill"
     },
     {
       "id": "hypeTheme16",
       "name": "Hype Theme",
-      "path": "wallpapers/\u9759\u591c\u5e7d.PNG",
+      "path": "wallpapers/静夜幽.PNG",
       "fillMode": "Fill"
     },
     {
       "id": "hypeTheme17",
       "name": "Hype Theme",
-      "path": "wallpapers/\u9759\u591c\u5e7d\u5c45.png",
+      "path": "wallpapers/静夜幽居.png",
       "fillMode": "Fill"
     }
   ],
@@ -165,5 +159,17 @@
     "gapsOut": 8,
     "rounding": 20
   },
-  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/green-lush"
+  "desktop": {
+    "icons": {
+      "name": "Tela-circle-green",
+      "archive": "desktop/archives/icons.tar.gz",
+      "root": "Tela-circle-green"
+    },
+    "gtk": {
+      "name": "Decay-Green",
+      "archive": "desktop/archives/gtk.tar.gz",
+      "root": "Decay-Green"
+    }
+  },
+  "repository": "https://github.com/acarlton5/Hype-Theme-Green-Lush.git"
 }

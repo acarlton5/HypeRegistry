@@ -1,7 +1,7 @@
 {
   "id": "nier",
   "name": "Nier",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "author": "HyDE community, converted for HypeShell",
   "description": "Green dominant Nier Inspired Theme.",
   "dark": {
@@ -47,12 +47,6 @@
     "info": "#aa8b7f"
   },
   "wallpapers": [
-    {
-      "id": "default",
-      "name": "Default",
-      "path": "wallpapers/default.jpg",
-      "fillMode": "Fill"
-    },
     {
       "id": "theme2b10",
       "name": "2b 10",
@@ -225,5 +219,22 @@
     "gapsOut": 8,
     "rounding": 14
   },
-  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/nier"
+  "desktop": {
+    "cursor": {
+      "name": "Gruvbox-Retro",
+      "archive": "desktop/archives/cursor.tar.gz",
+      "root": "Gruvbox-Retro"
+    },
+    "icons": {
+      "name": "Gruvbox-Plus-Dark",
+      "archive": "desktop/archives/icons.tar.gz",
+      "root": "Gruvbox-Plus-Dark"
+    },
+    "gtk": {
+      "name": "Nier",
+      "archive": "desktop/archives/gtk.tar.gz",
+      "root": "Nier"
+    }
+  },
+  "repository": "https://github.com/acarlton5/Hype-Theme-Nier.git"
 }

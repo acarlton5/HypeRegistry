@@ -1,7 +1,7 @@
 {
   "id": "crimsonBlue",
   "name": "Crimson-Blue",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "author": "HyDE community, converted for HypeShell",
   "description": "Red with Blue vibes",
   "dark": {
@@ -47,12 +47,6 @@
     "info": "#8d6e6f"
   },
   "wallpapers": [
-    {
-      "id": "default",
-      "name": "Default",
-      "path": "wallpapers/default.jpg",
-      "fillMode": "Fill"
-    },
     {
       "id": "alert",
       "name": "Alert",
@@ -138,6 +132,12 @@
       "fillMode": "Fill"
     },
     {
+      "id": "tree",
+      "name": "Tree?",
+      "path": "wallpapers/tree?.png",
+      "fillMode": "Fill"
+    },
+    {
       "id": "women",
       "name": "Women",
       "path": "wallpapers/women.jpg",
@@ -153,5 +153,22 @@
     "gapsOut": 8,
     "rounding": 8
   },
-  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/crimson-blue"
+  "desktop": {
+    "cursor": {
+      "name": "Numix-Cursor",
+      "archive": "desktop/archives/cursor.tar.gz",
+      "root": "Numix-Cursor"
+    },
+    "icons": {
+      "name": "Flatery-Indigo-Dark",
+      "archive": "desktop/archives/icons.tar.gz",
+      "root": "Flatery-Indigo-Dark"
+    },
+    "gtk": {
+      "name": "Crimson-Blue",
+      "archive": "desktop/archives/gtk.tar.gz",
+      "root": "Crimson-Blue"
+    }
+  },
+  "repository": "https://github.com/acarlton5/Hype-Theme-Crimson-Blue.git"
 }

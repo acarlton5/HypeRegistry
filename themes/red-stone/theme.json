@@ -1,7 +1,7 @@
 {
   "id": "redStone",
   "name": "Red Stone",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "author": "HyDE community, converted for HypeShell",
   "description": "Hot Red based theme",
   "dark": {
@@ -47,12 +47,6 @@
     "info": "#bc9e4e"
   },
   "wallpapers": [
-    {
-      "id": "default",
-      "name": "Default",
-      "path": "wallpapers/default.jpg",
-      "fillMode": "Fill"
-    },
     {
       "id": "theme1067005",
       "name": "1067005",
@@ -135,5 +129,17 @@
     "gapsOut": 8,
     "rounding": 8
   },
-  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/red-stone"
+  "desktop": {
+    "icons": {
+      "name": "Tela-circle-red",
+      "archive": "desktop/archives/icons.tar.gz",
+      "root": "Tela-circle-red"
+    },
+    "gtk": {
+      "name": "Red-Stone",
+      "archive": "desktop/archives/gtk.tar.gz",
+      "root": "Red-Stone"
+    }
+  },
+  "repository": "https://github.com/acarlton5/Hype-Theme-Red-Stone.git"
 }

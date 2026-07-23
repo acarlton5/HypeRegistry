@@ -1,7 +1,7 @@
 {
   "id": "oregairu",
   "name": "Oregairu",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "author": "HyDE community, converted for HypeShell",
   "description": "HyDE theme inspired by Oregairu",
   "dark": {
@@ -48,12 +48,6 @@
   },
   "wallpapers": [
     {
-      "id": "default",
-      "name": "Default",
-      "path": "wallpapers/default.png",
-      "fillMode": "Fill"
-    },
-    {
       "id": "theme0",
       "name": "0",
       "path": "wallpapers/0.png",
@@ -69,6 +63,24 @@
       "id": "theme1000",
       "name": "1000",
       "path": "wallpapers/1000.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "1059163",
+      "name": "1059163",
+      "path": "wallpapers/1059163.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "1097670",
+      "name": "1097670",
+      "path": "wallpapers/1097670.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "1230284",
+      "name": "1230284",
+      "path": "wallpapers/1230284.jpg",
       "fillMode": "Fill"
     },
     {
@@ -108,9 +120,39 @@
       "fillMode": "Fill"
     },
     {
+      "id": "770797",
+      "name": "770797",
+      "path": "wallpapers/770797.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "770807",
+      "name": "770807",
+      "path": "wallpapers/770807.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "770816",
+      "name": "770816",
+      "path": "wallpapers/770816.jpg",
+      "fillMode": "Fill"
+    },
+    {
       "id": "theme8",
       "name": "8",
       "path": "wallpapers/8.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "828541",
+      "name": "828541",
+      "path": "wallpapers/828541.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "898760",
+      "name": "898760",
+      "path": "wallpapers/898760.png",
       "fillMode": "Fill"
     },
     {
@@ -160,6 +202,126 @@
       "name": "Fsd",
       "path": "wallpapers/fsd.png",
       "fillMode": "Fill"
+    },
+    {
+      "id": "hikiyuki",
+      "name": "Hikiyuki",
+      "path": "wallpapers/hikiyuki.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "wallhaven4lrj7p",
+      "name": "Wallhaven 4lrj7p",
+      "path": "wallpapers/wallhaven-4lrj7p.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "wallpaperflareComWallpaper1",
+      "name": "Wallpaperflare.Com Wallpaper (1)",
+      "path": "wallpapers/wallpaperflare.com_wallpaper (1).jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "wallpaperflareComWallpaper2",
+      "name": "Wallpaperflare.Com Wallpaper (2)",
+      "path": "wallpapers/wallpaperflare.com_wallpaper (2).jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "wallpaperflareComWallpaper3",
+      "name": "Wallpaperflare.Com Wallpaper (3)",
+      "path": "wallpapers/wallpaperflare.com_wallpaper (3).jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "wallpaperflareComWallpaper",
+      "name": "Wallpaperflare.Com Wallpaper",
+      "path": "wallpapers/wallpaperflare.com_wallpaper.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "wp2137428OregairuWallpapers",
+      "name": "Wp2137428 Oregairu Wallpapers",
+      "path": "wallpapers/wp2137428-oregairu-wallpapers.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "wp2137444OregairuWallpapers",
+      "name": "Wp2137444 Oregairu Wallpapers",
+      "path": "wallpapers/wp2137444-oregairu-wallpapers.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "wp2137481OregairuWallpapers",
+      "name": "Wp2137481 Oregairu Wallpapers",
+      "path": "wallpapers/wp2137481-oregairu-wallpapers.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "wp2137504OregairuWallpapers",
+      "name": "Wp2137504 Oregairu Wallpapers",
+      "path": "wallpapers/wp2137504-oregairu-wallpapers.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "yui1",
+      "name": "Yui 1",
+      "path": "wallpapers/yui-1.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "yui",
+      "name": "Yui",
+      "path": "wallpapers/yui.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "yukiYui1",
+      "name": "Yuki Yui 1",
+      "path": "wallpapers/yuki-yui-1.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "yukiYui",
+      "name": "Yuki Yui",
+      "path": "wallpapers/yuki-yui.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "yukino1",
+      "name": "Yukino 1",
+      "path": "wallpapers/yukino-1.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "yukino2",
+      "name": "Yukino 2",
+      "path": "wallpapers/yukino-2.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "yukino3",
+      "name": "Yukino 3",
+      "path": "wallpapers/yukino-3.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "yukino4",
+      "name": "Yukino 4",
+      "path": "wallpapers/yukino-4.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "yukino5",
+      "name": "Yukino 5",
+      "path": "wallpapers/yukino-5.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "yukino",
+      "name": "Yukino",
+      "path": "wallpapers/yukino.jpg",
+      "fillMode": "Fill"
     }
   ],
   "window": {
@@ -171,5 +333,22 @@
     "gapsOut": 8,
     "rounding": 22
   },
-  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/oregairu"
+  "desktop": {
+    "cursor": {
+      "name": "Sweet-cursors",
+      "archive": "desktop/archives/cursor.tar.gz",
+      "root": "Sweet-cursors"
+    },
+    "icons": {
+      "name": "Tela-circle-blue",
+      "archive": "desktop/archives/icons.tar.gz",
+      "root": "Tela-circle-blue"
+    },
+    "gtk": {
+      "name": "Kripton",
+      "archive": "desktop/archives/gtk.tar.gz",
+      "root": "Kripton"
+    }
+  },
+  "repository": "https://github.com/acarlton5/Hype-Theme-Oregairu.git"
 }

@@ -1,7 +1,7 @@
 {
   "id": "bluesky",
   "name": "BlueSky",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "author": "HyDE community, converted for HypeShell",
   "description": "A serene theme inspired by bright cloudy skies",
   "dark": {
@@ -47,12 +47,6 @@
     "info": "#c1b4e2"
   },
   "wallpapers": [
-    {
-      "id": "default",
-      "name": "Default",
-      "path": "wallpapers/default.jpg",
-      "fillMode": "Fill"
-    },
     {
       "id": "bg1",
       "name": "Bg 1",
@@ -129,5 +123,22 @@
     "gapsOut": 8,
     "rounding": 20
   },
-  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/bluesky"
+  "desktop": {
+    "cursor": {
+      "name": "material_light_cursors",
+      "archive": "desktop/archives/cursor.tar.gz",
+      "root": "material_light_cursors"
+    },
+    "icons": {
+      "name": "Tela-circle-nord",
+      "archive": "desktop/archives/icons.tar.xz",
+      "root": "Tela-circle-nord"
+    },
+    "gtk": {
+      "name": "BlueSky-Clean-Dark",
+      "archive": "desktop/archives/gtk.tar.xz",
+      "root": "BlueSky-Clean-Dark"
+    }
+  },
+  "repository": "https://github.com/acarlton5/Hype-Theme-BlueSky.git"
 }

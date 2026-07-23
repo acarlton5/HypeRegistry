@@ -1,7 +1,7 @@
 {
   "id": "gruvboxRetro",
   "name": "Gruvbox Retro",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "author": "HyDE community, converted for HypeShell",
   "description": "Official Theme",
   "dark": {
@@ -47,12 +47,6 @@
     "info": "#676a6f"
   },
   "wallpapers": [
-    {
-      "id": "default",
-      "name": "Default",
-      "path": "wallpapers/default.png",
-      "fillMode": "Fill"
-    },
     {
       "id": "finalizer",
       "name": "Finalizer",
@@ -117,5 +111,5 @@
     "gapsOut": 8,
     "rounding": 14
   },
-  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/gruvbox-retro"
+  "repository": "https://github.com/acarlton5/Hype-Theme-Gruvbox-Retro.git"
 }

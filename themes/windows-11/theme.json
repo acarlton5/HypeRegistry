@@ -1,7 +1,7 @@
 {
   "id": "windows11",
   "name": "Windows 11",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "author": "HyDE community, converted for HypeShell",
   "description": "We love Windows! Wew",
   "dark": {
@@ -48,12 +48,6 @@
   },
   "wallpapers": [
     {
-      "id": "default",
-      "name": "Default",
-      "path": "wallpapers/default.jpeg",
-      "fillMode": "Fill"
-    },
-    {
       "id": "windows1",
       "name": "Windows 1",
       "path": "wallpapers/windows-1.jpeg",
@@ -93,5 +87,22 @@
     "gapsOut": 8,
     "rounding": 20
   },
-  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/windows-11"
+  "desktop": {
+    "cursor": {
+      "name": "Cursor-Windows",
+      "archive": "desktop/archives/cursor.tar.gz",
+      "root": "Cursor-Windows"
+    },
+    "icons": {
+      "name": "Windows-11",
+      "archive": "desktop/archives/icons.tar.gz",
+      "root": "Windows-11"
+    },
+    "gtk": {
+      "name": "Windows-11",
+      "archive": "desktop/archives/gtk.tar.xz",
+      "root": "Windows-11"
+    }
+  },
+  "repository": "https://github.com/acarlton5/Hype-Theme-Windows-11.git"
 }

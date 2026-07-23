@@ -1,7 +1,7 @@
 {
   "id": "greenify",
   "name": "Greenify",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "author": "HyDE community, converted for HypeShell",
   "description": "Dark Green based theme for Hyde",
   "dark": {
@@ -48,12 +48,6 @@
   },
   "wallpapers": [
     {
-      "id": "default",
-      "name": "Default",
-      "path": "wallpapers/default.jpg",
-      "fillMode": "Fill"
-    },
-    {
       "id": "theme1",
       "name": "1",
       "path": "wallpapers/1.jpg",
@@ -92,7 +86,7 @@
     {
       "id": "hypeTheme",
       "name": "Hype Theme",
-      "path": "wallpapers/\u5c71\u96e8\u5982\u6666.png",
+      "path": "wallpapers/山雨如晦.png",
       "fillMode": "Fill"
     }
   ],
@@ -105,5 +99,17 @@
     "gapsOut": 8,
     "rounding": 20
   },
-  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/greenify"
+  "desktop": {
+    "icons": {
+      "name": "Tela-circle-green",
+      "archive": "desktop/archives/icons.tar.gz",
+      "root": "Tela-circle-green"
+    },
+    "gtk": {
+      "name": "Greenify",
+      "archive": "desktop/archives/gtk.tar.gz",
+      "root": "Greenify"
+    }
+  },
+  "repository": "https://github.com/acarlton5/Hype-Theme-Greenify.git"
 }

@@ -1,7 +1,7 @@
 {
   "id": "montereyFrost",
   "name": "Monterey Frost",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "author": "HyDE community, converted for HypeShell",
   "description": "Mac-OS inspired dark theme",
   "dark": {
@@ -47,12 +47,6 @@
     "info": "#e6a3b7"
   },
   "wallpapers": [
-    {
-      "id": "default",
-      "name": "Default",
-      "path": "wallpapers/default.png",
-      "fillMode": "Fill"
-    },
     {
       "id": "leaf",
       "name": "Leaf",
@@ -183,5 +177,22 @@
     "gapsOut": 8,
     "rounding": 18
   },
-  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/monterey-frost"
+  "desktop": {
+    "cursor": {
+      "name": "macOS-Black",
+      "archive": "desktop/archives/cursor.tar.xz",
+      "root": "macOS-Black"
+    },
+    "icons": {
+      "name": "WhiteSur",
+      "archive": "desktop/archives/icons.tar.xz",
+      "root": "WhiteSur"
+    },
+    "gtk": {
+      "name": "WhiteSur-Dark",
+      "archive": "desktop/archives/gtk.tar.xz",
+      "root": "WhiteSur-Dark"
+    }
+  },
+  "repository": "https://github.com/acarlton5/Hype-Theme-Monterey-Frost.git"
 }

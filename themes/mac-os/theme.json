@@ -1,9 +1,9 @@
 {
   "id": "macOs",
   "name": "Mac OS",
-  "version": "0.1.2",
-  "author": "HyDE community, converted for HypeShell",
-  "description": "Official Theme",
+  "version": "1.0.0",
+  "author": "T-Crypt; converted for HypeShell by acarlton5",
+  "description": "macOS-inspired HypeShell theme converted from the original HyDE theme.",
   "dark": {
     "name": "Mac OS Dark",
     "primary": "#8aa1e0",
@@ -47,12 +47,6 @@
     "info": "#e7b87f"
   },
   "wallpapers": [
-    {
-      "id": "default",
-      "name": "Default",
-      "path": "wallpapers/default.jpg",
-      "fillMode": "Fill"
-    },
     {
       "id": "theme1010",
       "name": "10 10",
@@ -294,6 +288,23 @@
       "fillMode": "Fill"
     }
   ],
+  "desktop": {
+    "cursor": {
+      "name": "MacOS-Cursor",
+      "archive": "desktop/archives/cursor.tar.gz",
+      "root": "MacOS-Cursor"
+    },
+    "icons": {
+      "name": "MacOS",
+      "archive": "desktop/archives/icons.tar.xz",
+      "root": "MacOS"
+    },
+    "gtk": {
+      "name": "MacOS",
+      "archive": "desktop/archives/gtk.tar.gz",
+      "root": "MacOS"
+    }
+  },
   "window": {
     "borderColor": "#b09270",
     "borderActiveColor": "#8aa1e0",
@@ -303,5 +314,5 @@
     "gapsOut": 8,
     "rounding": 20
   },
-  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/mac-os"
+  "repository": "https://github.com/acarlton5/Hype-Theme-MacOS.git"
 }

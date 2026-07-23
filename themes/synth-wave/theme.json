@@ -1,7 +1,7 @@
 {
   "id": "synthWave",
   "name": "Synth Wave",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "author": "HyDE community, converted for HypeShell",
   "description": "Official Theme",
   "dark": {
@@ -48,12 +48,6 @@
   },
   "wallpapers": [
     {
-      "id": "default",
-      "name": "Default",
-      "path": "wallpapers/default.jpg",
-      "fillMode": "Fill"
-    },
-    {
       "id": "beach",
       "name": "Beach",
       "path": "wallpapers/beach.jpg",
@@ -87,5 +81,5 @@
     "gapsOut": 8,
     "rounding": 8
   },
-  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/synth-wave"
+  "repository": "https://github.com/acarlton5/Hype-Theme-Synth-Wave.git"
 }

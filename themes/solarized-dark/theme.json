@@ -1,7 +1,7 @@
 {
   "id": "solarizedDark",
   "name": "Solarized Dark",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "author": "HyDE community, converted for HypeShell",
   "description": "Solarized Dark based theme for HyDE",
   "dark": {
@@ -47,12 +47,6 @@
     "info": "#5e7c79"
   },
   "wallpapers": [
-    {
-      "id": "default",
-      "name": "Default",
-      "path": "wallpapers/default.png",
-      "fillMode": "Fill"
-    },
     {
       "id": "abstract",
       "name": "Abstract",
@@ -231,5 +225,22 @@
     "gapsOut": 8,
     "rounding": 6
   },
-  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/solarized-dark"
+  "desktop": {
+    "cursor": {
+      "name": "Capitaine-Cursors-White",
+      "archive": "desktop/archives/cursor.tar.xz",
+      "root": "Capitaine-Cursors-White"
+    },
+    "icons": {
+      "name": "Tela-circle-solarized",
+      "archive": "desktop/archives/icons.tar.gz",
+      "root": "Tela-circle-solarized"
+    },
+    "gtk": {
+      "name": "Solarized Dark",
+      "archive": "desktop/archives/gtk.tar.gz",
+      "root": "Solarized Dark"
+    }
+  },
+  "repository": "https://github.com/acarlton5/Hype-Theme-Solarized-Dark.git"
 }

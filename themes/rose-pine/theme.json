@@ -1,11 +1,11 @@
 {
   "id": "rosePine",
-  "name": "Ros\u00e9 Pine",
-  "version": "0.1.2",
+  "name": "Rosé Pine",
+  "version": "1.0.0",
   "author": "HyDE community, converted for HypeShell",
   "description": "Official Theme",
   "dark": {
-    "name": "Ros\u00e9 Pine Dark",
+    "name": "Rosé Pine Dark",
     "primary": "#d06281",
     "primaryText": "#f7fff8",
     "primaryContainer": "#8b4256",
@@ -26,7 +26,7 @@
     "info": "#336a83"
   },
   "light": {
-    "name": "Ros\u00e9 Pine Light",
+    "name": "Rosé Pine Light",
     "primary": "#d87e98",
     "primaryText": "#f7fff8",
     "primaryContainer": "#e0a1b4",
@@ -47,12 +47,6 @@
     "info": "#6891a3"
   },
   "wallpapers": [
-    {
-      "id": "default",
-      "name": "Default",
-      "path": "wallpapers/default.jpeg",
-      "fillMode": "Fill"
-    },
     {
       "id": "burningCherry",
       "name": "Burning Cherry",
@@ -165,5 +159,5 @@
     "gapsOut": 8,
     "rounding": 22
   },
-  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/rose-pine"
+  "repository": "https://github.com/acarlton5/Hype-Theme-Rose-Pine.git"
 }

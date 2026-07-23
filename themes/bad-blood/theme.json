@@ -1,7 +1,7 @@
 {
   "id": "badBlood",
   "name": "Bad Blood",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "author": "HyDE community, converted for HypeShell",
   "description": "Red & Black based theme.",
   "dark": {
@@ -48,12 +48,6 @@
   },
   "wallpapers": [
     {
-      "id": "default",
-      "name": "Default",
-      "path": "wallpapers/default.jpg",
-      "fillMode": "Fill"
-    },
-    {
       "id": "abstractMountainRoad",
       "name": "Abstract Mountain Road",
       "path": "wallpapers/Abstract Mountain Road.jpg",
@@ -78,6 +72,12 @@
       "fillMode": "Fill"
     },
     {
+      "id": "redSpacesuit",
+      "name": "Red Spacesuit",
+      "path": "wallpapers/red_spacesuit.jpeg",
+      "fillMode": "Fill"
+    },
+    {
       "id": "redAlexPerez",
       "name": "Red Alex Perez",
       "path": "wallpapers/red-alex-perez.jpg",
@@ -87,12 +87,6 @@
       "id": "redSYNTHWAVE",
       "name": "RED SYNTHWAVE",
       "path": "wallpapers/RED-SYNTHWAVE.png",
-      "fillMode": "Fill"
-    },
-    {
-      "id": "redSpacesuit",
-      "name": "Red Spacesuit",
-      "path": "wallpapers/red_spacesuit.jpeg",
       "fillMode": "Fill"
     },
     {
@@ -153,5 +147,5 @@
     "gapsOut": 8,
     "rounding": 8
   },
-  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/bad-blood"
+  "repository": "https://github.com/acarlton5/Hype-Theme-Bad-Blood.git"
 }

@@ -1,7 +1,7 @@
 {
   "id": "scarletNight",
   "name": "Scarlet Night",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "author": "HyDE community, converted for HypeShell",
   "description": "Hot-Red + Deep-Black",
   "dark": {
@@ -47,12 +47,6 @@
     "info": "#ecbf43"
   },
   "wallpapers": [
-    {
-      "id": "default",
-      "name": "Default",
-      "path": "wallpapers/default.png",
-      "fillMode": "Fill"
-    },
     {
       "id": "accentedRed",
       "name": "Accented Red",
@@ -147,5 +141,17 @@
     "gapsOut": 8,
     "rounding": 8
   },
-  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/scarlet-night"
+  "desktop": {
+    "icons": {
+      "name": "Tela-circle-hotred",
+      "archive": "desktop/archives/icons.tar.gz",
+      "root": "Tela-circle-hotred"
+    },
+    "gtk": {
+      "name": "Rose-Pine",
+      "archive": "desktop/archives/gtk.tar.gz",
+      "root": "Rose-Pine"
+    }
+  },
+  "repository": "https://github.com/acarlton5/Hype-Theme-Scarlet-Night.git"
 }

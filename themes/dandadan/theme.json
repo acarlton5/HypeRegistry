@@ -1,0 +1,148 @@
+{
+  "id": "danDaDan",
+  "name": "DanDaDan",
+  "version": "1.0.0",
+  "author": "aasaaDev; converted for HypeShell by acarlton5",
+  "description": "HypeShell theme inspired by the anime DanDaDan.",
+  "dark": {
+    "primary": "#d2546a",
+    "primaryText": "#1a161e",
+    "primaryContainer": "#703544",
+    "secondary": "#dd7d8e",
+    "surface": "#322d36",
+    "surfaceText": "#f2cfd5",
+    "surfaceVariant": "#3e2531",
+    "surfaceVariantText": "#e8a6b2",
+    "surfaceTint": "#d2546a",
+    "background": "#201b25",
+    "backgroundText": "#f5d9de",
+    "outline": "#e2909e",
+    "surfaceContainer": "#2b2630",
+    "surfaceContainerHigh": "#343039",
+    "surfaceContainerHighest": "#3f3b44",
+    "error": "#ffb4ab",
+    "warning": "#ffcc80",
+    "info": "#da7385"
+  },
+  "light": {
+    "primary": "#b5485b",
+    "primaryText": "#ffffff",
+    "primaryContainer": "#f1c8cf",
+    "secondary": "#944052",
+    "surface": "#f2f1f2",
+    "surfaceText": "#1a161e",
+    "surfaceVariant": "#f7e0e4",
+    "surfaceVariantText": "#514d55",
+    "surfaceTint": "#b5485b",
+    "background": "#ebeaeb",
+    "backgroundText": "#1a161e",
+    "outline": "#8b888e",
+    "surfaceContainer": "#dfdedf",
+    "surfaceContainerHigh": "#d5d3d5",
+    "surfaceContainerHighest": "#c8c7c9",
+    "error": "#ba1a1a",
+    "warning": "#8a5a00",
+    "info": "#b5485b"
+  },
+  "wallpapers": [
+    {
+      "id": "default",
+      "name": "DDD 1",
+      "path": "wallpapers/DDD-1.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "wallpaper2",
+      "name": "DDD 10",
+      "path": "wallpapers/DDD-10.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "wallpaper3",
+      "name": "DDD 11",
+      "path": "wallpapers/DDD-11.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "wallpaper4",
+      "name": "DDD 12",
+      "path": "wallpapers/DDD-12.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "wallpaper5",
+      "name": "DDD 2",
+      "path": "wallpapers/DDD-2.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "wallpaper6",
+      "name": "DDD 3",
+      "path": "wallpapers/DDD-3.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "wallpaper7",
+      "name": "DDD 4",
+      "path": "wallpapers/DDD-4.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "wallpaper8",
+      "name": "DDD 5",
+      "path": "wallpapers/DDD-5.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "wallpaper9",
+      "name": "DDD 6",
+      "path": "wallpapers/DDD-6.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "wallpaper10",
+      "name": "DDD 7",
+      "path": "wallpapers/DDD-7.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "wallpaper11",
+      "name": "DDD 8",
+      "path": "wallpapers/DDD-8.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "wallpaper12",
+      "name": "DDD 9",
+      "path": "wallpapers/DDD-9.jpg",
+      "fillMode": "Fill"
+    }
+  ],
+  "window": {
+    "borderColor": "#e2909e",
+    "borderActiveColor": "#d2546a",
+    "borderInactiveColor": "#3e2531",
+    "borderSize": 2,
+    "gapsIn": 6,
+    "gapsOut": 10,
+    "rounding": 14
+  },
+  "desktop": {
+    "cursor": {
+      "name": "Bibata-Modern-Ice",
+      "archive": "desktop/archives/cursor.tar.gz",
+      "root": "Bibata-Modern-Ice"
+    },
+    "icons": {
+      "name": "Tela-circle-black",
+      "archive": "desktop/archives/icons.tar.gz",
+      "root": "Tela-circle-black"
+    },
+    "gtk": {
+      "name": "Vanta-Black",
+      "archive": "desktop/archives/gtk.tar.gz",
+      "root": "Vanta-Black"
+    }
+  },
+  "repository": "https://github.com/acarlton5/Hype-Theme-DanDaDan.git"
+}

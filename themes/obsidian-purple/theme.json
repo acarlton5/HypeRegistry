@@ -1,7 +1,7 @@
 {
   "id": "obsidianPurple",
   "name": "Obsidian-Purple",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "author": "HyDE community, converted for HypeShell",
   "description": "Where mystery meets elegance.",
   "dark": {
@@ -47,12 +47,6 @@
     "info": "#d676ce"
   },
   "wallpapers": [
-    {
-      "id": "default",
-      "name": "Default",
-      "path": "wallpapers/default.jpg",
-      "fillMode": "Fill"
-    },
     {
       "id": "theme124",
       "name": "124",
@@ -135,5 +129,22 @@
     "gapsOut": 8,
     "rounding": 14
   },
-  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/obsidian-purple"
+  "desktop": {
+    "cursor": {
+      "name": "Bibata-Modern-Classic",
+      "archive": "desktop/archives/cursor.tar.xz",
+      "root": "Bibata-Modern-Classic"
+    },
+    "icons": {
+      "name": "Tela-circle-dracula",
+      "archive": "desktop/archives/icons.tar.gz",
+      "root": "Tela-circle-dracula"
+    },
+    "gtk": {
+      "name": "Obsidian-Purple",
+      "archive": "desktop/archives/gtk.tar.gz",
+      "root": "Obsidian-Purple"
+    }
+  },
+  "repository": "https://github.com/acarlton5/Hype-Theme-Obsidian-Purple.git"
 }

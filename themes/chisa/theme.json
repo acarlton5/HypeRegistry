@@ -1,7 +1,7 @@
 {
   "id": "chisa",
   "name": "Chisa",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "author": "HyDE community, converted for HypeShell",
   "description": "HyDE theme inspired by Chisa from Wuthering Waves.",
   "dark": {
@@ -47,12 +47,6 @@
     "info": "#c3abbb"
   },
   "wallpapers": [
-    {
-      "id": "default",
-      "name": "Default",
-      "path": "wallpapers/default.jpg",
-      "fillMode": "Fill"
-    },
     {
       "id": "chisaCollabRedmagic",
       "name": "Chisa Collab Redmagic",
@@ -117,5 +111,17 @@
     "gapsOut": 8,
     "rounding": 22
   },
-  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/chisa"
+  "desktop": {
+    "icons": {
+      "name": "Tela-circle-purple",
+      "archive": "desktop/archives/icons.tar.gz",
+      "root": "Tela-circle-purple"
+    },
+    "gtk": {
+      "name": "Tokyo-Night",
+      "archive": "desktop/archives/gtk.tar.gz",
+      "root": "Tokyo-Night"
+    }
+  },
+  "repository": "https://github.com/acarlton5/Hype-Theme-Chisa.git"
 }

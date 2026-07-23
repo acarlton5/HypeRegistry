@@ -1,7 +1,7 @@
 {
   "id": "monokai",
   "name": "Monokai",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "author": "HyDE community, converted for HypeShell",
   "description": "Monokai based theme for Hyde",
   "dark": {
@@ -48,12 +48,6 @@
   },
   "wallpapers": [
     {
-      "id": "default",
-      "name": "Default",
-      "path": "wallpapers/default.png",
-      "fillMode": "Fill"
-    },
-    {
       "id": "theme506LfWz",
       "name": "506LfWz",
       "path": "wallpapers/506LfWz.png",
@@ -93,5 +87,17 @@
     "gapsOut": 8,
     "rounding": 8
   },
-  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/monokai"
+  "desktop": {
+    "icons": {
+      "name": "Monokai",
+      "archive": "desktop/archives/icons.tar.gz",
+      "root": "Monokai"
+    },
+    "gtk": {
+      "name": "Monokai",
+      "archive": "desktop/archives/gtk.tar.gz",
+      "root": "Monokai"
+    }
+  },
+  "repository": "https://github.com/acarlton5/Hype-Theme-Monokai.git"
 }

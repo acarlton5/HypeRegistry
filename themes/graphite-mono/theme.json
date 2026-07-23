@@ -1,7 +1,7 @@
 {
   "id": "graphiteMono",
   "name": "Graphite Mono",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "author": "HyDE community, converted for HypeShell",
   "description": "Official Theme",
   "dark": {
@@ -47,12 +47,6 @@
     "info": "#d3d3d3"
   },
   "wallpapers": [
-    {
-      "id": "default",
-      "name": "Default",
-      "path": "wallpapers/default.png",
-      "fillMode": "Fill"
-    },
     {
       "id": "chainsawmanSketch",
       "name": "Chainsawman Sketch",
@@ -129,5 +123,5 @@
     "gapsOut": 8,
     "rounding": 2
   },
-  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/graphite-mono"
+  "repository": "https://github.com/acarlton5/Hype-Theme-Graphite-Mono.git"
 }

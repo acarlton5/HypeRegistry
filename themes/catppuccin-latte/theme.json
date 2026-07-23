@@ -1,7 +1,7 @@
 {
   "id": "catppuccinLatte",
   "name": "Catppuccin Latte",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "author": "HyDE community, converted for HypeShell",
   "description": "Official Theme",
   "dark": {
@@ -47,12 +47,6 @@
     "info": "#d7d7dc"
   },
   "wallpapers": [
-    {
-      "id": "default",
-      "name": "Default",
-      "path": "wallpapers/default.jpg",
-      "fillMode": "Fill"
-    },
     {
       "id": "abstractBlured",
       "name": "Abstract Blured",
@@ -153,5 +147,5 @@
     "gapsOut": 8,
     "rounding": 22
   },
-  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/catppuccin-latte"
+  "repository": "https://github.com/acarlton5/Hype-Theme-Catppuccin-Latte.git"
 }

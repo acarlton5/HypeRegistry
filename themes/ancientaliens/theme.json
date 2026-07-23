@@ -1,7 +1,7 @@
 {
   "id": "ancientaliens",
   "name": "AncientAliens",
-  "version": "0.1.8",
+  "version": "1.0.0",
   "author": "HyDE community, converted for HypeShell",
   "description": "A futuristic alien-like theme. Designed to invoke the feelings of watching the History channel at three in the morning.",
   "dark": {
@@ -48,12 +48,6 @@
   },
   "wallpapers": [
     {
-      "id": "default",
-      "name": "Default",
-      "path": "wallpapers/default.jpg",
-      "fillMode": "Fill"
-    },
-    {
       "id": "theme341904",
       "name": "341904",
       "path": "wallpapers/341904.jpg",
@@ -72,15 +66,15 @@
       "fillMode": "Fill"
     },
     {
-      "id": "wallpaperflareComWallpaper1",
-      "name": "Wallpaperflare Com Wallpaper 1",
-      "path": "wallpapers/wallpaperflare.com_wallpaper(1).jpg",
-      "fillMode": "Fill"
-    },
-    {
       "id": "wallpaperflareComWallpaper",
       "name": "Wallpaperflare Com Wallpaper",
       "path": "wallpapers/wallpaperflare.com_wallpaper.jpg",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "wallpaperflareComWallpaper1",
+      "name": "Wallpaperflare Com Wallpaper 1",
+      "path": "wallpapers/wallpaperflare.com_wallpaper(1).jpg",
       "fillMode": "Fill"
     }
   ],
@@ -93,5 +87,22 @@
     "gapsOut": 8,
     "rounding": 14
   },
-  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/ancientaliens"
+  "desktop": {
+    "cursor": {
+      "name": "AncientFuturism",
+      "archive": "desktop/archives/cursor.tar.gz",
+      "root": "AncientFuturism"
+    },
+    "icons": {
+      "name": "Black-BigSur",
+      "archive": "desktop/archives/icons.tar.gz",
+      "root": "Black-BigSur"
+    },
+    "gtk": {
+      "name": "Otis",
+      "archive": "desktop/archives/gtk.tar.gz",
+      "root": "Otis"
+    }
+  },
+  "repository": "https://github.com/acarlton5/Hype-Theme-AncientAliens.git"
 }

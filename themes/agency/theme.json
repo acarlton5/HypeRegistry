@@ -1,0 +1,95 @@
+{
+  "id": "agency",
+  "name": "Agency",
+  "version": "1.0.0",
+  "author": "CapGuizera; converted for HypeShell by acarlton5",
+  "description": "NSA-inspired surveillance theme with dark navy and official accents.",
+  "dark": {
+    "primary": "#3B82F6",
+    "primaryText": "#03070c",
+    "primaryContainer": "#1d3f77",
+    "secondary": "#6aa0f8",
+    "surface": "#181c22",
+    "surfaceText": "#c8dcfc",
+    "surfaceVariant": "#0d1d36",
+    "surfaceVariantText": "#99befa",
+    "surfaceTint": "#3B82F6",
+    "background": "#04080F",
+    "backgroundText": "#d4e4fd",
+    "outline": "#80aef9",
+    "surfaceContainer": "#11141b",
+    "surfaceContainerHigh": "#1b1e25",
+    "surfaceContainerHighest": "#272b31",
+    "error": "#ffb4ab",
+    "warning": "#ffcc80",
+    "info": "#5e99f8"
+  },
+  "light": {
+    "primary": "#3370d4",
+    "primaryText": "#ffffff",
+    "primaryContainer": "#c0d7fc",
+    "secondary": "#2857a5",
+    "surface": "#f0f1f1",
+    "surfaceText": "#03070c",
+    "surfaceVariant": "#dce9fd",
+    "surfaceVariantText": "#3b3e44",
+    "surfaceTint": "#3370d4",
+    "background": "#e8e9e9",
+    "backgroundText": "#03070c",
+    "outline": "#7c7f82",
+    "surfaceContainer": "#dadcdc",
+    "surfaceContainerHigh": "#cfd0d1",
+    "surfaceContainerHighest": "#c1c3c4",
+    "error": "#ba1a1a",
+    "warning": "#8a5a00",
+    "info": "#3370d4"
+  },
+  "wallpapers": [
+    {
+      "id": "default",
+      "name": "01 NSA Seal",
+      "path": "wallpapers/01_NSA_Seal.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "wallpaper2",
+      "name": "02 NSA Black",
+      "path": "wallpapers/02_NSA_Black.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "wallpaper3",
+      "name": "03 NSA Map",
+      "path": "wallpapers/03_NSA_Map.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "wallpaper4",
+      "name": "04 NSA Restricted",
+      "path": "wallpapers/04_NSA_Restricted.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "wallpaper5",
+      "name": "05 NSA Fluid",
+      "path": "wallpapers/05_NSA_Fluid.png",
+      "fillMode": "Fill"
+    },
+    {
+      "id": "wallpaper6",
+      "name": "06 NSA Flag",
+      "path": "wallpapers/06_NSA_Flag.png",
+      "fillMode": "Fill"
+    }
+  ],
+  "window": {
+    "borderColor": "#80aef9",
+    "borderActiveColor": "#3B82F6",
+    "borderInactiveColor": "#0d1d36",
+    "borderSize": 2,
+    "gapsIn": 6,
+    "gapsOut": 10,
+    "rounding": 14
+  },
+  "repository": "https://github.com/acarlton5/Hype-Theme-Agency.git"
+}

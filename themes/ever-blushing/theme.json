@@ -1,7 +1,7 @@
 {
   "id": "everBlushing",
   "name": "Ever Blushing",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "author": "HyDE community, converted for HypeShell",
   "description": "Ever-Blush inspired dark aesthetic minimal theme",
   "dark": {
@@ -47,12 +47,6 @@
     "info": "#8cc2c2"
   },
   "wallpapers": [
-    {
-      "id": "default",
-      "name": "Default",
-      "path": "wallpapers/default.png",
-      "fillMode": "Fill"
-    },
     {
       "id": "beProductive4K",
       "name": "Be Productive 4K",
@@ -171,5 +165,17 @@
     "gapsOut": 8,
     "rounding": 22
   },
-  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/ever-blushing"
+  "desktop": {
+    "icons": {
+      "name": "Papirus-Everblush",
+      "archive": "desktop/archives/icons.tar.xz",
+      "root": "Papirus-Everblush"
+    },
+    "gtk": {
+      "name": "Ever-Blush",
+      "archive": "desktop/archives/gtk.tar.xz",
+      "root": "Ever-Blush"
+    }
+  },
+  "repository": "https://github.com/acarlton5/Hype-Theme-Ever-Blushing.git"
 }

@@ -1,7 +1,7 @@
 {
   "id": "codeGarden",
   "name": "Code Garden",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "author": "HyDE community, converted for HypeShell",
   "description": "A sleek and transparent, color-agnostic theme.",
   "dark": {
@@ -47,12 +47,6 @@
     "info": "#8ba2ba"
   },
   "wallpapers": [
-    {
-      "id": "default",
-      "name": "Default",
-      "path": "wallpapers/default.png",
-      "fillMode": "Fill"
-    },
     {
       "id": "art",
       "name": "Art",
@@ -285,5 +279,22 @@
     "gapsOut": 8,
     "rounding": 20
   },
-  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/code-garden"
+  "desktop": {
+    "cursor": {
+      "name": "Sweet-cursors",
+      "archive": "desktop/archives/cursor.tar.xz",
+      "root": "Sweet-cursors"
+    },
+    "icons": {
+      "name": "Vivid-Glassy-Dark-Icons",
+      "archive": "desktop/archives/icons.tar.gz",
+      "root": "Vivid-Glassy-Dark-Icons"
+    },
+    "gtk": {
+      "name": "Kripton",
+      "archive": "desktop/archives/gtk.tar.gz",
+      "root": "Kripton"
+    }
+  },
+  "repository": "https://github.com/acarlton5/Hype-Theme-Code-Garden.git"
 }

@@ -1,0 +1,65 @@
+{
+  "id": "mi6",
+  "name": "MI6",
+  "version": "1.0.0",
+  "author": "CapGuizera; converted for HypeShell by acarlton5",
+  "description": "MI6 variant of the Agency collection with dark teal and cyan accents.",
+  "dark": {
+    "primary": "#2DC9DC",
+    "primaryText": "#030d0e",
+    "primaryContainer": "#16636c",
+    "secondary": "#5fd6e4",
+    "surface": "#182324",
+    "surfaceText": "#c4f0f5",
+    "surfaceVariant": "#0b2f34",
+    "surfaceVariantText": "#92e3ed",
+    "surfaceTint": "#2DC9DC",
+    "background": "#041011",
+    "backgroundText": "#d1f3f7",
+    "outline": "#77dce8",
+    "surfaceContainer": "#111c1d",
+    "surfaceContainerHigh": "#1b2626",
+    "surfaceContainerHighest": "#273132",
+    "error": "#ffb4ab",
+    "warning": "#ffcc80",
+    "info": "#53d3e2"
+  },
+  "light": {
+    "primary": "#27adbd",
+    "primaryText": "#ffffff",
+    "primaryContainer": "#bceef4",
+    "secondary": "#1f8895",
+    "surface": "#f0f1f1",
+    "surfaceText": "#030d0e",
+    "surfaceVariant": "#d9f5f9",
+    "surfaceVariantText": "#3b4545",
+    "surfaceTint": "#27adbd",
+    "background": "#e8e9ea",
+    "backgroundText": "#030d0e",
+    "outline": "#7c8383",
+    "surfaceContainer": "#dadcdd",
+    "surfaceContainerHigh": "#cfd1d2",
+    "surfaceContainerHighest": "#c1c4c5",
+    "error": "#ba1a1a",
+    "warning": "#8a5a00",
+    "info": "#27adbd"
+  },
+  "wallpapers": [
+    {
+      "id": "default",
+      "name": "01 MI6",
+      "path": "wallpapers/01_MI6.png",
+      "fillMode": "Fill"
+    }
+  ],
+  "window": {
+    "borderColor": "#77dce8",
+    "borderActiveColor": "#2DC9DC",
+    "borderInactiveColor": "#0b2f34",
+    "borderSize": 2,
+    "gapsIn": 6,
+    "gapsOut": 10,
+    "rounding": 14
+  },
+  "repository": "https://github.com/acarlton5/Hype-Theme-MI6.git"
+}

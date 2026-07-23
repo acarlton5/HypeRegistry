@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360">
+  <rect width="640" height="360" rx="24" fill="#041011"/>
+  <rect x="24" y="24" width="592" height="54" rx="16" fill="#111c1d"/>
+  <circle cx="54" cy="51" r="12" fill="#2DC9DC"/>
+  <rect x="82" y="42" width="176" height="18" rx="9" fill="#92e3ed"/>
+  <rect x="24" y="102" width="188" height="234" rx="20" fill="#111c1d"/>
+  <rect x="236" y="102" width="380" height="112" rx="20" fill="#1b2626"/>
+  <rect x="236" y="238" width="380" height="98" rx="20" fill="#16636c"/>
+  <text x="426" y="296" text-anchor="middle" font-family="sans-serif" font-size="26" font-weight="700" fill="#d1f3f7">MI6</text>
+</svg>

@@ -1,7 +1,7 @@
 {
   "id": "materialSakura",
   "name": "Material Sakura",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "author": "HyDE community, converted for HypeShell",
   "description": "Official Theme",
   "dark": {
@@ -47,12 +47,6 @@
     "info": "#80a6ad"
   },
   "wallpapers": [
-    {
-      "id": "default",
-      "name": "Default",
-      "path": "wallpapers/default.jpg",
-      "fillMode": "Fill"
-    },
     {
       "id": "materialPastel1",
       "name": "Material Pastel 1",
@@ -111,5 +105,5 @@
     "gapsOut": 8,
     "rounding": 22
   },
-  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/material-sakura"
+  "repository": "https://github.com/acarlton5/Hype-Theme-Material-Sakura.git"
 }

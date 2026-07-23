@@ -1,7 +1,7 @@
 {
   "id": "hackTheBox",
   "name": "Hack the Box",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "author": "HyDE community, converted for HypeShell",
   "description": "Hacker based theme",
   "dark": {
@@ -48,12 +48,6 @@
   },
   "wallpapers": [
     {
-      "id": "default",
-      "name": "Default",
-      "path": "wallpapers/default.jpg",
-      "fillMode": "Fill"
-    },
-    {
       "id": "hacker1",
       "name": "Hacker1",
       "path": "wallpapers/Hacker1.jpg",
@@ -93,5 +87,5 @@
     "gapsOut": 8,
     "rounding": 8
   },
-  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/hack-the-box"
+  "repository": "https://github.com/acarlton5/Hype-Theme-Hack-the-Box.git"
 }

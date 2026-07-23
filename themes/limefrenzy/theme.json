@@ -1,9 +1,9 @@
 {
   "id": "limefrenzy",
   "name": "LimeFrenzy",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "author": "HyDE community, converted for HypeShell",
-  "description": "Lime\u2019s rhythm splits the night, where chaos crafts the vibe.",
+  "description": "Lime’s rhythm splits the night, where chaos crafts the vibe.",
   "dark": {
     "name": "LimeFrenzy Dark",
     "primary": "#7fb11b",
@@ -47,12 +47,6 @@
     "info": "#80b481"
   },
   "wallpapers": [
-    {
-      "id": "default",
-      "name": "Default",
-      "path": "wallpapers/default.png",
-      "fillMode": "Fill"
-    },
     {
       "id": "theme00",
       "name": "00",
@@ -159,5 +153,22 @@
     "gapsOut": 8,
     "rounding": 20
   },
-  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/limefrenzy"
+  "desktop": {
+    "cursor": {
+      "name": "LimeCursor",
+      "archive": "desktop/archives/cursor.tar.gz",
+      "root": "LimeCursor"
+    },
+    "icons": {
+      "name": "Tela-circle-green",
+      "archive": "desktop/archives/icons.tar.gz",
+      "root": "Tela-circle-green"
+    },
+    "gtk": {
+      "name": "LimeGTK",
+      "archive": "desktop/archives/gtk.tar.gz",
+      "root": "LimeGTK"
+    }
+  },
+  "repository": "https://github.com/acarlton5/Hype-Theme-LimeFrenzy.git"
 }

@@ -1,7 +1,7 @@
 {
   "id": "cosmicBlue",
   "name": "Cosmic Blue",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "author": "HyDE community, converted for HypeShell",
   "description": "Out there, somewhere in our galaxy...",
   "dark": {
@@ -48,12 +48,6 @@
   },
   "wallpapers": [
     {
-      "id": "default",
-      "name": "Default",
-      "path": "wallpapers/default.png",
-      "fillMode": "Fill"
-    },
-    {
       "id": "a",
       "name": "A",
       "path": "wallpapers/A.png",
@@ -81,5 +75,17 @@
     "gapsOut": 8,
     "rounding": 14
   },
-  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/cosmic-blue"
+  "desktop": {
+    "icons": {
+      "name": "Kde-Dark",
+      "archive": "desktop/archives/icons.tar.gz",
+      "root": "Kde-Dark"
+    },
+    "gtk": {
+      "name": "Fluent-Round",
+      "archive": "desktop/archives/gtk.tar.gz",
+      "root": "Fluent-Round"
+    }
+  },
+  "repository": "https://github.com/acarlton5/Hype-Theme-Cosmic-Blue.git"
 }

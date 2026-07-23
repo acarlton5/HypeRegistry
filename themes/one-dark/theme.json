@@ -1,7 +1,7 @@
 {
   "id": "oneDark",
   "name": "One Dark",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "author": "HyDE community, converted for HypeShell",
   "description": "One Dark based theme",
   "dark": {
@@ -47,12 +47,6 @@
     "info": "#838b92"
   },
   "wallpapers": [
-    {
-      "id": "default",
-      "name": "Default",
-      "path": "wallpapers/default.jpg",
-      "fillMode": "Fill"
-    },
     {
       "id": "autumn",
       "name": "Autumn",
@@ -153,5 +147,22 @@
     "gapsOut": 8,
     "rounding": 8
   },
-  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/one-dark"
+  "desktop": {
+    "cursor": {
+      "name": "onedark-cursor",
+      "archive": "desktop/archives/cursor.tar.gz",
+      "root": "onedark-cursor"
+    },
+    "icons": {
+      "name": "One-Dark",
+      "archive": "desktop/archives/icons.tar.gz",
+      "root": "One-Dark"
+    },
+    "gtk": {
+      "name": "One-Dark",
+      "archive": "desktop/archives/gtk.tar.xz",
+      "root": "One-Dark"
+    }
+  },
+  "repository": "https://github.com/acarlton5/Hype-Theme-One-Dark.git"
 }

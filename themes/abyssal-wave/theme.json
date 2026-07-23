@@ -1,7 +1,7 @@
 {
   "id": "abyssalWave",
   "name": "Abyssal-Wave",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "author": "HyDE community, converted for HypeShell",
   "description": "Dive into the deep, where elegance meets the infinite night.",
   "dark": {
@@ -47,12 +47,6 @@
     "info": "#64808f"
   },
   "wallpapers": [
-    {
-      "id": "default",
-      "name": "Default",
-      "path": "wallpapers/default.png",
-      "fillMode": "Fill"
-    },
     {
       "id": "bg1",
       "name": "Bg 1",
@@ -159,5 +153,17 @@
     "gapsOut": 8,
     "rounding": 16
   },
-  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/abyssal-wave"
+  "desktop": {
+    "icons": {
+      "name": "Papirus-kanagawa",
+      "archive": "desktop/archives/icons.tar.xz",
+      "root": "Papirus-kanagawa"
+    },
+    "gtk": {
+      "name": "Abyssal-Wave",
+      "archive": "desktop/archives/gtk.tar.xz",
+      "root": "Abyssal-Wave"
+    }
+  },
+  "repository": "https://github.com/acarlton5/Hype-Theme-Abyssal-Wave.git"
 }

@@ -55,7 +55,7 @@ Control connected devices through KDE Connect or Valent: view battery status, se
 - author: Avenge Media
 - compositors: hyprland
 - capabilities: hypebar-widget
-- dependencies: kdeconnect
+- dependencies: KDE Connect or Valent, sshfs or GVfs
 - distro: any
 
 
@@ -107,7 +107,7 @@ Private on-device speech-to-text with a floating listening and processing orb th
 Monochrome based theme
 
 - **Author:** HyDE community, converted for HypeShell
-- **ID:** `theme1Bit` **Version:** `0.1.2`
+- **ID:** `theme1Bit` **Version:** `1.0.0`
 
 ![1-Bit](themes/1-bit/preview.svg)
 
@@ -118,7 +118,7 @@ Monochrome based theme
 AbyssGreen is a theme based on the Everforst color scheme
 
 - **Author:** HyDE community, converted for HypeShell
-- **ID:** `abyssgreen` **Version:** `0.1.3`
+- **ID:** `abyssgreen` **Version:** `1.0.0`
 
 ![AbyssGreen](themes/abyssgreen/preview.svg)
 
@@ -129,9 +129,20 @@ AbyssGreen is a theme based on the Everforst color scheme
 Dive into the deep, where elegance meets the infinite night.
 
 - **Author:** HyDE community, converted for HypeShell
-- **ID:** `abyssalWave` **Version:** `0.1.2`
+- **ID:** `abyssalWave` **Version:** `1.0.0`
 
 ![Abyssal-Wave](themes/abyssal-wave/preview.svg)
+
+
+
+### Agency
+
+NSA-inspired surveillance theme with dark navy and official accents.
+
+- **Author:** CapGuizera; converted for HypeShell by acarlton5
+- **ID:** `agency` **Version:** `1.0.0`
+
+![Agency](themes/agency/preview.svg)
 
 
 
@@ -140,7 +151,7 @@ Dive into the deep, where elegance meets the infinite night.
 A vibrant purple-themed style with ethereal accents
 
 - **Author:** HyDE community, converted for HypeShell
-- **ID:** `amethystAura` **Version:** `0.1.2`
+- **ID:** `amethystAura` **Version:** `1.0.0`
 
 ![Amethyst-Aura](themes/amethyst-aura/preview.svg)
 
@@ -151,7 +162,7 @@ A vibrant purple-themed style with ethereal accents
 A futuristic alien-like theme. Designed to invoke the feelings of watching the History channel at three in the morning.
 
 - **Author:** HyDE community, converted for HypeShell
-- **ID:** `ancientaliens` **Version:** `0.1.8`
+- **ID:** `ancientaliens` **Version:** `1.0.0`
 
 ![AncientAliens](themes/ancientaliens/preview.svg)
 
@@ -162,7 +173,7 @@ A futuristic alien-like theme. Designed to invoke the feelings of watching the H
 Step beyond the horizon, where reality fades and imagination reigns supreme.
 
 - **Author:** HyDE community, converted for HypeShell
-- **ID:** `anotherWorld` **Version:** `0.1.2`
+- **ID:** `anotherWorld` **Version:** `1.0.0`
 
 ![Another World](themes/another-world/preview.svg)
 
@@ -173,7 +184,7 @@ Step beyond the horizon, where reality fades and imagination reigns supreme.
 Red & Black based theme.
 
 - **Author:** HyDE community, converted for HypeShell
-- **ID:** `badBlood` **Version:** `0.1.2`
+- **ID:** `badBlood` **Version:** `1.0.0`
 
 ![Bad Blood](themes/bad-blood/preview.svg)
 
@@ -184,7 +195,7 @@ Red & Black based theme.
 A serene theme inspired by bright cloudy skies
 
 - **Author:** HyDE community, converted for HypeShell
-- **ID:** `bluesky` **Version:** `0.1.2`
+- **ID:** `bluesky` **Version:** `1.0.0`
 
 ![BlueSky](themes/bluesky/preview.svg)
 
@@ -195,9 +206,20 @@ A serene theme inspired by bright cloudy skies
 Autumn, what a cozy time...
 
 - **Author:** HyDE community, converted for HypeShell
-- **ID:** `breezyAutumn` **Version:** `0.1.2`
+- **ID:** `breezyAutumn` **Version:** `1.0.0`
 
 ![Breezy Autumn](themes/breezy-autumn/preview.svg)
+
+
+
+### CIA
+
+CIA variant of the Agency collection with dark navy and agency styling.
+
+- **Author:** CapGuizera; converted for HypeShell by acarlton5
+- **ID:** `cia` **Version:** `1.0.0`
+
+![CIA](themes/cia/preview.svg)
 
 
 
@@ -206,7 +228,7 @@ Autumn, what a cozy time...
 Better Catppuccin-Latte that fixes the inconsistencies of the official theme
 
 - **Author:** HyDE community, converted for HypeShell
-- **ID:** `catLatte` **Version:** `0.1.2`
+- **ID:** `catLatte` **Version:** `1.0.0`
 
 ![Cat Latte](themes/cat-latte/preview.svg)
 
@@ -217,7 +239,7 @@ Better Catppuccin-Latte that fixes the inconsistencies of the official theme
 Official Theme
 
 - **Author:** HyDE community, converted for HypeShell
-- **ID:** `catppuccinLatte` **Version:** `0.1.2`
+- **ID:** `catppuccinLatte` **Version:** `1.0.0`
 
 ![Catppuccin Latte](themes/catppuccin-latte/preview.svg)
 
@@ -228,7 +250,7 @@ Official Theme
 Official Theme
 
 - **Author:** HyDE community, converted for HypeShell
-- **ID:** `catppuccinMocha` **Version:** `0.1.2`
+- **ID:** `catppuccinMocha` **Version:** `1.0.0`
 
 ![Catppuccin Mocha](themes/catppuccin-mocha/preview.svg)
 
@@ -239,7 +261,7 @@ Official Theme
 Catppuccin Macchiato with Mauve Accent
 
 - **Author:** HyDE community, converted for HypeShell
-- **ID:** `catppuccinMacchiato` **Version:** `0.1.2`
+- **ID:** `catppuccinMacchiato` **Version:** `1.0.0`
 
 ![Catppuccin-Macchiato](themes/catppuccin-macchiato/preview.svg)
 
@@ -250,7 +272,7 @@ Catppuccin Macchiato with Mauve Accent
 HyDE theme inspired by Chisa from Wuthering Waves.
 
 - **Author:** HyDE community, converted for HypeShell
-- **ID:** `chisa` **Version:** `0.1.2`
+- **ID:** `chisa` **Version:** `1.0.0`
 
 ![Chisa](themes/chisa/preview.svg)
 
@@ -261,7 +283,7 @@ HyDE theme inspired by Chisa from Wuthering Waves.
 A sleek and transparent, color-agnostic theme.
 
 - **Author:** HyDE community, converted for HypeShell
-- **ID:** `codeGarden` **Version:** `0.1.2`
+- **ID:** `codeGarden` **Version:** `1.0.0`
 
 ![Code Garden](themes/code-garden/preview.svg)
 
@@ -272,7 +294,7 @@ A sleek and transparent, color-agnostic theme.
 Out there, somewhere in our galaxy...
 
 - **Author:** HyDE community, converted for HypeShell
-- **ID:** `cosmicBlue` **Version:** `0.1.2`
+- **ID:** `cosmicBlue` **Version:** `1.0.0`
 
 ![Cosmic Blue](themes/cosmic-blue/preview.svg)
 
@@ -283,7 +305,7 @@ Out there, somewhere in our galaxy...
 A striking fusion of sharp elegance, cutting through the darkness with bold hues.
 
 - **Author:** HyDE community, converted for HypeShell
-- **ID:** `crimsonBlade` **Version:** `0.1.2`
+- **ID:** `crimsonBlade` **Version:** `1.0.0`
 
 ![Crimson Blade](themes/crimson-blade/preview.svg)
 
@@ -294,9 +316,20 @@ A striking fusion of sharp elegance, cutting through the darkness with bold hues
 Red with Blue vibes
 
 - **Author:** HyDE community, converted for HypeShell
-- **ID:** `crimsonBlue` **Version:** `0.1.2`
+- **ID:** `crimsonBlue` **Version:** `1.0.0`
 
 ![Crimson-Blue](themes/crimson-blue/preview.svg)
+
+
+
+### DanDaDan
+
+HypeShell theme inspired by the anime DanDaDan.
+
+- **Author:** aasaaDev; converted for HypeShell by acarlton5
+- **ID:** `danDaDan` **Version:** `1.0.0`
+
+![DanDaDan](themes/dandadan/preview.svg)
 
 
 
@@ -305,7 +338,7 @@ Red with Blue vibes
 Official Theme
 
 - **Author:** HyDE community, converted for HypeShell
-- **ID:** `decayGreen` **Version:** `0.1.2`
+- **ID:** `decayGreen` **Version:** `1.0.0`
 
 ![Decay Green](themes/decay-green/preview.svg)
 
@@ -316,7 +349,7 @@ Official Theme
 When shadows catch fire, sharp edges leave their mark.
 
 - **Author:** HyDE community, converted for HypeShell
-- **ID:** `doombringers` **Version:** `0.1.2`
+- **ID:** `doombringers` **Version:** `1.0.0`
 
 ![DoomBringers](themes/doombringers/preview.svg)
 
@@ -327,7 +360,7 @@ When shadows catch fire, sharp edges leave their mark.
 Dracula based theme
 
 - **Author:** HyDE community, converted for HypeShell
-- **ID:** `dracula` **Version:** `0.1.2`
+- **ID:** `dracula` **Version:** `1.0.0`
 
 ![Dracula](themes/dracula/preview.svg)
 
@@ -338,7 +371,7 @@ Dracula based theme
 Official Theme
 
 - **Author:** HyDE community, converted for HypeShell
-- **ID:** `edgeRunner` **Version:** `0.1.2`
+- **ID:** `edgeRunner` **Version:** `1.0.0`
 
 ![Edge Runner](themes/edge-runner/preview.svg)
 
@@ -349,7 +382,7 @@ Official Theme
 Where darkness meets brilliance
 
 - **Author:** HyDE community, converted for HypeShell
-- **ID:** `electra` **Version:** `0.1.2`
+- **ID:** `electra` **Version:** `1.0.0`
 
 ![Electra](themes/electra/preview.svg)
 
@@ -360,7 +393,7 @@ Where darkness meets brilliance
 Serene Nord-inspired theme having frosty aesthetic blues
 
 - **Author:** HyDE community, converted for HypeShell
-- **ID:** `eternalArctic` **Version:** `0.1.2`
+- **ID:** `eternalArctic` **Version:** `1.0.0`
 
 ![Eternal Arctic](themes/eternal-arctic/preview.svg)
 
@@ -371,9 +404,20 @@ Serene Nord-inspired theme having frosty aesthetic blues
 Ever-Blush inspired dark aesthetic minimal theme
 
 - **Author:** HyDE community, converted for HypeShell
-- **ID:** `everBlushing` **Version:** `0.1.2`
+- **ID:** `everBlushing` **Version:** `1.0.0`
 
 ![Ever Blushing](themes/ever-blushing/preview.svg)
+
+
+
+### FBI
+
+FBI variant of the Agency collection with dark navy and bureau styling.
+
+- **Author:** CapGuizera; converted for HypeShell by acarlton5
+- **ID:** `fbi` **Version:** `1.0.0`
+
+![FBI](themes/fbi/preview.svg)
 
 
 
@@ -382,7 +426,7 @@ Ever-Blush inspired dark aesthetic minimal theme
 Official Theme
 
 - **Author:** HyDE community, converted for HypeShell
-- **ID:** `frostedGlass` **Version:** `0.1.2`
+- **ID:** `frostedGlass` **Version:** `1.0.0`
 
 ![Frosted Glass](themes/frosted-glass/preview.svg)
 
@@ -393,7 +437,7 @@ Official Theme
 Official Theme
 
 - **Author:** HyDE community, converted for HypeShell
-- **ID:** `graphiteMono` **Version:** `0.1.2`
+- **ID:** `graphiteMono` **Version:** `1.0.0`
 
 ![Graphite Mono](themes/graphite-mono/preview.svg)
 
@@ -404,7 +448,7 @@ Official Theme
 A ghibli based theme for Hyde
 
 - **Author:** HyDE community, converted for HypeShell
-- **ID:** `greenLush` **Version:** `0.1.2`
+- **ID:** `greenLush` **Version:** `1.0.0`
 
 ![Green Lush](themes/green-lush/preview.svg)
 
@@ -415,7 +459,7 @@ A ghibli based theme for Hyde
 Dark Green based theme for Hyde
 
 - **Author:** HyDE community, converted for HypeShell
-- **ID:** `greenify` **Version:** `0.1.2`
+- **ID:** `greenify` **Version:** `1.0.0`
 
 ![Greenify](themes/greenify/preview.svg)
 
@@ -426,7 +470,7 @@ Dark Green based theme for Hyde
 Where retro warmth meets modern edge
 
 - **Author:** HyDE community, converted for HypeShell
-- **ID:** `grukai` **Version:** `0.1.2`
+- **ID:** `grukai` **Version:** `1.0.0`
 
 ![Grukai](themes/grukai/preview.svg)
 
@@ -437,7 +481,7 @@ Where retro warmth meets modern edge
 Official Theme
 
 - **Author:** HyDE community, converted for HypeShell
-- **ID:** `gruvboxRetro` **Version:** `0.1.2`
+- **ID:** `gruvboxRetro` **Version:** `1.0.0`
 
 ![Gruvbox Retro](themes/gruvbox-retro/preview.svg)
 
@@ -448,7 +492,7 @@ Official Theme
 Hacker based theme
 
 - **Author:** HyDE community, converted for HypeShell
-- **ID:** `hackTheBox` **Version:** `0.1.2`
+- **ID:** `hackTheBox` **Version:** `1.0.0`
 
 ![Hack the Box](themes/hack-the-box/preview.svg)
 
@@ -459,7 +503,7 @@ Hacker based theme
 Winter based Ice Age theme for Hyde
 
 - **Author:** HyDE community, converted for HypeShell
-- **ID:** `iceAge` **Version:** `0.1.2`
+- **ID:** `iceAge` **Version:** `1.0.0`
 
 ![Ice Age](themes/ice-age/preview.svg)
 
@@ -470,7 +514,7 @@ Winter based Ice Age theme for Hyde
 Its for you Izumi.
 
 - **Author:** HyDE community, converted for HypeShell
-- **ID:** `joker` **Version:** `0.1.2`
+- **ID:** `joker` **Version:** `1.0.0`
 
 ![Joker](themes/joker/preview.svg)
 
@@ -481,18 +525,29 @@ Its for you Izumi.
 Lime’s rhythm splits the night, where chaos crafts the vibe.
 
 - **Author:** HyDE community, converted for HypeShell
-- **ID:** `limefrenzy` **Version:** `0.1.2`
+- **ID:** `limefrenzy` **Version:** `1.0.0`
 
 ![LimeFrenzy](themes/limefrenzy/preview.svg)
 
 
 
+### MI6
+
+MI6 variant of the Agency collection with dark teal and cyan accents.
+
+- **Author:** CapGuizera; converted for HypeShell by acarlton5
+- **ID:** `mi6` **Version:** `1.0.0`
+
+![MI6](themes/mi6/preview.svg)
+
+
+
 ### Mac OS
 
-Official Theme
+macOS-inspired HypeShell theme converted from the original HyDE theme.
 
-- **Author:** HyDE community, converted for HypeShell
-- **ID:** `macOs` **Version:** `0.1.2`
+- **Author:** T-Crypt; converted for HypeShell by acarlton5
+- **ID:** `macOs` **Version:** `1.0.0`
 
 ![Mac OS](themes/mac-os/preview.svg)
 
@@ -503,7 +558,7 @@ Official Theme
 Official Theme
 
 - **Author:** HyDE community, converted for HypeShell
-- **ID:** `materialSakura` **Version:** `0.1.2`
+- **ID:** `materialSakura` **Version:** `1.0.0`
 
 ![Material Sakura](themes/material-sakura/preview.svg)
 
@@ -514,7 +569,7 @@ Official Theme
 Monokai based theme for Hyde
 
 - **Author:** HyDE community, converted for HypeShell
-- **ID:** `monokai` **Version:** `0.1.2`
+- **ID:** `monokai` **Version:** `1.0.0`
 
 ![Monokai](themes/monokai/preview.svg)
 
@@ -525,7 +580,7 @@ Monokai based theme for Hyde
 Mac-OS inspired dark theme
 
 - **Author:** HyDE community, converted for HypeShell
-- **ID:** `montereyFrost` **Version:** `0.1.2`
+- **ID:** `montereyFrost` **Version:** `1.0.0`
 
 ![Monterey Frost](themes/monterey-frost/preview.svg)
 
@@ -536,7 +591,7 @@ Mac-OS inspired dark theme
 Gentle, soft moonlight lingers on my face...
 
 - **Author:** HyDE community, converted for HypeShell
-- **ID:** `moonlight` **Version:** `0.1.2`
+- **ID:** `moonlight` **Version:** `1.0.0`
 
 ![Moonlight](themes/moonlight/preview.svg)
 
@@ -547,7 +602,7 @@ Gentle, soft moonlight lingers on my face...
 Green dominant Nier Inspired Theme.
 
 - **Author:** HyDE community, converted for HypeShell
-- **ID:** `nier` **Version:** `0.1.2`
+- **ID:** `nier` **Version:** `1.0.0`
 
 ![Nier](themes/nier/preview.svg)
 
@@ -558,7 +613,7 @@ Green dominant Nier Inspired Theme.
 A rich, dark theme crafted for late-night productivity and sleek aesthetics.
 
 - **Author:** HyDE community, converted for HypeShell
-- **ID:** `nightbrew` **Version:** `0.1.2`
+- **ID:** `nightbrew` **Version:** `1.0.0`
 
 ![Nightbrew](themes/nightbrew/preview.svg)
 
@@ -569,7 +624,7 @@ A rich, dark theme crafted for late-night productivity and sleek aesthetics.
 Official Theme
 
 - **Author:** HyDE community, converted for HypeShell
-- **ID:** `nordicBlue` **Version:** `0.1.2`
+- **ID:** `nordicBlue` **Version:** `1.0.0`
 
 ![Nordic Blue](themes/nordic-blue/preview.svg)
 
@@ -580,7 +635,7 @@ Official Theme
 Where mystery meets elegance.
 
 - **Author:** HyDE community, converted for HypeShell
-- **ID:** `obsidianPurple` **Version:** `0.1.2`
+- **ID:** `obsidianPurple` **Version:** `1.0.0`
 
 ![Obsidian-Purple](themes/obsidian-purple/preview.svg)
 
@@ -591,7 +646,7 @@ Where mystery meets elegance.
 One Dark based theme
 
 - **Author:** HyDE community, converted for HypeShell
-- **ID:** `oneDark` **Version:** `0.1.2`
+- **ID:** `oneDark` **Version:** `1.0.0`
 
 ![One Dark](themes/one-dark/preview.svg)
 
@@ -602,7 +657,7 @@ One Dark based theme
 HyDE theme inspired by Oregairu
 
 - **Author:** HyDE community, converted for HypeShell
-- **ID:** `oregairu` **Version:** `0.1.2`
+- **ID:** `oregairu` **Version:** `1.0.0`
 
 ![Oregairu](themes/oregairu/preview.svg)
 
@@ -613,7 +668,7 @@ HyDE theme inspired by Oregairu
 Oxo Carbon based theme for Hyde
 
 - **Author:** HyDE community, converted for HypeShell
-- **ID:** `oxoCarbon` **Version:** `0.1.2`
+- **ID:** `oxoCarbon` **Version:** `1.0.0`
 
 ![Oxo Carbon](themes/oxo-carbon/preview.svg)
 
@@ -624,7 +679,7 @@ Oxo Carbon based theme for Hyde
 Dark purple based theme for HyDE
 
 - **Author:** HyDE community, converted for HypeShell
-- **ID:** `paranoidSweet` **Version:** `0.1.2`
+- **ID:** `paranoidSweet` **Version:** `1.0.0`
 
 ![Paranoid Sweet](themes/paranoid-sweet/preview.svg)
 
@@ -635,7 +690,7 @@ Dark purple based theme for HyDE
 Finally, some peace of mind...
 
 - **Author:** HyDE community, converted for HypeShell
-- **ID:** `peaceOfMind` **Version:** `0.1.2`
+- **ID:** `peaceOfMind` **Version:** `1.0.0`
 
 ![Peace Of Mind](themes/peace-of-mind/preview.svg)
 
@@ -646,7 +701,7 @@ Finally, some peace of mind...
 Pixel Art inspired theme
 
 - **Author:** HyDE community, converted for HypeShell
-- **ID:** `pixelDream` **Version:** `0.1.2`
+- **ID:** `pixelDream` **Version:** `1.0.0`
 
 ![Pixel Dream](themes/pixel-dream/preview.svg)
 
@@ -657,7 +712,7 @@ Pixel Art inspired theme
 Cozy new Rain based theme for HyDE
 
 - **Author:** HyDE community, converted for HypeShell
-- **ID:** `rainDark` **Version:** `0.1.2`
+- **ID:** `rainDark` **Version:** `1.0.0`
 
 ![Rain Dark](themes/rain-dark/preview.svg)
 
@@ -668,7 +723,7 @@ Cozy new Rain based theme for HyDE
 Hot Red based theme
 
 - **Author:** HyDE community, converted for HypeShell
-- **ID:** `redStone` **Version:** `0.1.2`
+- **ID:** `redStone` **Version:** `1.0.0`
 
 ![Red Stone](themes/red-stone/preview.svg)
 
@@ -679,7 +734,7 @@ Hot Red based theme
 Official Theme
 
 - **Author:** HyDE community, converted for HypeShell
-- **ID:** `rosePine` **Version:** `0.1.2`
+- **ID:** `rosePine` **Version:** `1.0.0`
 
 ![Rosé Pine](themes/rose-pine/preview.svg)
 
@@ -690,7 +745,7 @@ Official Theme
 Hot-Red + Deep-Black
 
 - **Author:** HyDE community, converted for HypeShell
-- **ID:** `scarletNight` **Version:** `0.1.2`
+- **ID:** `scarletNight` **Version:** `1.0.0`
 
 ![Scarlet Night](themes/scarlet-night/preview.svg)
 
@@ -701,7 +756,7 @@ Hot-Red + Deep-Black
 Solarized Dark based theme for HyDE
 
 - **Author:** HyDE community, converted for HypeShell
-- **ID:** `solarizedDark` **Version:** `0.1.2`
+- **ID:** `solarizedDark` **Version:** `1.0.0`
 
 ![Solarized Dark](themes/solarized-dark/preview.svg)
 
@@ -712,7 +767,7 @@ Solarized Dark based theme for HyDE
 HyDE theme inspired by the Soulsborne series.
 
 - **Author:** HyDE community, converted for HypeShell
-- **ID:** `soulsborne` **Version:** `0.1.2`
+- **ID:** `soulsborne` **Version:** `1.0.0`
 
 ![Soulsborne](themes/soulsborne/preview.svg)
 
@@ -723,7 +778,7 @@ HyDE theme inspired by the Soulsborne series.
 Official Theme
 
 - **Author:** HyDE community, converted for HypeShell
-- **ID:** `synthWave` **Version:** `0.1.2`
+- **ID:** `synthWave` **Version:** `1.0.0`
 
 ![Synth Wave](themes/synth-wave/preview.svg)
 
@@ -734,7 +789,7 @@ Official Theme
 Maybe, it's all just a dream...
 
 - **Author:** HyDE community, converted for HypeShell
-- **ID:** `timelessDream` **Version:** `0.1.2`
+- **ID:** `timelessDream` **Version:** `1.0.0`
 
 ![Timeless Dream](themes/timeless-dream/preview.svg)
 
@@ -745,7 +800,7 @@ Maybe, it's all just a dream...
 Official Theme
 
 - **Author:** HyDE community, converted for HypeShell
-- **ID:** `tokyoNight` **Version:** `0.1.2`
+- **ID:** `tokyoNight` **Version:** `1.0.0`
 
 ![Tokyo Night](themes/tokyo-night/preview.svg)
 
@@ -756,7 +811,7 @@ Official Theme
 A Soothing, Pastel Tundra Theme.
 
 - **Author:** HyDE community, converted for HypeShell
-- **ID:** `tundra` **Version:** `0.1.2`
+- **ID:** `tundra` **Version:** `1.0.0`
 
 ![Tundra](themes/tundra/preview.svg)
 
@@ -767,20 +822,9 @@ A Soothing, Pastel Tundra Theme.
 Vanta Black inspired theme having the deepest blacks
 
 - **Author:** HyDE community, converted for HypeShell
-- **ID:** `vantaBlack` **Version:** `0.1.2`
+- **ID:** `vantaBlack` **Version:** `1.0.0`
 
 ![Vanta Black](themes/vanta-black/preview.svg)
-
-
-
-### Virtual-Witches
-
-HyDE theme based on Catppuccin Frappe and Virtual Witch Phenomenon
-
-- **Author:** HyDE community, converted for HypeShell
-- **ID:** `virtualWitches` **Version:** `0.1.2`
-
-![Virtual-Witches](themes/virtual-witches/preview.svg)
 
 
 
@@ -789,6 +833,6 @@ HyDE theme based on Catppuccin Frappe and Virtual Witch Phenomenon
 We love Windows! Wew
 
 - **Author:** HyDE community, converted for HypeShell
-- **ID:** `windows11` **Version:** `0.1.2`
+- **ID:** `windows11` **Version:** `1.0.0`
 
 ![Windows 11](themes/windows-11/preview.svg)

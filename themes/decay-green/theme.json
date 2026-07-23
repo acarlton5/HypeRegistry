@@ -1,7 +1,7 @@
 {
   "id": "decayGreen",
   "name": "Decay Green",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "author": "HyDE community, converted for HypeShell",
   "description": "Official Theme",
   "dark": {
@@ -48,12 +48,6 @@
   },
   "wallpapers": [
     {
-      "id": "default",
-      "name": "Default",
-      "path": "wallpapers/default.png",
-      "fillMode": "Fill"
-    },
-    {
       "id": "arcadeDecayRed",
       "name": "Arcade Decay Red",
       "path": "wallpapers/arcade_decay_red.png",
@@ -99,5 +93,5 @@
     "gapsOut": 8,
     "rounding": 20
   },
-  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/decay-green"
+  "repository": "https://github.com/acarlton5/Hype-Theme-Decay-Green.git"
 }

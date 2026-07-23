@@ -1,7 +1,7 @@
 {
   "id": "frostedGlass",
   "name": "Frosted Glass",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "author": "HyDE community, converted for HypeShell",
   "description": "Official Theme",
   "dark": {
@@ -48,12 +48,6 @@
   },
   "wallpapers": [
     {
-      "id": "default",
-      "name": "Default",
-      "path": "wallpapers/default.png",
-      "fillMode": "Fill"
-    },
-    {
       "id": "blueDesert",
       "name": "Blue Desert",
       "path": "wallpapers/blue_desert.png",
@@ -99,5 +93,5 @@
     "gapsOut": 8,
     "rounding": 18
   },
-  "assetBaseUrl": "https://raw.githubusercontent.com/acarlton5/HypeThemeAssets/main/themes/frosted-glass"
+  "repository": "https://github.com/acarlton5/Hype-Theme-Frosted-Glass.git"
 }
