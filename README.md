@@ -44,6 +44,26 @@ Some plugins are created by third-party developers and are not officially suppor
 
 
 
+#### [Codex UI](https://github.com/acarlton5/Hype-Plugin-CodexUI)
+
+Launch Codex as a localhost-only, chromeless development app from HypeBar.
+
+
+
+- id: hypeCodexUI
+- name: Codex UI
+- author: acarlton5
+- compositors: hyprland
+- capabilities: hypebar-widget
+- dependencies: codex, node, npm, curl, chromium
+- distro: any
+
+
+
+
+
+
+
 #### [Phone Companion](https://github.com/acarlton5/Hype-Plugin-PhoneCompanion)
 
 Control connected devices through KDE Connect or Valent: view battery status, send files, find a phone, share clipboard content, and send SMS messages.

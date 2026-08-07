@@ -1,0 +1,15 @@
+{
+    "id": "hypeCodexUI",
+    "name": "Codex UI",
+    "capabilities": ["hypebar-widget"],
+    "category": "utilities",
+    "repo": "https://github.com/acarlton5/Hype-Plugin-CodexUI",
+    "author": "acarlton5",
+    "firstParty": false,
+    "description": "Launch Codex as a localhost-only, chromeless development app from HypeBar.",
+    "dependencies": ["codex", "node", "npm", "curl", "chromium"],
+    "compositors": ["hyprland"],
+    "distro": ["any"],
+    "featured": true,
+    "requires_hype": ">=1.5.0"
+}
